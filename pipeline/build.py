@@ -24,9 +24,16 @@ def indexes(eps):
     prepared.sort(key=lambda x:x['number'],reverse=True)
     write(EPISODE_DIR/'index.json',{'schemaVersion':1,'generatedAt':now(),'episodes':prepared})
     write(DATA_DIR/'catalog.json',{'generatedAt':now(),'episodes':[{k:e.get(k) for k in ('number','title','pubDate','durationSec')} for e in eps[:60]]})
+def needs_blog_rebuild(path,number):
+    try: has_blog=bool(json.loads(path.read_text()).get('blogUrl'))
+    except (OSError,ValueError): return False
+    return not has_blog and fetch_blog(number) is not None
 def build_one(ep,args,lex,mt):
     path=EPISODE_DIR/f"{ep['number']}.json"
-    if path.exists() and args.skip_existing and not args.force: print(f"{ep['number']}: skipped"); return
+    if path.exists() and args.skip_existing and not args.force:
+        # Blog posts often go up weeks after the episode, so re-check episodes built without one.
+        if not needs_blog_rebuild(path,ep['number']): print(f"{ep['number']}: skipped"); return
+        print(f"{ep['number']}: blog post now available, rebuilding")
     transcript=json.loads(open(args.transcript_file,encoding='utf8').read()) if args.transcript_file else transcribe.transcribe(ep,force=False)
     segs=transcript if isinstance(transcript,list) else transcript['segments']
     post=fetch_blog(ep['number']); blog=parse_post(post,lex) if post else []

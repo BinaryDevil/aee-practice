@@ -3,6 +3,8 @@ from html.parser import HTMLParser
 import re
 import json
 import os
+import sys
+import time
 from .paths import CACHE_DIR
 import requests
 
@@ -41,17 +43,37 @@ def parse_post(post, lexicon=None):
     for item in items: item['teacherNote']=' '.join(re.split(r'(?<=[.!?])\s+',item['teacherNote'])[:2])
     return items
 
+API_URL = 'https://www.allearsenglish.com/wp-json/wp/v2/posts'
+USER_AGENT = 'aee-practice/1.0 (fan study app; +https://github.com/BinaryDevil/aee-practice)'
+ATTEMPTS = 3
+
+def _warn(msg): print(f'blog: {msg}', file=sys.stderr)
+
 def fetch_blog(number):
-    path = CACHE_DIR / 'blog' / f'{int(number)}.json'
+    """Return the episode's WordPress post, or None. Hits are cached; misses are not, so a later run can find a new post."""
+    number = int(number)
+    path = CACHE_DIR / 'blog' / f'{number}.json'
     if path.exists(): return json.loads(path.read_text(encoding='utf8'))
     if os.environ.get('AEE_OFFLINE'): return None
-    try:
-        r=requests.get('https://www.allearsenglish.com/wp-json/wp/v2/posts',params={'search':f'AEE {number}','_fields':'id,date,link,title,content'},timeout=5); r.raise_for_status()
-        for post in r.json():
-            title=post.get('title',{}).get('rendered','')
-            if re.search(r'\bAEE\s*'+str(int(number))+r'\b',title,re.I):
-                path.parent.mkdir(parents=True, exist_ok=True)
-                path.write_text(json.dumps(post, ensure_ascii=False), encoding='utf8')
-                return post
-    except (requests.RequestException, ValueError, TypeError): pass
+    params = {'search': f'AEE {number}', '_fields': 'id,date,link,title,content'}
+    for attempt in range(1, ATTEMPTS + 1):
+        try:
+            r = requests.get(API_URL, params=params, headers={'User-Agent': USER_AGENT}, timeout=20)
+            r.raise_for_status()
+            posts = r.json()
+            break
+        except (requests.RequestException, ValueError) as e:
+            _warn(f'AEE {number}: attempt {attempt}/{ATTEMPTS} failed: {e}')
+            if attempt < ATTEMPTS: time.sleep(2 * attempt)
+    else:
+        _warn(f'AEE {number}: giving up; building without blog items')
+        return None
+    if not isinstance(posts, list):
+        _warn(f'AEE {number}: unexpected API response ({type(posts).__name__})'); return None
+    for post in posts:
+        title = (post.get('title') or {}).get('rendered', '') if isinstance(post, dict) else ''
+        if re.search(r'\bAEE\s*' + str(number) + r'\b', title, re.I):
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text(json.dumps(post, ensure_ascii=False), encoding='utf8')
+            return post
     return None

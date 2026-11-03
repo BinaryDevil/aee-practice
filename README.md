@@ -55,6 +55,9 @@ the CI `test` workflow transcribes 2713 first so the real check always runs ther
 ## Workflows
 * **Build latest episodes** — daily cron + manual; builds the 10 newest episodes (skips ones already built), runs the
   published-data tests, commits `data/`, then calls the Pages deploy.
+* Both builds look up the episode's allearsenglish.com blog post (WordPress API) and, when it has numbered
+  "#1: phrase" sections, use those as the taught items. Posts often appear weeks later, so `--skip-existing`
+  re-checks episodes built without one and rebuilds them when a post shows up. Lookup failures are logged as `blog: …`.
 * **Build episode** — manual (`workflow_dispatch`) with an episode number (or several); same steps.
 * **Deploy site to GitHub Pages** — publishes only `index.html`, `assets/`, `data/`.
 * **Tests** — pytest, node tests and the 2713 acceptance check.
