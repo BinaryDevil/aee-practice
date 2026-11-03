@@ -1,4 +1,5 @@
 # Caches: audio, full transcripts, lexicons, models. Never commit these (copyright / size).
+.cache
 .cache/
 cache/
 *.mp3
