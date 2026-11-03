@@ -1,0 +1,594 @@
+{
+  "schemaVersion": 1,
+  "number": 2714,
+  "guid": "ef20a02a-cab2-11f1-9d1f-73d2d6d147ed",
+  "title": "Have You Learned English From a Beloved Teacher?",
+  "subtitle": "Learn the meaning of the word beloved",
+  "pubDate": "2026-11-02T06:00:00",
+  "durationSec": 1156,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE6466342240.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "beloved-adj",
+      "text": "beloved",
+      "display": "beloved (adj.)",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 32,
+      "pos": "adj",
+      "ipa": "/bɪˈlʌvd/",
+      "tags": [],
+      "meaningEn": "Much loved, dearly loved.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "心爱的；心爱的人",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 174.36,
+          "end": 177.02,
+          "sentence": "Some people were like, she was such a beloved character",
+          "sentenceZh": "有些人喜欢, 她是如此可爱的性格",
+          "sentenceZhSource": "mt",
+          "answer": "beloved",
+          "answerStart": 38,
+          "answerEnd": 45,
+          "answerForm": "base"
+        },
+        {
+          "start": 179.5,
+          "end": 181.58,
+          "sentence": "or she was such a beloved person.",
+          "sentenceZh": "或她是如此深爱的人。",
+          "sentenceZhSource": "mt",
+          "answer": "beloved",
+          "answerStart": 18,
+          "answerEnd": 25,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "beloved",
+        "plural": "beloveds"
+      },
+      "examples": [
+        "You are as beloved to me as a puppy dog",
+        "But I found at laſt, by hearing and conſidering of things that are Divine, which indeed I heard of you, as alſo of beloved Faithful, that was put to death for his Faith and good-living in Vanity-fair, That the end of these things is death. [Rom[ans] 6. 21, 22, 23.] And that for theſe things ſake, the wrath of God cometh upon the children of diſobedience. [Eph[esians] 5. 6.]"
+      ],
+      "synonyms": [
+        "beloved",
+        "dear",
+        "favoured",
+        "lief",
+        "lovable",
+        "loved"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "look-forward-to",
+      "text": "look forward to",
+      "display": "look forward to",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "verb",
+      "ipa": "luk ˈfɔ:wəd tu:",
+      "tags": [
+        "idiomatic",
+        "transitive"
+      ],
+      "meaningEn": "To anticipate, expect, or wait for, especially with a feeling of approval or pleasure; to be excited or eager to.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "期待、期待或等待,特别是有赞同感或喜悦感;兴奋或渴望。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "期望；盼望；瞩望",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 195.06,
+          "end": 196.46,
+          "sentence": "I'm really looking forward to it.",
+          "sentenceZh": "我真的很期待它。",
+          "sentenceZhSource": "mt",
+          "answer": "looking forward to",
+          "answerStart": 11,
+          "answerEnd": 29,
+          "answerForm": "ing"
+        },
+        {
+          "start": 310.3,
+          "end": 311.18,
+          "sentence": "I'm looking forward to this.",
+          "sentenceZh": "我很期待这一点。",
+          "sentenceZhSource": "mt",
+          "answer": "looking forward to",
+          "answerStart": 4,
+          "answerEnd": 22,
+          "answerForm": "ing"
+        }
+      ],
+      "inflections": {
+        "base": "look forward to",
+        "past": "looked forward to",
+        "ing": "looking forward to",
+        "s3": "looks forward to",
+        "pp": "looked forward to",
+        "plural": "looks forward to"
+      },
+      "examples": [
+        "He was not looking forward to having to repair the downed power lines after the wind storm.",
+        "1794 November 19, George Washington, speech, George Washington's Sixth State of the Union Address,\nWhen we call to mind the gracious indulgence of Heaven by which the American people became a nation; when we survey the general prosperity of our country, and look forward to the riches, power, and happiness to which it seems destined, with the deepest regret do I announce to you that during your recess some of the citizens of the United States have been found capable of insurrection."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    }
+  ],
+  "distractors": [
+    {
+      "text": "look on the black side",
+      "pos": "verb",
+      "meaningEn": "To examine a situation, usually unfavorable, from a negative perspective; to be pessimistic or miserable.",
+      "meaningZh": "从消极的角度审查一种通常不受欢迎的情况;悲观或悲惨。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look on the black side",
+        "past": "looked on the black side",
+        "ing": "looking on the black side",
+        "s3": "looks on the black side",
+        "pp": "looked on the black side",
+        "plural": "looks on the black side"
+      }
+    },
+    {
+      "text": "look one's best",
+      "pos": "verb",
+      "meaningEn": "To have one's best possible appearance.",
+      "meaningZh": "拥有最好的外表",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look one's best",
+        "past": "looked one's best",
+        "ing": "looking one's best",
+        "s3": "looks one's best",
+        "pp": "looked one's best",
+        "plural": "looks one's best"
+      }
+    },
+    {
+      "text": "look for",
+      "pos": "verb",
+      "meaningEn": "To seek, to try to find.",
+      "meaningZh": "寻找,试图寻找。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look for",
+        "past": "looked for",
+        "ing": "looking for",
+        "s3": "looks for",
+        "pp": "looked for",
+        "plural": "looks for"
+      }
+    },
+    {
+      "text": "look into",
+      "pos": "verb",
+      "meaningEn": "To investigate, explore, or consider.",
+      "meaningZh": "调查、探索或考虑。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look into",
+        "past": "looked into",
+        "ing": "looking into",
+        "s3": "looks into",
+        "pp": "looked into",
+        "plural": "looks into"
+      }
+    },
+    {
+      "text": "look upon",
+      "pos": "verb",
+      "meaningEn": "To consider or regard something in a specific manner.",
+      "meaningZh": "以具体的方式考虑或考虑某事。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look upon",
+        "past": "looked upon",
+        "ing": "looking upon",
+        "s3": "looks upon",
+        "pp": "looked upon",
+        "plural": "looks upon"
+      }
+    },
+    {
+      "text": "look like who did it and ran",
+      "pos": "verb",
+      "meaningEn": "To appear messy or dishevelled.",
+      "meaningZh": "看上去乱七八糟的",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look like who did it and ran",
+        "past": "looked like who did it and ran",
+        "ing": "looking like who did it and ran",
+        "s3": "looks like who did it and ran",
+        "pp": "looked like who did it and ran",
+        "plural": "looks like who did it and ran"
+      }
+    },
+    {
+      "text": "look ahead",
+      "pos": "verb",
+      "meaningEn": "To consider the future, to anticipate future events.",
+      "meaningZh": "审议未来,预测未来事件。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look ahead",
+        "past": "looked ahead",
+        "ing": "looking ahead",
+        "s3": "looks ahead",
+        "pp": "looked ahead",
+        "plural": "looks ahead"
+      }
+    },
+    {
+      "text": "look out for number one",
+      "pos": "verb",
+      "meaningEn": "To act in one's own interests; to act in a manner advantageous primarily to oneself.",
+      "meaningZh": "以自己的利益行事;以主要对自己有利的方式行事。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look out for number one",
+        "past": "looked out for number one",
+        "ing": "looking out for number one",
+        "s3": "looks out for number one",
+        "pp": "looked out for number one",
+        "plural": "looks out for number one"
+      }
+    },
+    {
+      "text": "look for a dog to kick",
+      "pos": "verb",
+      "meaningEn": "To seek someone or something to blame.",
+      "meaningZh": "找人或东西 责怪。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look for a dog to kick",
+        "past": "looked for a dog to kick",
+        "ing": "looking for a dog to kick",
+        "s3": "looks for a dog to kick",
+        "pp": "looked for a dog to kick",
+        "plural": "looks for a dog to kick"
+      }
+    },
+    {
+      "text": "look after",
+      "pos": "verb",
+      "meaningEn": "To follow with the eyes; to look in the direction of.",
+      "meaningZh": "以眼睛跟随; 看着方向。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look after",
+        "past": "looked after",
+        "ing": "looking after",
+        "s3": "looks after",
+        "pp": "looked after",
+        "plural": "looks after"
+      }
+    },
+    {
+      "text": "look past",
+      "pos": "verb",
+      "meaningEn": "To see potential beyond obvious flaws; to consider something more than something else.",
+      "meaningZh": "超越明显的缺陷,看到潜力;考虑更多事情,而不是其他事情。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look past",
+        "past": "looked past",
+        "ing": "looking past",
+        "s3": "looks past",
+        "pp": "looked past",
+        "plural": "looks past"
+      }
+    },
+    {
+      "text": "look in the face",
+      "pos": "verb",
+      "meaningEn": "To confront with courage, without fear.",
+      "meaningZh": "勇敢无畏地面对",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look in the face",
+        "past": "looked in the face",
+        "ing": "looking in the face",
+        "s3": "looks in the face",
+        "pp": "looked in the face",
+        "plural": "looks in the face"
+      }
+    },
+    {
+      "text": "look up to",
+      "pos": "verb",
+      "meaningEn": "To show respect or admiration for; to see as a role model.",
+      "meaningZh": "表示尊重或钦佩;树立榜样。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look up to",
+        "past": "looked up to",
+        "ing": "looking up to",
+        "s3": "looks up to",
+        "pp": "looked up to",
+        "plural": "looks up to"
+      }
+    },
+    {
+      "text": "look through one's fingers",
+      "pos": "verb",
+      "meaningEn": "To deliberately ignore, overlook, or turn a blind eye to someone's mistake or misconduct, rather than taking corrective action.",
+      "meaningZh": "故意忽视、忽视或对某人的错误或不当行为视而不见,而不是采取纠正行动。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look through one's fingers",
+        "past": "looked through one's fingers",
+        "ing": "looking through one's fingers",
+        "s3": "looks through one's fingers",
+        "pp": "looked through one's fingers",
+        "plural": "looks through one's fingers"
+      }
+    },
+    {
+      "text": "look the other way",
+      "pos": "verb",
+      "meaningEn": "To ignore something wrong; to turn a blind eye to something; to connive at something.",
+      "meaningZh": "忽视错误的东西;对某事视而不见;对某事进行欺骗。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look the other way",
+        "past": "looked the other way",
+        "ing": "looking the other way",
+        "s3": "looks the other way",
+        "pp": "looked the other way",
+        "plural": "looks the other way"
+      }
+    },
+    {
+      "text": "look off",
+      "pos": "verb",
+      "meaningEn": "To put off by one's facial expression",
+      "meaningZh": "被面部的表情拖住",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look off",
+        "past": "looked off",
+        "ing": "looking off",
+        "s3": "looks off",
+        "pp": "looked off",
+        "plural": "looks off"
+      }
+    },
+    {
+      "text": "look ahead to",
+      "pos": "verb",
+      "meaningEn": "To plan for the future; to look forward to something; to be excited for something happening in the future.",
+      "meaningZh": "规划未来;期待某事;为将来发生的事情感到兴奋。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look ahead to",
+        "past": "looked ahead to",
+        "ing": "looking ahead to",
+        "s3": "looks ahead to",
+        "pp": "looked ahead to",
+        "plural": "looks ahead to"
+      }
+    },
+    {
+      "text": "look shy",
+      "pos": "verb",
+      "meaningEn": "To cast a suspicious glance on or at somebody; to mistrust.",
+      "meaningZh": "对某个人或某个人进行可疑的观察;不信任。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look shy",
+        "past": "looked shy",
+        "ing": "looking shy",
+        "s3": "looks shy",
+        "pp": "looked shy",
+        "plural": "looks shy"
+      }
+    },
+    {
+      "text": "look a fright",
+      "pos": "verb",
+      "meaningEn": "To look terrible, to look very dishevelled.",
+      "meaningZh": "看上去糟透了 脸色很丑陋",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look a fright",
+        "past": "looked a fright",
+        "ing": "looking a fright",
+        "s3": "looks a fright",
+        "pp": "looked a fright",
+        "plural": "looks a fright"
+      }
+    },
+    {
+      "text": "look right through",
+      "pos": "verb",
+      "meaningEn": "To deliberately ignore someone by acting as if they are invisible.",
+      "meaningZh": "故意无视某人,表现得好像看不见一样。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look right through",
+        "past": "looked right through",
+        "ing": "looking right through",
+        "s3": "looks right through",
+        "pp": "looked right through",
+        "plural": "looks right through"
+      }
+    },
+    {
+      "text": "look over",
+      "pos": "verb",
+      "meaningEn": "To check quickly; to make a brief or cursory visual inspection of.",
+      "meaningZh": "快速检查; 进行简短或粗略的视觉检查。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look over",
+        "past": "looked over",
+        "ing": "looking over",
+        "s3": "looks over",
+        "pp": "looked over",
+        "plural": "looks over"
+      }
+    },
+    {
+      "text": "look on",
+      "pos": "verb",
+      "meaningEn": "To watch; to observe without participating.",
+      "meaningZh": "观看;观察,不参加。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look on",
+        "past": "looked on",
+        "ing": "looking on",
+        "s3": "looks on",
+        "pp": "looked on",
+        "plural": "looks on"
+      }
+    },
+    {
+      "text": "look around",
+      "pos": "verb",
+      "meaningEn": "To inspect a building or area.",
+      "meaningZh": "检查建筑物或地区。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look around",
+        "past": "looked around",
+        "ing": "looking around",
+        "s3": "looks around",
+        "pp": "looked around",
+        "plural": "looks around"
+      }
+    },
+    {
+      "text": "look daggers",
+      "pos": "verb",
+      "meaningEn": "Often followed by at: to stare in a disapproving, severe, or threatening manner, especially without speaking.",
+      "meaningZh": "通常随后是:目瞪口呆,不赞成、严厉或威胁,特别是不说话。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look daggers",
+        "past": "looked daggers",
+        "ing": "looking daggers",
+        "s3": "looks daggers",
+        "pp": "looked daggers",
+        "plural": "looks daggers"
+      }
+    },
+    {
+      "text": "look before one leaps",
+      "pos": "verb",
+      "meaningEn": "To think before taking action.",
+      "meaningZh": "在采取行动之前先思考。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look before one leaps",
+        "past": "looked before one leaps",
+        "ing": "looking before one leaps",
+        "s3": "looks before one leaps",
+        "pp": "looked before one leaps",
+        "plural": "looks before one leaps"
+      }
+    },
+    {
+      "text": "look alike",
+      "pos": "verb",
+      "meaningEn": "Of multiple things or people, to have a similar visual appearance.",
+      "meaningZh": "各种各样的事物或人, 具有相似的视觉外观。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look alike",
+        "past": "looked alike",
+        "ing": "looking alike",
+        "s3": "looks alike",
+        "pp": "looked alike",
+        "plural": "looks alike"
+      }
+    },
+    {
+      "text": "look askance",
+      "pos": "verb",
+      "meaningEn": "To express doubt.",
+      "meaningZh": "表示怀疑。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look askance",
+        "past": "looked askance",
+        "ing": "looking askance",
+        "s3": "looks askance",
+        "pp": "looked askance",
+        "plural": "looks askance"
+      }
+    },
+    {
+      "text": "look one's age",
+      "pos": "verb",
+      "meaningEn": "To look as old as one actually is.",
+      "meaningZh": "长得跟以前一样老",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look one's age",
+        "past": "looked one's age",
+        "ing": "looking one's age",
+        "s3": "looks one's age",
+        "pp": "looked one's age",
+        "plural": "looks one's age"
+      }
+    },
+    {
+      "text": "look on as",
+      "pos": "verb",
+      "meaningEn": "To treat someone in a particular role; to consider someone in a particular way.",
+      "meaningZh": "以特殊的角色对待某人;以特殊的方式看待某人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look on as",
+        "past": "looked on as",
+        "ing": "looking on as",
+        "s3": "looks on as",
+        "pp": "looked on as",
+        "plural": "looks on as"
+      }
+    },
+    {
+      "text": "look in on",
+      "pos": "verb",
+      "meaningEn": "To check that is okay or that a process is continuing appropriately; to check up on; to monitor through brief, often surreptitious checks.",
+      "meaningZh": "检查是否可以,或者一个过程是否在适当继续;检查;通过简短、往往是隐蔽的检查进行监测。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "look in on",
+        "past": "looked in on",
+        "ing": "looking in on",
+        "s3": "looks in on",
+        "pp": "looked in on",
+        "plural": "looks in on"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T09:25:12.814785Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

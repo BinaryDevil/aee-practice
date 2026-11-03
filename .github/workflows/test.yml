@@ -1,0 +1,35 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  frontend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Quiz engine + explanation unit tests
+        run: node --test tests/js/
+
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup-pipeline
+      # Transcripts are never committed (copyright), so CI transcribes ep 2713 from the official
+      # MP3 with faster-whisper small.en and runs the AC-1 acceptance test on that transcript.
+      # The transcript only lives in the runner's .cache/ and is discarded with the runner.
+      - name: Transcribe AEE 2713 for the acceptance test
+        run: python -m pipeline.transcribe 2713
+      - name: Pipeline tests (incl. AC-1 acceptance on ep 2713)
+        run: python -m pytest -q tests/

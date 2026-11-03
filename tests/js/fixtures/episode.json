@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "number": 2713,
+  "guid": "fixture",
+  "title": "Take a Crack at These English Phrases",
+  "pubDate": "2026-11-03",
+  "durationSec": 1008,
+  "audioUrl": "https://example.com/official.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/",
+  "items": [
+    {
+      "id": "crack",
+      "text": "crack",
+      "display": "crack",
+      "kind": "word",
+      "origin": "transcript",
+      "pos": "adj",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "expert",
+      "meaningZh": "技术高超的",
+      "meaningZhSource": "mt",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 12,
+          "end": 16,
+          "sentence": "She is a crack lawyer.",
+          "sentenceZh": "这是一句节目中的例句。",
+          "sentenceZhSource": "mt",
+          "answer": "crack",
+          "answerStart": 9,
+          "answerEnd": 14,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "crack",
+        "past": "cracked"
+      },
+      "synonyms": []
+    },
+    {
+      "id": "take-a-crack-at",
+      "text": "take a crack at",
+      "display": "take a crack at",
+      "kind": "expression",
+      "origin": "transcript",
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "attempt a difficult task",
+      "meaningZh": "尝试困难的事情",
+      "meaningZhSource": "mt",
+      "teacherNote": "Use it when offering to try.",
+      "occurrences": [
+        {
+          "start": 22,
+          "end": 26,
+          "sentence": "I took a crack at it.",
+          "sentenceZh": "这是一句节目中的例句。",
+          "sentenceZhSource": "mt",
+          "answer": "took a crack at",
+          "answerStart": 2,
+          "answerEnd": 17,
+          "answerForm": "past"
+        }
+      ],
+      "inflections": {
+        "base": "take a crack at",
+        "past": "took a crack at"
+      },
+      "synonyms": [
+        "take a stab at"
+      ]
+    },
+    {
+      "id": "crack-a-joke",
+      "text": "crack a joke",
+      "display": "crack a joke",
+      "kind": "expression",
+      "origin": "transcript",
+      "pos": "verb",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "tell something funny",
+      "meaningZh": "讲笑话",
+      "meaningZhSource": "mt",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 32,
+          "end": 36,
+          "sentence": "He cracked a joke yesterday.",
+          "sentenceZh": "这是一句节目中的例句。",
+          "sentenceZhSource": "mt",
+          "answer": "cracked a joke",
+          "answerStart": 3,
+          "answerEnd": 17,
+          "answerForm": "past"
+        }
+      ],
+      "inflections": {
+        "base": "crack a joke",
+        "past": "cracked a joke"
+      },
+      "synonyms": []
+    },
+    {
+      "id": "crack-up",
+      "text": "crack up",
+      "display": "crack up",
+      "kind": "expression",
+      "origin": "transcript",
+      "pos": "verb",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "laugh heartily",
+      "meaningZh": "开怀大笑",
+      "meaningZhSource": "mt",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 42,
+          "end": 46,
+          "sentence": "We cracked up together.",
+          "sentenceZh": "这是一句节目中的例句。",
+          "sentenceZhSource": "mt",
+          "answer": "cracked up",
+          "answerStart": 3,
+          "answerEnd": 13,
+          "answerForm": "past"
+        }
+      ],
+      "inflections": {
+        "base": "crack up",
+        "past": "cracked up"
+      },
+      "synonyms": []
+    },
+    {
+      "id": "humility",
+      "text": "humility",
+      "display": "humility",
+      "kind": "word",
+      "origin": "transcript",
+      "pos": "noun",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "a modest view of oneself",
+      "meaningZh": "谦逊",
+      "meaningZhSource": "mt",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 52,
+          "end": 56,
+          "sentence": "Humility helps us learn.",
+          "sentenceZh": "这是一句节目中的例句。",
+          "sentenceZhSource": "mt",
+          "answer": "Humility",
+          "answerStart": 0,
+          "answerEnd": 8,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "humility",
+        "past": "humilityed"
+      },
+      "synonyms": []
+    },
+    {
+      "id": "clarity",
+      "text": "clarity",
+      "display": "clarity",
+      "kind": "word",
+      "origin": "transcript",
+      "pos": "noun",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "the quality of being clear",
+      "meaningZh": "清晰",
+      "meaningZhSource": "mt",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 62,
+          "end": 66,
+          "sentence": "Clarity is valuable.",
+          "sentenceZh": "这是一句节目中的例句。",
+          "sentenceZhSource": "mt",
+          "answer": "Clarity",
+          "answerStart": 0,
+          "answerEnd": 7,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "clarity",
+        "past": "clarityed"
+      },
+      "synonyms": []
+    }
+  ],
+  "distractors": [
+    {
+      "text": "crack down",
+      "pos": "verb",
+      "meaningEn": "enforce rules strictly",
+      "meaningZh": "严厉打击",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack down",
+        "past": "cracked down"
+      }
+    },
+    {
+      "text": "crack open",
+      "pos": "verb",
+      "meaningEn": "open something by force",
+      "meaningZh": "砸开",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack open",
+        "past": "cracked open"
+      }
+    },
+    {
+      "text": "take a stab at",
+      "pos": "verb",
+      "meaningEn": "attempt something",
+      "meaningZh": "试一试",
+      "inflections": {
+        "past": "took a stab at"
+      }
+    }
+  ]
+}

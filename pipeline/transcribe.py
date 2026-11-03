@@ -45,6 +45,29 @@ def get_model():
     return _model
 
 
+ATTEMPTS = [
+    dict(beam_size=1, vad_filter=True),
+    dict(beam_size=1, vad_filter=False),
+    dict(beam_size=5, vad_filter=True, temperature=0.0),
+]
+
+
+def _seg(s):
+    return {'start': round(s.start, 2), 'end': round(s.end, 2), 'text': s.text.strip(),
+            'avg_logprob': round(s.avg_logprob, 3), 'no_speech_prob': round(s.no_speech_prob, 3),
+            'words': [[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]}
+
+
+# Healthy AEE transcripts run ~140-160 words/min; a degraded decode was observed at ~120.
+MIN_WORDS_PER_MIN = 130
+
+
+def coverage_ok(segments, duration_sec):
+    """Podcast speech runs ~150 words/min; a derailed decode yields far fewer words."""
+    words = sum(len(s['text'].split()) for s in segments)
+    return duration_sec <= 0 or words / (duration_sec / 60) >= MIN_WORDS_PER_MIN
+
+
 def transcribe(ep, force=False):
     """Return {'source','model','segments':[{start,end,text,avg_logprob,no_speech_prob}],...}."""
     TRANSCRIPT_DIR.mkdir(parents=True, exist_ok=True)
@@ -54,13 +77,22 @@ def transcribe(ep, force=False):
     audio = download_audio(ep)
     t0 = time.time()
     pcm = decode_pcm(audio)
-    segs, info = get_model().transcribe(pcm, beam_size=1, vad_filter=True, language='en')
-    segments = [{'start': round(s.start, 2), 'end': round(s.end, 2), 'text': s.text.strip(),
-                 'avg_logprob': round(s.avg_logprob, 3), 'no_speech_prob': round(s.no_speech_prob, 3)}
-                for s in segs]
+    segments, attempt, ok = None, None, False
+    # Same settings as the tested prototype (beam 1 + VAD). Whisper occasionally derails on a long
+    # episode (skips minutes of speech); detect that by word coverage and retry with other settings.
+    for attempt, kw in enumerate(ATTEMPTS):
+        segs, info = get_model().transcribe(pcm, word_timestamps=True, **kw)
+        segments = [_seg(s) for s in segs]
+        if coverage_ok(segments, len(pcm) / 16000):
+            ok = True
+            break
+    if not ok:
+        # Never cache or publish from a derailed transcript.
+        raise RuntimeError(f"{ep['number']}: transcript coverage too low after {len(ATTEMPTS)} attempts")
     data = {'source': f'whisper:{WHISPER_MODEL}', 'number': ep['number'], 'guid': ep['guid'],
             'audioUrl': ep['audioUrl'], 'audioBytes': audio.stat().st_size,
-            'audioDurationSec': round(len(pcm) / 16000, 2), 'elapsedSec': round(time.time() - t0, 1),
+            'audioDurationSec': round(len(pcm) / 16000, 2), 'elapsedSec': round(time.time() - t0, 1), 'attempt': attempt,
+            'wordsPerMin': round(sum(len(x['text'].split()) for x in segments) / (len(pcm) / 16000 / 60), 1),
             'segments': segments}
     out_path.write_text(json.dumps(data, ensure_ascii=False, indent=0))
     return data

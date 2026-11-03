@@ -1,5 +1,6 @@
 """Official All Ears English RSS (Megaphone) -> episode metadata."""
 import re
+from datetime import datetime
 import time
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -44,7 +45,9 @@ def parse_feed(xml_bytes):
         num = it.findtext(ITUNES + 'episode')
         m = re.match(r'^AEE\s*(\d+)\s*[:\-]\s*(.*)$', title)
         if m:
-            num = num or m.group(1)
+            # The title number is the one listeners know; itunes:episode is wrong for some items
+            # (e.g. "AEE 2299" tagged as episode 2999).
+            num = m.group(1)
             clean = m.group(2).strip()
         else:
             clean = title
@@ -56,7 +59,6 @@ def parse_feed(xml_bytes):
         enc = it.find('enclosure')
         pub = it.findtext('pubDate')
         try:
-            pub_iso = parsedate_to_datetime(pub).astimezone().strftime('%Y-%m-%dT%H:%M:%SZ') if pub else None
             pub_iso = parsedate_to_datetime(pub).strftime('%Y-%m-%dT%H:%M:%S%z') if pub else None
         except (TypeError, ValueError):
             pub_iso = None
@@ -71,15 +73,22 @@ def parse_feed(xml_bytes):
             'audioUrl': enc.get('url') if enc is not None else None,
             'link': (it.findtext('link') or '').strip() or None,
         })
-    # newest first, de-duplicate by number (keep first = newest)
+    # newest first by publication date, de-duplicate by number (keep the newest)
+    out.sort(key=lambda e: (e['pubDate'] is not None, _ts(e['pubDate']), e['number']), reverse=True)
     seen, uniq = set(), []
     for e in out:
         if e['number'] in seen:
             continue
         seen.add(e['number'])
         uniq.append(e)
-    uniq.sort(key=lambda e: e['number'], reverse=True)
     return uniq
+
+
+def _ts(iso):
+    try:
+        return datetime.fromisoformat(iso).timestamp()
+    except (TypeError, ValueError):
+        return 0.0
 
 
 def episodes(max_age_s=3600):

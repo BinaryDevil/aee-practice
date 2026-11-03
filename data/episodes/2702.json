@@ -1,0 +1,708 @@
+{
+  "schemaVersion": 1,
+  "number": 2702,
+  "guid": "ab8c190e-bb06-11f1-a7b8-839410de6b8c",
+  "title": "Have the Last Laugh With These English Idioms",
+  "subtitle": "",
+  "pubDate": "2026-10-12T05:00:00",
+  "durationSec": 1076,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE2494556127.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "have-the-last-laugh",
+      "text": "have the last laugh",
+      "display": "have the last laugh",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 32,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To be vindicated; to triumph despite predicted failure; to find success after defeat or setback.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "得到伸张;在预测失败的情况下取得胜利;在失败或挫折之后取得成功。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "笑在最后",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 537.33,
+          "end": 539.23,
+          "sentence": "What about have the last laugh?",
+          "sentenceZh": "那最后的笑声呢?",
+          "sentenceZhSource": "mt",
+          "answer": "have the last laugh",
+          "answerStart": 11,
+          "answerEnd": 30,
+          "answerForm": "base"
+        },
+        {
+          "start": 554.29,
+          "end": 555.97,
+          "sentence": "So I guess he had the last laugh.",
+          "sentenceZh": "我猜他最后笑了",
+          "sentenceZhSource": "mt",
+          "answer": "had the last laugh",
+          "answerStart": 14,
+          "answerEnd": 32,
+          "answerForm": "past"
+        }
+      ],
+      "inflections": {
+        "base": "have the last laugh",
+        "ing": "having the last laugh",
+        "past": "had the last laugh",
+        "s3": "has the last laugh",
+        "pp": "had the last laugh"
+      },
+      "examples": [
+        "The author had the last laugh over the publishers who had rejected her now best-selling book."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "laugh-off",
+      "text": "laugh off",
+      "display": "laugh off",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 28,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "transitive"
+      ],
+      "meaningEn": "To respond to lightheartedly, as though it were a joke.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "如此轻柔地回应 仿佛这是个玩笑",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "用笑摆脱",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 55.88,
+          "end": 59.46,
+          "sentence": "and get four ways to talk about laughing it off in English.",
+          "sentenceZh": "并获得四种方式 谈论 嘲笑它用英语。",
+          "sentenceZhSource": "mt",
+          "answer": "laughing it off",
+          "answerStart": 32,
+          "answerEnd": 47,
+          "answerForm": "other"
+        },
+        {
+          "start": 310.83,
+          "end": 316.67,
+          "sentence": "If you can laugh it off, if you can, you know, use maybe one of these phrases, then it",
+          "sentenceZh": "如果你能取笑它,如果你能,你知道, 使用其中的一个词,然后它",
+          "sentenceZhSource": "mt",
+          "answer": "laugh it off",
+          "answerStart": 11,
+          "answerEnd": 23,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "laugh off",
+        "past": "laughed off",
+        "ing": "laughing off",
+        "s3": "laughs off",
+        "pp": "laughed off",
+        "plural": "laughs off"
+      },
+      "examples": [
+        "[…] The landowner, Gennaro Matrone, had a hunch that these were the remains of Pliny the Elder (the Younger wrote of his uncle’s body lying as if asleep on the day after the eruption), but his theory was laughed off in the press.",
+        "Across Mr. Trump’s administration, racist images and slogans have become common on official government websites and social media accounts […]. The White House usually responds to criticism about such things by laughing it off."
+      ],
+      "synonyms": [
+        "laugh away"
+      ],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "pull-someone-s-leg",
+      "text": "pull someone's leg",
+      "display": "pull someone's leg",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To tease someone; to lead someone on; to goad someone into overreacting.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "取笑某人;引领某人上;诱使某人过度反应。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "愚弄；耍弄；取笑",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 450.93,
+          "end": 454.57,
+          "sentence": "Let's jump to our second one here, which is pull someone's leg.",
+          "sentenceZh": "让我们跳到第二个在这里, 就是拉别人的腿。",
+          "sentenceZhSource": "mt",
+          "answer": "pull someone's leg",
+          "answerStart": 44,
+          "answerEnd": 62,
+          "answerForm": "base"
+        },
+        {
+          "start": 466.13,
+          "end": 466.93,
+          "sentence": "pull their leg.",
+          "sentenceZh": "拉他们的腿。",
+          "sentenceZhSource": "mt",
+          "answer": "pull their leg",
+          "answerStart": 0,
+          "answerEnd": 14,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "pull someone's leg",
+        "past": "pulled someone's leg",
+        "ing": "pulling someone's leg",
+        "pp": "pulled someone's leg",
+        "s3": "pulls someone's leg",
+        "plural": "pulls someone's leg"
+      },
+      "examples": [
+        "I hadn't pulled Mrs. Barstow's leg for any of that stuff, she had just handed it to me on a platter, and that wasn't my fault.",
+        "No, I'm just pulling your leg, it's crucifixion really."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "egg-on-one-s-face",
+      "text": "egg on one's face",
+      "display": "egg on one's face",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 9,
+      "pos": "noun",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "Embarrassment or humiliation; damage to one's reputation.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "羞辱或侮辱;损害个人名誉。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 964.36,
+          "end": 968.02,
+          "sentence": "And then I have egg on my face if I don't pay for it.",
+          "sentenceZh": "如果我不付钱 我脸上还有鸡蛋",
+          "sentenceZhSource": "mt",
+          "answer": "egg on my face",
+          "answerStart": 16,
+          "answerEnd": 30,
+          "answerForm": "other"
+        },
+        {
+          "start": 968.26,
+          "end": 971.84,
+          "sentence": "That's a fun, a couple of interesting phrases here to have egg on your face means you're",
+          "sentenceZh": "这很有趣, 几个有趣的词在这里 有鸡蛋在你的脸上 意味着你",
+          "sentenceZhSource": "mt",
+          "answer": "egg on your face",
+          "answerStart": 59,
+          "answerEnd": 75,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "egg on one's face",
+        "plural": "eggs on one's face",
+        "past": "egged on one's face",
+        "ing": "egging on one's face",
+        "s3": "eggs on one's face",
+        "pp": "egged on one's face"
+      },
+      "examples": [
+        "He really has egg on his face after that gaffe.",
+        "I hope the bishop of Hereford comes out of this with a great deal of egg on his face."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 4
+    }
+  ],
+  "distractors": [
+    {
+      "text": "face like a fiddle",
+      "pos": "noun",
+      "meaningEn": "A long face; a melancholy expression.",
+      "meaningZh": "长长的脸孔,忧郁的表情。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face like a fiddle",
+        "ing": "facing like a fiddle",
+        "plural": "faces like a fiddle",
+        "pp": "faced like a fiddle",
+        "past": "faced like a fiddle",
+        "s3": "faces like a fiddle"
+      }
+    },
+    {
+      "text": "face powder",
+      "pos": "noun",
+      "meaningEn": "A cosmetic made from coloured talc, applied to the face.",
+      "meaningZh": "用彩色口服制成的化妆品,贴在脸上。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face powder",
+        "ing": "facing powder",
+        "plural": "faces powder",
+        "pp": "faced powder",
+        "past": "faced powder",
+        "s3": "faces powder"
+      }
+    },
+    {
+      "text": "face artist",
+      "pos": "noun",
+      "meaningEn": "Someone who performs oral sex.",
+      "meaningZh": "口交的人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face artist",
+        "ing": "facing artist",
+        "plural": "faces artist",
+        "pp": "faced artist",
+        "past": "faced artist",
+        "s3": "faces artist"
+      }
+    },
+    {
+      "text": "face the music",
+      "pos": "verb",
+      "meaningEn": "To accept or confront the unpleasant consequences of one's actions.",
+      "meaningZh": "接受或面对自己行为带来的不愉快后果。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face the music",
+        "ing": "facing the music",
+        "plural": "faces the music",
+        "pp": "faced the music",
+        "past": "faced the music",
+        "s3": "faces the music"
+      }
+    },
+    {
+      "text": "face card",
+      "pos": "noun",
+      "meaningEn": "The figurative photocard of a person’s face, typically one that is attractive, premium, or praiseworthy.",
+      "meaningZh": "个人面孔的比喻照片卡,通常有吸引力、优雅或值得称道。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face card",
+        "ing": "facing card",
+        "plural": "faces card",
+        "pp": "faced card",
+        "past": "faced card",
+        "s3": "faces card"
+      }
+    },
+    {
+      "text": "face reveals",
+      "pos": "verb",
+      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
+      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face reveals",
+        "ing": "facing reveals",
+        "plural": "faces reveals",
+        "pp": "faced reveals",
+        "past": "faced reveals",
+        "s3": "faces reveals"
+      }
+    },
+    {
+      "text": "face off",
+      "pos": "verb",
+      "meaningEn": "To confront.",
+      "meaningZh": "对抗。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face off",
+        "ing": "facing off",
+        "plural": "faces off",
+        "pp": "faced off",
+        "past": "faced off",
+        "s3": "faces off"
+      }
+    },
+    {
+      "text": "face tanked",
+      "pos": "verb",
+      "meaningEn": "To absorb damage directly, especially in an unsophisticated or unskillful way.",
+      "meaningZh": "直接吸收损害,尤其是以不精细或不熟练的方式吸收损害。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face tanked",
+        "ing": "facing tanked",
+        "plural": "faces tanked",
+        "pp": "faced tanked",
+        "past": "faced tanked",
+        "s3": "faces tanked"
+      }
+    },
+    {
+      "text": "face ague",
+      "pos": "noun",
+      "meaningEn": "Trigeminal neuralgia.",
+      "meaningZh": "三角神经。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face ague",
+        "ing": "facing ague",
+        "plural": "faces ague",
+        "pp": "faced ague",
+        "past": "faced ague",
+        "s3": "faces ague"
+      }
+    },
+    {
+      "text": "face reveal",
+      "pos": "noun",
+      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
+      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face reveal",
+        "ing": "facing reveal",
+        "plural": "faces reveal",
+        "pp": "faced reveal",
+        "past": "faced reveal",
+        "s3": "faces reveal"
+      }
+    },
+    {
+      "text": "face tank",
+      "pos": "verb",
+      "meaningEn": "To absorb damage directly, especially in an unsophisticated or unskillful way.",
+      "meaningZh": "直接吸收损害,尤其是以不精细或不熟练的方式吸收损害。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face tank",
+        "ing": "facing tank",
+        "plural": "faces tank",
+        "pp": "faced tank",
+        "past": "faced tank",
+        "s3": "faces tank"
+      }
+    },
+    {
+      "text": "face palms",
+      "pos": "verb",
+      "meaningEn": "Alternative spelling of facepalm.",
+      "meaningZh": "面骨的替代拼写。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face palms",
+        "ing": "facing palms",
+        "plural": "faces palms",
+        "pp": "faced palms",
+        "past": "faced palms",
+        "s3": "faces palms"
+      }
+    },
+    {
+      "text": "face tanking",
+      "pos": "verb",
+      "meaningEn": "To absorb damage directly, especially in an unsophisticated or unskillful way.",
+      "meaningZh": "直接吸收损害,尤其是以不精细或不熟练的方式吸收损害。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face tanking",
+        "ing": "facing tanking",
+        "plural": "faces tanking",
+        "pp": "faced tanking",
+        "past": "faced tanking",
+        "s3": "faces tanking"
+      }
+    },
+    {
+      "text": "face fucks",
+      "pos": "verb",
+      "meaningEn": "third-person singular simple present indicative of face fuck",
+      "meaningZh": "单一简单表情表示脸部性交",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face fucks",
+        "ing": "facing fucks",
+        "plural": "faces fucks",
+        "pp": "faced fucks",
+        "past": "faced fucks",
+        "s3": "faces fucks"
+      }
+    },
+    {
+      "text": "face piece",
+      "pos": "noun",
+      "meaningEn": "The part of a respirator or gas mask that covers the nose, mouth, and sometimes the eyes.",
+      "meaningZh": "呼吸器或防毒面具的部分 覆盖鼻子,嘴,有时是眼睛。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face piece",
+        "ing": "facing piece",
+        "plural": "faces piece",
+        "pp": "faced piece",
+        "past": "faced piece",
+        "s3": "faces piece"
+      }
+    },
+    {
+      "text": "face job",
+      "pos": "noun",
+      "meaningEn": "A plastic surgical procedure to alter the appearance of the face, particularly for cosmetic reasons.",
+      "meaningZh": "整形外科手术,以改变面部的外貌,特别是为了化妆。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face job",
+        "ing": "facing job",
+        "plural": "faces job",
+        "pp": "faced job",
+        "past": "faced job",
+        "s3": "faces job"
+      }
+    },
+    {
+      "text": "face revealing",
+      "pos": "verb",
+      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
+      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face revealing",
+        "ing": "facing revealing",
+        "plural": "faces revealing",
+        "pp": "faced revealing",
+        "past": "faced revealing",
+        "s3": "faces revealing"
+      }
+    },
+    {
+      "text": "face fly",
+      "pos": "noun",
+      "meaningEn": "A fly, Musca autumnalis, that resembles the housefly and is a pest of cattle and horses.",
+      "meaningZh": "一只苍蝇,穆斯卡秋天的苍蝇, 类似家庭苍蝇, 是牛和马的害虫。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face fly",
+        "ing": "facing fly",
+        "plural": "faces fly",
+        "pp": "faced fly",
+        "past": "faced fly",
+        "s3": "faces fly"
+      }
+    },
+    {
+      "text": "face value",
+      "pos": "noun",
+      "meaningEn": "The amount or value listed on a bill, card, note, stamp, etc.; the stated value or amount.",
+      "meaningZh": "账单、卡片、纸条、印章等所列金额或价值;说明的价值或数额。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face value",
+        "ing": "facing value",
+        "plural": "faces value",
+        "pp": "faced value",
+        "past": "faced value",
+        "s3": "faces value"
+      }
+    },
+    {
+      "text": "face cloth",
+      "pos": "noun",
+      "meaningEn": "A small cloth used to wash one's face.",
+      "meaningZh": "用来洗脸的小布",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face cloth",
+        "ing": "facing cloth",
+        "plural": "faces cloth",
+        "pp": "faced cloth",
+        "past": "faced cloth",
+        "s3": "faces cloth"
+      }
+    },
+    {
+      "text": "face time",
+      "pos": "noun",
+      "meaningEn": "Time spent in visual communication with another party.",
+      "meaningZh": "与另一方进行视觉交流的时间。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face time",
+        "ing": "facing time",
+        "plural": "faces time",
+        "pp": "faced time",
+        "past": "faced time",
+        "s3": "faces time"
+      }
+    },
+    {
+      "text": "face pack",
+      "pos": "noun",
+      "meaningEn": "A set of beauty products for the face",
+      "meaningZh": "一张脸的美容品",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face pack",
+        "ing": "facing pack",
+        "plural": "faces pack",
+        "pp": "faced pack",
+        "past": "faced pack",
+        "s3": "faces pack"
+      }
+    },
+    {
+      "text": "face out",
+      "pos": "verb",
+      "meaningEn": "To carry off by bold looks; to see something unpleasant through with courage and spirit.",
+      "meaningZh": "勇敢地向前看;以勇气和精神看到一些令人不愉快的事情。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face out",
+        "ing": "facing out",
+        "plural": "faces out",
+        "pp": "faced out",
+        "past": "faced out",
+        "s3": "faces out"
+      }
+    },
+    {
+      "text": "face palm",
+      "pos": "noun",
+      "meaningEn": "A gesture of bringing one or both palms to the face, with various interpretations including exasperation, chagrin, frustration, embarrassment, etc.",
+      "meaningZh": "手势是将一只或两只手掌放在面前,并有各种解释,包括愤怒、愤怒、沮丧、尴尬等。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face palm",
+        "ing": "facing palm",
+        "plural": "faces palm",
+        "pp": "faced palm",
+        "past": "faced palm",
+        "s3": "faces palm"
+      }
+    },
+    {
+      "text": "face for television",
+      "pos": "noun",
+      "meaningEn": "An attractive face.",
+      "meaningZh": "一张吸引人的脸",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face for television",
+        "ing": "facing for television",
+        "plural": "faces for television",
+        "pp": "faced for television",
+        "past": "faced for television",
+        "s3": "faces for television"
+      }
+    },
+    {
+      "text": "face up to",
+      "pos": "verb",
+      "meaningEn": "To confront a condition or situation, typically one that is unpleasant or uncomfortable.",
+      "meaningZh": "面对一种或多种情况,通常是不愉快或不舒服的情况。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face up to",
+        "ing": "facing up to",
+        "plural": "faces up to",
+        "pp": "faced up to",
+        "past": "faced up to",
+        "s3": "faces up to"
+      }
+    },
+    {
+      "text": "face claim",
+      "pos": "noun",
+      "meaningEn": "The person an author or fan assigns as a lookalike for a literary character.",
+      "meaningZh": "作者或歌迷指定为文学人物的外观。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face claim",
+        "ing": "facing claim",
+        "plural": "faces claim",
+        "pp": "faced claim",
+        "past": "faced claim",
+        "s3": "faces claim"
+      }
+    },
+    {
+      "text": "face validity",
+      "pos": "noun",
+      "meaningEn": "A property of a hypothesis by which its appearance suggests to an observer that the hypothesis will be determined true if tested.",
+      "meaningZh": "假设的属性,即其外表向观察者表明,如果经过测试,假设将被确定为真实。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face validity",
+        "ing": "facing validity",
+        "plural": "faces validity",
+        "pp": "faced validity",
+        "past": "faced validity",
+        "s3": "faces validity"
+      }
+    },
+    {
+      "text": "face revealed",
+      "pos": "verb",
+      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
+      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face revealed",
+        "ing": "facing revealed",
+        "plural": "faces revealed",
+        "pp": "faced revealed",
+        "past": "faced revealed",
+        "s3": "faces revealed"
+      }
+    },
+    {
+      "text": "face like a bag of spanners",
+      "pos": "noun",
+      "meaningEn": "A very ugly face.",
+      "meaningZh": "一个丑陋的脸蛋",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face like a bag of spanners",
+        "ing": "facing like a bag of spanners",
+        "plural": "faces like a bag of spanners",
+        "pp": "faced like a bag of spanners",
+        "past": "faced like a bag of spanners",
+        "s3": "faces like a bag of spanners"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T09:25:29.645424Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

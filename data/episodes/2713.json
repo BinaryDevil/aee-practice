@@ -1,0 +1,697 @@
+{
+  "schemaVersion": 1,
+  "number": 2713,
+  "guid": "235c6c50-c5e2-11f1-8f87-73710dd9efb4",
+  "title": "Take a Crack at These English Phrases",
+  "subtitle": "Learn what this expression means and others like it",
+  "pubDate": "2026-10-29T05:00:00",
+  "durationSec": 992,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE4384641420.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/business",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "crack-adj",
+      "text": "crack",
+      "display": "crack (adj.)",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 32,
+      "pos": "adj",
+      "ipa": "/kɹæk/",
+      "tags": [],
+      "meaningEn": "Highly trained and competent.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "一流的；技艺高超的",
+      "meaningZhSource": "override",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 269.68,
+          "end": 277.34,
+          "sentence": "…to do this episode because I heard a football commentator say our crack crew is doing its best.",
+          "sentenceZh": "...因为我听到一个足球评论家 说我们的破组正在尽力而为",
+          "sentenceZhSource": "mt",
+          "answer": "crack",
+          "answerStart": 67,
+          "answerEnd": 72,
+          "answerForm": "base"
+        },
+        {
+          "start": 304.46,
+          "end": 310.64,
+          "sentence": "…but I do feel like I hear it collocated with certain words like a crack pilot.",
+          "sentenceZh": "但我确实觉得我听到它 与某些字像一个快克飞行员。",
+          "sentenceZhSource": "mt",
+          "answer": "crack",
+          "answerStart": 67,
+          "answerEnd": 72,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "crack",
+        "plural": "cracks",
+        "past": "cracked",
+        "pp": "cracked",
+        "ing": "cracking",
+        "s3": "cracks"
+      },
+      "examples": [
+        "Even a crack team of investigators would have trouble solving this case."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "crack-up",
+      "text": "crack up",
+      "display": "crack up",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 31,
+      "pos": "verb",
+      "ipa": "/ˈkɹæk ˈʌp/",
+      "tags": [
+        "idiomatic",
+        "intransitive"
+      ],
+      "meaningEn": "To laugh heartily.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "大笑；忍不住笑",
+      "meaningZhSource": "override",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 133.1,
+          "end": 144.62,
+          "sentence": "…much anytime we get together there cracking jokes and I'll always crack up like so hard.",
+          "sentenceZh": "...每当我们聚在一起 开个玩笑... ...我总是会像这么狠的敲碎。",
+          "sentenceZhSource": "mt",
+          "answer": "crack up",
+          "answerStart": 67,
+          "answerEnd": 75,
+          "answerForm": "base"
+        },
+        {
+          "start": 158.06,
+          "end": 159.16,
+          "sentence": "So we cracked up a lot.",
+          "sentenceZh": "所以,我们分手了很多。",
+          "sentenceZhSource": "mt",
+          "answer": "cracked up",
+          "answerStart": 6,
+          "answerEnd": 16,
+          "answerForm": "past"
+        }
+      ],
+      "inflections": {
+        "base": "crack up",
+        "plural": "cracks up",
+        "past": "cracked up",
+        "pp": "cracked up",
+        "ing": "cracking up",
+        "s3": "cracks up"
+      },
+      "examples": [
+        "It was hilarious. We were cracking up the whole time."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "take-a-crack-at",
+      "text": "take a crack at",
+      "display": "take a crack at",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 29,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To attempt or try.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "尝试；试一试",
+      "meaningZhSource": "override",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 368.12,
+          "end": 369.08,
+          "sentence": "I'm going to take a crack at it.",
+          "sentenceZh": "我要破门而入",
+          "sentenceZhSource": "mt",
+          "answer": "take a crack at",
+          "answerStart": 13,
+          "answerEnd": 28,
+          "answerForm": "base"
+        },
+        {
+          "start": 370.04,
+          "end": 374.26,
+          "sentence": "So I'll take a crack at fixing the computer, but I'm not sure I'll be able to figure out what's wrong.",
+          "sentenceZh": "所以,我会采取一个裂缝 修复计算机, 但我不确定我会 能够找出什么是错的。",
+          "sentenceZhSource": "mt",
+          "answer": "take a crack at",
+          "answerStart": 8,
+          "answerEnd": 23,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "take a crack at",
+        "past": "took a crack at",
+        "pp": "taken a crack at",
+        "ing": "taking a crack at",
+        "s3": "takes a crack at"
+      },
+      "examples": [
+        "Would you like to take a stab at explaining the theory?",
+        "Jimmy Carter is the third President in a row to take a stab at reforming the “welfare mess” — an almost obligatory pejorative of political oratory."
+      ],
+      "synonyms": [
+        "take a stab at"
+      ],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "crack-a-joke",
+      "text": "crack a joke",
+      "display": "crack a joke",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 19,
+      "pos": "phrase",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "To tell a joke.",
+      "meaningEnSource": "transcript",
+      "meaningZh": "开玩笑；讲笑话",
+      "meaningZhSource": "override",
+      "meaningZhAlt": "开玩笑",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 512.22,
+          "end": 513.56,
+          "sentence": "We'll say crack a joke.",
+          "sentenceZh": "开个玩笑吧",
+          "sentenceZhSource": "mt",
+          "answer": "crack a joke",
+          "answerStart": 10,
+          "answerEnd": 22,
+          "answerForm": "base"
+        },
+        {
+          "start": 515.66,
+          "end": 516.88,
+          "sentence": "Crack a joke, cracking jokes.",
+          "sentenceZh": "开个玩笑 开个玩笑",
+          "sentenceZhSource": "mt",
+          "answer": "Crack a joke",
+          "answerStart": 0,
+          "answerEnd": 12,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "crack a joke",
+        "plural": "cracks a joke",
+        "past": "cracked a joke",
+        "pp": "cracked a joke",
+        "ing": "cracking a joke",
+        "s3": "cracks a joke"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 4
+    }
+  ],
+  "distractors": [
+    {
+      "text": "crack the whip",
+      "pos": "verb",
+      "meaningEn": "To make harsh demands in a position of leadership.",
+      "meaningZh": "以领导地位提出严厉的要求。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack the whip",
+        "plural": "cracks the whip",
+        "past": "cracked the whip",
+        "pp": "cracked the whip",
+        "ing": "cracking the whip",
+        "s3": "cracks the whip"
+      }
+    },
+    {
+      "text": "crack a smile",
+      "pos": "verb",
+      "meaningEn": "To smile, especially while attempting not to.",
+      "meaningZh": "微笑,特别是当试图不微笑。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack a smile",
+        "plural": "cracks a smile",
+        "past": "cracked a smile",
+        "pp": "cracked a smile",
+        "ing": "cracking a smile",
+        "s3": "cracks a smile"
+      }
+    },
+    {
+      "text": "crack along",
+      "pos": "verb",
+      "meaningEn": "To move quickly; to continue with work briskly.",
+      "meaningZh": "快速行动;继续快速工作。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack along",
+        "plural": "cracks along",
+        "past": "cracked along",
+        "pp": "cracked along",
+        "ing": "cracking along",
+        "s3": "cracks along"
+      }
+    },
+    {
+      "text": "crack open",
+      "pos": "verb",
+      "meaningEn": "To open, especially in order to celebrate; also extended to other packaged items.",
+      "meaningZh": "开放,特别是为了庆祝;还扩大到其他成套项目。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack open",
+        "plural": "cracks open",
+        "past": "cracked open",
+        "pp": "cracked open",
+        "ing": "cracking open",
+        "s3": "cracks open"
+      }
+    },
+    {
+      "text": "crack down",
+      "pos": "verb",
+      "meaningEn": "To take harsh action, as when enforcing a law or rule more stringently than before.",
+      "meaningZh": "采取严厉行动,如执行法律或规则时比以前更加严格。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack down",
+        "plural": "cracks down",
+        "past": "cracked down",
+        "pp": "cracked down",
+        "ing": "cracking down",
+        "s3": "cracks down"
+      }
+    },
+    {
+      "text": "crack a crib",
+      "pos": "verb",
+      "meaningEn": "To break into a house.",
+      "meaningZh": "破门而入",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack a crib",
+        "plural": "cracks a crib",
+        "past": "cracked a crib",
+        "pp": "cracked a crib",
+        "ing": "cracking a crib",
+        "s3": "cracks a crib"
+      }
+    },
+    {
+      "text": "crack a rat",
+      "pos": "verb",
+      "meaningEn": "To break wind.",
+      "meaningZh": "打破风。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack a rat",
+        "plural": "cracks a rat",
+        "past": "cracked a rat",
+        "pp": "cracked a rat",
+        "ing": "cracking a rat",
+        "s3": "cracks a rat"
+      }
+    },
+    {
+      "text": "crack out",
+      "pos": "verb",
+      "meaningEn": "To show signs or symptoms of excessive crack cocaine use.",
+      "meaningZh": "显示过度使用快克可卡因的迹象或症状。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack out",
+        "plural": "cracks out",
+        "past": "cracked out",
+        "pp": "cracked out",
+        "ing": "cracking out",
+        "s3": "cracks out"
+      }
+    },
+    {
+      "text": "crack kills",
+      "pos": "phrase",
+      "meaningEn": "Used to warn others of the dangers of crack cocaine and drugs in general.",
+      "meaningZh": "用来警告其他人快克可卡因和一般毒品的危险。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack kills",
+        "plural": "cracks kills",
+        "past": "cracked kills",
+        "pp": "cracked kills",
+        "ing": "cracking kills",
+        "s3": "cracks kills"
+      }
+    },
+    {
+      "text": "crack one's fingers",
+      "pos": "verb",
+      "meaningEn": "To pull or push one's fingers so that the joints make a cracking noise.",
+      "meaningZh": "拉或推手指 这样关节就会发出响声",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack one's fingers",
+        "plural": "cracks one's fingers",
+        "past": "cracked one's fingers",
+        "pp": "cracked one's fingers",
+        "ing": "cracking one's fingers",
+        "s3": "cracks one's fingers"
+      }
+    },
+    {
+      "text": "crack the flags",
+      "pos": "verb",
+      "meaningEn": "Of the sun or sunshine: to beat down very strongly; to be extremely hot.",
+      "meaningZh": "以太阳或阳光盟誓,以极强的击落它;以极热的击败它。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack the flags",
+        "plural": "cracks the flags",
+        "past": "cracked the flags",
+        "pp": "cracked the flags",
+        "ing": "cracking the flags",
+        "s3": "cracks the flags"
+      }
+    },
+    {
+      "text": "crack a book",
+      "pos": "verb",
+      "meaningEn": "To open up one's books, especially in order to study.",
+      "meaningZh": "开放自己的书,特别是为了学习。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack a book",
+        "plural": "cracks a book",
+        "past": "cracked a book",
+        "pp": "cracked a book",
+        "ing": "cracking a book",
+        "s3": "cracks a book"
+      }
+    },
+    {
+      "text": "crack a crust",
+      "pos": "verb",
+      "meaningEn": "To make a living.",
+      "meaningZh": "谋生",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack a crust",
+        "plural": "cracks a crust",
+        "past": "cracked a crust",
+        "pp": "cracked a crust",
+        "ing": "cracking a crust",
+        "s3": "cracks a crust"
+      }
+    },
+    {
+      "text": "crack one off",
+      "pos": "verb",
+      "meaningEn": "To masturbate to orgasm.",
+      "meaningZh": "手淫到高潮。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack one off",
+        "plural": "cracks one off",
+        "past": "cracked one off",
+        "pp": "cracked one off",
+        "ing": "cracking one off",
+        "s3": "cracks one off"
+      }
+    },
+    {
+      "text": "crack wise",
+      "pos": "verb",
+      "meaningEn": "To make a sarcastic, flippant, or sardonic comment.",
+      "meaningZh": "发表讽刺性、夸夸其谈或沙度评论。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack wise",
+        "plural": "cracks wise",
+        "past": "cracked wise",
+        "pp": "cracked wise",
+        "ing": "cracking wise",
+        "s3": "cracks wise"
+      }
+    },
+    {
+      "text": "crack hardy",
+      "pos": "verb",
+      "meaningEn": "To keep a brave face, to suppress one's feelings, to grin and bear it.",
+      "meaningZh": "保持一个勇敢的脸, 压制一个人的感情, 微笑和忍受它。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack hardy",
+        "plural": "cracks hardy",
+        "past": "cracked hardy",
+        "pp": "cracked hardy",
+        "ing": "cracking hardy",
+        "s3": "cracks hardy"
+      }
+    },
+    {
+      "text": "crack one",
+      "pos": "verb",
+      "meaningEn": "To fart",
+      "meaningZh": "来放屁",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack one",
+        "plural": "cracks one",
+        "past": "cracked one",
+        "pp": "cracked one",
+        "ing": "cracking one",
+        "s3": "cracks one"
+      }
+    },
+    {
+      "text": "crack through",
+      "pos": "verb",
+      "meaningEn": "To penetrate",
+      "meaningZh": "穿透",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack through",
+        "plural": "cracks through",
+        "past": "cracked through",
+        "pp": "cracked through",
+        "ing": "cracking through",
+        "s3": "cracks through"
+      }
+    },
+    {
+      "text": "crack a fat",
+      "pos": "verb",
+      "meaningEn": "To get an erection of the penis.",
+      "meaningZh": "勃起阴茎。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack a fat",
+        "plural": "cracks a fat",
+        "past": "cracked a fat",
+        "pp": "cracked a fat",
+        "ing": "cracking a fat",
+        "s3": "cracks a fat"
+      }
+    },
+    {
+      "text": "crack onto",
+      "pos": "verb",
+      "meaningEn": "To flirt with; to approach and speak to, seeking romance, love, sex, etc.",
+      "meaningZh": "调情;接近和交谈,寻求浪漫、爱、性等。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack onto",
+        "plural": "cracks onto",
+        "past": "cracked onto",
+        "pp": "cracked onto",
+        "ing": "cracking onto",
+        "s3": "cracks onto"
+      }
+    },
+    {
+      "text": "crack on",
+      "pos": "verb",
+      "meaningEn": "To continue briskly or promptly.",
+      "meaningZh": "继续快速或快速地快速前进。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack on",
+        "plural": "cracks on",
+        "past": "cracked on",
+        "pp": "cracked on",
+        "ing": "cracking on",
+        "s3": "cracks on"
+      }
+    },
+    {
+      "text": "crack someone's egg",
+      "pos": "verb",
+      "meaningEn": "To cause to realize that they are transgender.",
+      "meaningZh": "促使人们认识到他们是变性人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack someone's egg",
+        "plural": "cracks someone's egg",
+        "past": "cracked someone's egg",
+        "pp": "cracked someone's egg",
+        "ing": "cracking someone's egg",
+        "s3": "cracks someone's egg"
+      }
+    },
+    {
+      "text": "crack off",
+      "pos": "verb",
+      "meaningEn": "To shoot a gun.",
+      "meaningZh": "射枪。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack off",
+        "plural": "cracks off",
+        "past": "cracked off",
+        "pp": "cracked off",
+        "ing": "cracking off",
+        "s3": "cracks off"
+      }
+    },
+    {
+      "text": "joke it up",
+      "pos": "verb",
+      "meaningEn": "To be funny, make jokes and carry on.",
+      "meaningZh": "幽默 开玩笑 继续",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "joke it up",
+        "plural": "jokes it up",
+        "ing": "joking it up",
+        "past": "joked it up",
+        "s3": "jokes it up",
+        "pp": "joked it up"
+      }
+    },
+    {
+      "text": "joke up",
+      "pos": "verb",
+      "meaningEn": "To make jokes aimed upward in social class or level of authority.",
+      "meaningZh": "在社会阶层或权力级别上制造笑话。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "joke up",
+        "plural": "jokes up",
+        "ing": "joking up",
+        "past": "joked up",
+        "s3": "jokes up",
+        "pp": "joked up"
+      }
+    },
+    {
+      "text": "joke around",
+      "pos": "verb",
+      "meaningEn": ": bowdlerization of fuck around",
+      "meaningZh": "到处乱搞",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "joke around",
+        "plural": "jokes around",
+        "ing": "joking around",
+        "past": "joked around",
+        "s3": "jokes around",
+        "pp": "joked around"
+      }
+    },
+    {
+      "text": "take no for an answer",
+      "pos": "verb",
+      "meaningEn": "To accept a refusal or rejection and cease pressing the issue.",
+      "meaningZh": "接受拒绝或拒绝,并停止推动这一问题。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take no for an answer",
+        "past": "took no for an answer",
+        "pp": "taken no for an answer",
+        "ing": "taking no for an answer",
+        "s3": "takes no for an answer"
+      }
+    },
+    {
+      "text": "take from behind",
+      "pos": "verb",
+      "meaningEn": "To attack from behind.",
+      "meaningZh": "从后面进攻",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take from behind",
+        "past": "took from behind",
+        "pp": "taken from behind",
+        "ing": "taking from behind",
+        "s3": "takes from behind"
+      }
+    },
+    {
+      "text": "take the easy way out",
+      "pos": "verb",
+      "meaningEn": "To cut corners; to follow the path of least resistance; to take shortcuts to avoid pain or having to struggle to achieve a desired result; to end or avoid a difficult situation in an easy or simple way that is not the best or most sensible or honorable solution.",
+      "meaningZh": "切割角角;走抵抗最少的道路;走捷径以避免痛苦或不得不为达到预期结果而挣扎;以不最佳或最明智或最光荣的解决办法,简单或简单的方式结束或避免困难局面。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take the easy way out",
+        "past": "took the easy way out",
+        "pp": "taken the easy way out",
+        "ing": "taking the easy way out",
+        "s3": "takes the easy way out"
+      }
+    },
+    {
+      "text": "take ship",
+      "pos": "verb",
+      "meaningEn": "To embark on a voyage by ship.",
+      "meaningZh": "乘船航行。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take ship",
+        "past": "took ship",
+        "pp": "taken ship",
+        "ing": "taking ship",
+        "s3": "takes ship"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T09:25:16.843492Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

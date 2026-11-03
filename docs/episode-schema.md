@@ -45,12 +45,12 @@ Metadata only (no content) of the newest ~60 numbered episodes in the RSS, so th
       "ipa": null,
       "tags": ["idiomatic", "informal"],
       "meaningEn": "To attempt or try (something difficult).",
-      "meaningEnSource": "kaikki" | "ecdict" | "blog" | "override",
+      "meaningEnSource": "kaikki" | "ecdict" | "blog" | "override" | "transcript",
       "meaningZh": "尝试；试一试",
       "meaningZhSource": "override" | "kaikki" | "ecdict" | "mt",
       "meaningZhAlt": "ECDICT gloss shown as secondary, or null",
       "teacherNote": "string or null (blog explanation / usage tip; may be null)",
-      "occurrences": [                            // max 3, each sentence <= ~240 chars
+      "occurrences": [                            // max 2, each sentence <= 160 characters
         { "start": 379.46, "end": 384.7,
           "sentence": "So I decided to take a crack at it.",
           "sentenceZh": "…", "sentenceZhSource": "mt",
@@ -74,3 +74,7 @@ Metadata only (no content) of the newest ~60 numbered episodes in the RSS, so th
 Notes:
 - `meaningZhSource: "mt"` / `sentenceZhSource: "mt"` must be labelled 机器翻译 in the UI.
 - Questions are generated client-side from `items` + `distractors` (new mix each session).
+
+A `transcript` English meaning is a short definition spoken by the hosts near the expression.
+
+Published occurrence sentences together contain at most 12% of the transcript word count.

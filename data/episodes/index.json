@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-03T09:25:34.423463Z",
+  "episodes": [
+    {
+      "number": 2715,
+      "guid": "11b283f6-cab3-11f1-815b-0f86da34f552",
+      "title": "Giving Up on English? Hang on Now!",
+      "pubDate": "2026-11-03T06:00:00",
+      "durationSec": 1119,
+      "itemCount": 4,
+      "hasBlog": false,
+      "file": "episodes/2715.json"
+    },
+    {
+      "number": 2714,
+      "guid": "ef20a02a-cab2-11f1-9d1f-73d2d6d147ed",
+      "title": "Have You Learned English From a Beloved Teacher?",
+      "pubDate": "2026-11-02T06:00:00",
+      "durationSec": 1156,
+      "itemCount": 2,
+      "hasBlog": false,
+      "file": "episodes/2714.json"
+    },
+    {
+      "number": 2713,
+      "guid": "235c6c50-c5e2-11f1-8f87-73710dd9efb4",
+      "title": "Take a Crack at These English Phrases",
+      "pubDate": "2026-10-29T05:00:00",
+      "durationSec": 992,
+      "itemCount": 4,
+      "hasBlog": false,
+      "file": "episodes/2713.json"
+    },
+    {
+      "number": 2712,
+      "guid": "05ae3a58-c5e2-11f1-9cc0-37cb5e415e3f",
+      "title": "Confused By English Vocabulary? What Now?",
+      "pubDate": "2026-10-28T05:00:00",
+      "durationSec": 1300,
+      "itemCount": 1,
+      "hasBlog": false,
+      "file": "episodes/2712.json"
+    },
+    {
+      "number": 2702,
+      "guid": "ab8c190e-bb06-11f1-a7b8-839410de6b8c",
+      "title": "Have the Last Laugh With These English Idioms",
+      "pubDate": "2026-10-12T05:00:00",
+      "durationSec": 1076,
+      "itemCount": 4,
+      "hasBlog": false,
+      "file": "episodes/2702.json"
+    },
+    {
+      "number": 2670,
+      "guid": "c72de77e-8bbc-11f1-83a6-7fcfc6660095",
+      "title": "Spill It! 4 Ways to Share Secrets in English",
+      "pubDate": "2026-08-17T05:00:00",
+      "durationSec": 1202,
+      "itemCount": 5,
+      "hasBlog": false,
+      "file": "episodes/2670.json"
+    }
+  ]
+}

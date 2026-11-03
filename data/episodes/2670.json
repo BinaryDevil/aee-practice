@@ -1,0 +1,768 @@
+{
+  "schemaVersion": 1,
+  "number": 2670,
+  "guid": "c72de77e-8bbc-11f1-83a6-7fcfc6660095",
+  "title": "Spill It! 4 Ways to Share Secrets in English",
+  "subtitle": "",
+  "pubDate": "2026-08-17T05:00:00",
+  "durationSec": 1202,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE7619631879.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "reveal",
+      "text": "reveal",
+      "display": "reveal",
+      "kind": "word",
+      "origin": "blog",
+      "score": 100,
+      "pos": "verb",
+      "ipa": "/ɹɪˈviːl/",
+      "tags": [
+        "transitive"
+      ],
+      "meaningEn": "To uncover; to show and display that which was hidden or unknown.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "露出；显示；透露",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": "To reveal something means to bring it out into the open. The information was unknown before, and now it is being made clear.",
+      "occurrences": [
+        {
+          "start": 296.98,
+          "end": 299.98,
+          "sentence": "So we're talking today about revealing sharing.",
+          "sentenceZh": "所以我们今天讨论的是 揭示分享。",
+          "sentenceZhSource": "mt",
+          "answer": "revealing",
+          "answerStart": 29,
+          "answerEnd": 38,
+          "answerForm": "ing"
+        },
+        {
+          "start": 369.44,
+          "end": 371.44,
+          "sentence": "OK, the first one is reveal.",
+          "sentenceZh": "OK,第一个是披露。",
+          "sentenceZhSource": "mt",
+          "answer": "reveal",
+          "answerStart": 21,
+          "answerEnd": 27,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "reveal",
+        "pp": "revealed",
+        "past": "revealed",
+        "s3": "reveals",
+        "ing": "revealing"
+      },
+      "examples": [
+        "She revealed her new fashion line at the show last night. It was amazing.",
+        "He revealed some classified information, and now he’s in big trouble."
+      ],
+      "synonyms": [
+        "bare",
+        "bewray",
+        "betray",
+        "display",
+        "expose",
+        "find out",
+        "lay bare",
+        "luster",
+        "uncover",
+        "unfold",
+        "unveil"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "share",
+      "text": "share",
+      "display": "share",
+      "kind": "word",
+      "origin": "blog",
+      "score": 100,
+      "pos": "verb",
+      "ipa": "/ʃɛə/",
+      "tags": [],
+      "meaningEn": "To tell to another.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "部分；参与；一份",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": "This is a little more neutral, similar to “tell,” but it carries a warmer feeling. It suggests you are inviting someone to join in on knowing something with you.",
+      "occurrences": [
+        {
+          "start": 355.04,
+          "end": 362.46,
+          "sentence": "But the ones we're going to share today are a little bit more about kind of secretive information in some ways.",
+          "sentenceZh": "但是我们今天要分享的 在某些方面是 某种秘密信息。",
+          "sentenceZhSource": "mt",
+          "answer": "share",
+          "answerStart": 28,
+          "answerEnd": 33,
+          "answerForm": "base"
+        },
+        {
+          "start": 549.5,
+          "end": 551.08,
+          "sentence": "And then we have the word share Lindsay.",
+          "sentenceZh": "然后我们分享了Lindsay",
+          "sentenceZhSource": "mt",
+          "answer": "share",
+          "answerStart": 26,
+          "answerEnd": 31,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "share",
+        "plural": "shares",
+        "pp": "shared",
+        "ing": "sharing",
+        "past": "shared",
+        "s3": "shares"
+      },
+      "examples": [
+        "I have to share what Gabriel said this morning. It was so adorable!",
+        "Can you share a story from your childhood with the class?"
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "disclose",
+      "text": "disclose",
+      "display": "disclose",
+      "kind": "word",
+      "origin": "blog",
+      "score": 100,
+      "pos": "verb",
+      "ipa": "/dɪsˈkləʊz/",
+      "tags": [
+        "transitive"
+      ],
+      "meaningEn": "To expose to the knowledge of others; to make known; state openly; reveal.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "揭露；透露",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": "“Disclose” is more formal. It usually involves private information that was not meant for everyone to know.",
+      "occurrences": [
+        {
+          "start": 846.79,
+          "end": 849.31,
+          "sentence": "OK now disclose is a little more formal",
+          "sentenceZh": "OK,现在披露 更正式一点",
+          "sentenceZhSource": "mt",
+          "answer": "disclose",
+          "answerStart": 7,
+          "answerEnd": 15,
+          "answerForm": "base"
+        },
+        {
+          "start": 853.25,
+          "end": 855.75,
+          "sentence": "like therapy disclose something to his",
+          "sentenceZh": "就像治疗 向他透露一些东西",
+          "sentenceZhSource": "mt",
+          "answer": "disclose",
+          "answerStart": 13,
+          "answerEnd": 21,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "disclose",
+        "pp": "disclosed",
+        "ing": "disclosing",
+        "past": "disclosed",
+        "s3": "discloses"
+      },
+      "examples": [
+        "Don’t disclose your social security number to anyone.",
+        "Please fill out this form. We will not disclose any of this information. It is just for our office records."
+      ],
+      "synonyms": [
+        "expose",
+        "reveal",
+        "make known",
+        "publish",
+        "unveil",
+        "divulge",
+        "impart",
+        "bring to light"
+      ],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "divulge",
+      "text": "divulge",
+      "display": "divulge",
+      "kind": "word",
+      "origin": "blog",
+      "score": 100,
+      "pos": "verb",
+      "ipa": "/daɪˈvʌld͡ʒ/",
+      "tags": [
+        "transitive"
+      ],
+      "meaningEn": "To make public or known; to communicate to the public; to tell so that it may become generally known.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "泄露；透露",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": "This is close to “disclose” but feels a bit more dramatic. While “disclose” leans formal and is often used in writing, “divulge” has an almost theatrical quality to it.",
+      "occurrences": [
+        {
+          "start": 53.85,
+          "end": 57.93,
+          "sentence": "Are you someone who divulges secrets or are you good at keeping a secret?",
+          "sentenceZh": "你是泄露秘密的人 还是善于保守秘密的人?",
+          "sentenceZhSource": "mt",
+          "answer": "divulges",
+          "answerStart": 20,
+          "answerEnd": 28,
+          "answerForm": "s3"
+        },
+        {
+          "start": 952.63,
+          "end": 953.37,
+          "sentence": "divulge D",
+          "sentenceZh": null,
+          "sentenceZhSource": null,
+          "answer": "divulge",
+          "answerStart": 0,
+          "answerEnd": 7,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "divulge",
+        "pp": "divulged",
+        "ing": "divulging",
+        "past": "divulged",
+        "s3": "divulges",
+        "plural": "divulges"
+      },
+      "examples": [
+        "He divulged the plan of his proposal to his cousin, but then worried he couldn’t be trusted.",
+        "Don’t divulge any of the details until I get there. I don’t want to miss any gossip!"
+      ],
+      "synonyms": [
+        "bewray",
+        "bring out",
+        "uncover",
+        "disclose",
+        "discover",
+        "expose",
+        "give away",
+        "impart"
+      ],
+      "concept": false,
+      "rank": 4
+    },
+    {
+      "id": "spill-the-beans",
+      "text": "spill the beans",
+      "display": "spill the beans",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 12,
+      "pos": "verb",
+      "ipa": "/ˌspɪl ðə ˈbiːnz/",
+      "tags": [
+        "idiomatic",
+        "intransitive"
+      ],
+      "meaningEn": "To reveal a secret; to disclose information.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "披露秘密;披露信息。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 1096.09,
+          "end": 1096.39,
+          "sentence": "Spill the beans.",
+          "sentenceZh": "把豆子吐出来",
+          "sentenceZhSource": "mt",
+          "answer": "Spill the beans",
+          "answerStart": 0,
+          "answerEnd": 15,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "spill the beans",
+        "ing": "spilling the beans",
+        "past": "spilled the beans",
+        "s3": "spills the beans",
+        "pp": "spilled the beans",
+        "plural": "spills the beans"
+      },
+      "examples": [
+        "They had planned it as a surprise party, but somebody spilled the beans.",
+        "I guarantee you, someone's going to spill the beans and next thing this shit's all over the news."
+      ],
+      "synonyms": [
+        "let the cat out of the bag",
+        "spill one's guts",
+        "spill the tea"
+      ],
+      "concept": false,
+      "rank": 5
+    }
+  ],
+  "distractors": [
+    {
+      "text": "share a bed",
+      "pos": "verb",
+      "meaningEn": "To engage in sexual intercourse.",
+      "meaningZh": "进行性交。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share a bed",
+        "plural": "shares a bed",
+        "pp": "shared a bed",
+        "ing": "sharing a bed",
+        "past": "shared a bed",
+        "s3": "shares a bed"
+      }
+    },
+    {
+      "text": "share milking",
+      "pos": "verb",
+      "meaningEn": "present participle and gerund of share milk",
+      "meaningZh": "共有牛奶的参加和积存",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share milking",
+        "plural": "shares milking",
+        "pp": "shared milking",
+        "ing": "sharing milking",
+        "past": "shared milking",
+        "s3": "shares milking"
+      }
+    },
+    {
+      "text": "share herded",
+      "pos": "verb",
+      "meaningEn": "simple past and past participle of share herd",
+      "meaningZh": "共享群群的简单过去和过去参与量",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share herded",
+        "plural": "shares herded",
+        "pp": "shared herded",
+        "ing": "sharing herded",
+        "past": "shared herded",
+        "s3": "shares herded"
+      }
+    },
+    {
+      "text": "share milks",
+      "pos": "verb",
+      "meaningEn": "third-person singular simple present indicative of share milk",
+      "meaningZh": "单一简单表示分享牛奶",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share milks",
+        "plural": "shares milks",
+        "pp": "shared milks",
+        "ing": "sharing milks",
+        "past": "shared milks",
+        "s3": "shares milks"
+      }
+    },
+    {
+      "text": "share herding",
+      "pos": "verb",
+      "meaningEn": "present participle and gerund of share herd",
+      "meaningZh": "股份群的合并和合并",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share herding",
+        "plural": "shares herding",
+        "pp": "shared herding",
+        "ing": "sharing herding",
+        "past": "shared herding",
+        "s3": "shares herding"
+      }
+    },
+    {
+      "text": "share milked",
+      "pos": "verb",
+      "meaningEn": "simple past and past participle of share milk",
+      "meaningZh": "简单过去和过去 分享牛奶的参加量",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share milked",
+        "plural": "shares milked",
+        "pp": "shared milked",
+        "ing": "sharing milked",
+        "past": "shared milked",
+        "s3": "shares milked"
+      }
+    },
+    {
+      "text": "share in",
+      "pos": "verb",
+      "meaningEn": "To take a portion of something; to experience something jointly with others.",
+      "meaningZh": "采取一部分的东西; 与他人一起体验一些东西。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share in",
+        "plural": "shares in",
+        "pp": "shared in",
+        "ing": "sharing in",
+        "past": "shared in",
+        "s3": "shares in"
+      }
+    },
+    {
+      "text": "share herds",
+      "pos": "verb",
+      "meaningEn": "third-person singular simple present indicative of share herd",
+      "meaningZh": "单一简单表示分享群群",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share herds",
+        "plural": "shares herds",
+        "pp": "shared herds",
+        "ing": "sharing herds",
+        "past": "shared herds",
+        "s3": "shares herds"
+      }
+    },
+    {
+      "text": "share up",
+      "pos": "verb",
+      "meaningEn": "To divide up; to divvy out or distribute.",
+      "meaningZh": "分割;分解或分配。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share up",
+        "plural": "shares up",
+        "pp": "shared up",
+        "ing": "sharing up",
+        "past": "shared up",
+        "s3": "shares up"
+      }
+    },
+    {
+      "text": "share out",
+      "pos": "verb",
+      "meaningEn": "To share; especially, to share evenly.",
+      "meaningZh": "分享;特别是平等分享。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "share out",
+        "plural": "shares out",
+        "pp": "shared out",
+        "ing": "sharing out",
+        "past": "shared out",
+        "s3": "shares out"
+      }
+    },
+    {
+      "text": "spill out",
+      "pos": "verb",
+      "meaningEn": "to exit in large quantities",
+      "meaningZh": "大量退出",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "spill out",
+        "ing": "spilling out",
+        "past": "spilled out",
+        "s3": "spills out",
+        "pp": "spilled out",
+        "plural": "spills out"
+      }
+    },
+    {
+      "text": "spill ink",
+      "pos": "verb",
+      "meaningEn": "To write, especially professionally.",
+      "meaningZh": "写作,特别专业",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "spill ink",
+        "ing": "spilling ink",
+        "past": "spilled ink",
+        "s3": "spills ink",
+        "pp": "spilled ink",
+        "plural": "spills ink"
+      }
+    },
+    {
+      "text": "spill over",
+      "pos": "verb",
+      "meaningEn": "to enter into another zone by way of accident or overcrowding; to overflow",
+      "meaningZh": "以事故或过分拥挤的方式进入另一区;",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "spill over",
+        "ing": "spilling over",
+        "past": "spilled over",
+        "s3": "spills over",
+        "pp": "spilled over",
+        "plural": "spills over"
+      }
+    },
+    {
+      "text": "spill blood",
+      "pos": "verb",
+      "meaningEn": "To injure; to kill.",
+      "meaningZh": "伤害; 杀戮。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "spill blood",
+        "ing": "spilling blood",
+        "past": "spilled blood",
+        "s3": "spills blood",
+        "pp": "spilled blood",
+        "plural": "spills blood"
+      }
+    },
+    {
+      "text": "spill one's seed",
+      "pos": "verb",
+      "meaningEn": "To ejaculate.",
+      "meaningZh": "射精",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "spill one's seed",
+        "ing": "spilling one's seed",
+        "past": "spilled one's seed",
+        "s3": "spills one's seed",
+        "pp": "spilled one's seed",
+        "plural": "spills one's seed"
+      }
+    },
+    {
+      "text": "spill juice",
+      "pos": "verb",
+      "meaningEn": "To bleed as a result of a gunshot wound or stab wound; spill blood.",
+      "meaningZh": "因枪伤或刺伤流血;流血。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "spill juice",
+        "ing": "spilling juice",
+        "past": "spilled juice",
+        "s3": "spills juice",
+        "pp": "spilled juice",
+        "plural": "spills juice"
+      }
+    },
+    {
+      "text": "abate",
+      "pos": "verb",
+      "meaningEn": "To lessen in force or intensity; to moderate.",
+      "meaningZh": "减少；减轻；减弱",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "abate",
+        "pp": "abated",
+        "ing": "abating",
+        "past": "abated",
+        "s3": "abates"
+      }
+    },
+    {
+      "text": "abstain",
+      "pos": "verb",
+      "meaningEn": "Refrain from; keep from doing, especially an indulgence.",
+      "meaningZh": "自制；戒绝；弃权",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "abstain",
+        "past": "abstained",
+        "ing": "abstaining",
+        "pp": "abstained",
+        "s3": "abstains"
+      }
+    },
+    {
+      "text": "accept",
+      "pos": "verb",
+      "meaningEn": "To receive, especially with a consent, with favour, or with approval.",
+      "meaningZh": "接受；承认；同意",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accept",
+        "pp": "accepted",
+        "past": "accepted",
+        "ing": "accepting",
+        "s3": "accepts"
+      }
+    },
+    {
+      "text": "accommodate",
+      "pos": "verb",
+      "meaningEn": "To render fit, suitable, or correspondent; to adapt.",
+      "meaningZh": "使适应；调和；通融",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accommodate",
+        "pp": "accommodated",
+        "ing": "accommodating",
+        "s3": "accommodates",
+        "past": "accommodated"
+      }
+    },
+    {
+      "text": "achieve",
+      "pos": "verb",
+      "meaningEn": "To carry out or conclude successfully; to accomplish.",
+      "meaningZh": "完成；达到；如愿以偿",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "achieve",
+        "pp": "achieved",
+        "ing": "achieving",
+        "past": "achieved",
+        "s3": "achieves"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "added",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "额外的；更多的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "added",
+        "pp": "added",
+        "past": "added"
+      }
+    },
+    {
+      "text": "administer",
+      "pos": "verb",
+      "meaningEn": "To apportion out, distribute.",
+      "meaningZh": "管理；料理；执行",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "administer",
+        "pp": "administered",
+        "ing": "administering",
+        "s3": "administers",
+        "past": "administered"
+      }
+    },
+    {
+      "text": "admire",
+      "pos": "verb",
+      "meaningEn": "To regard with wonder and delight.",
+      "meaningZh": "赞美；钦佩；爱慕",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "admire",
+        "past": "admired",
+        "pp": "admired",
+        "ing": "admiring",
+        "s3": "admires"
+      }
+    },
+    {
+      "text": "admit",
+      "pos": "verb",
+      "meaningEn": "To allow to enter; to grant entrance, whether into a place, into the mind, or into consideration.",
+      "meaningZh": "承认；接受；允许进入",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "admit",
+        "past": "admitted",
+        "pp": "admitted",
+        "s3": "admits",
+        "ing": "admitting"
+      }
+    },
+    {
+      "text": "affect",
+      "pos": "verb",
+      "meaningEn": "To influence or alter.",
+      "meaningZh": "影响；感动；假装",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "affect",
+        "pp": "affected",
+        "ing": "affecting",
+        "s3": "affects",
+        "past": "affected",
+        "plural": "affects"
+      }
+    },
+    {
+      "text": "agree",
+      "pos": "verb",
+      "meaningEn": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.",
+      "meaningZh": "同意；赞成；应允",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agree",
+        "pp": "agreed",
+        "past": "agreed",
+        "s3": "agrees",
+        "ing": "agreeing"
+      }
+    },
+    {
+      "text": "airplane",
+      "pos": "verb",
+      "meaningEn": "To fly in an aeroplane.",
+      "meaningZh": "飞机",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "airplane",
+        "plural": "airplanes"
+      }
+    },
+    {
+      "text": "allow",
+      "pos": "verb",
+      "meaningEn": "To let one have as a suitable share of something.",
+      "meaningZh": "允许；同意给予；承认",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allow",
+        "pp": "allowed",
+        "ing": "allowing",
+        "s3": "allows",
+        "past": "allowed"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T09:25:34.421346Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

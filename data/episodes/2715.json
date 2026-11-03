@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "number": 2715,
+  "guid": "11b283f6-cab3-11f1-815b-0f86da34f552",
+  "title": "Giving Up on English? Hang on Now!",
+  "subtitle": "Learn how to push back on people with personality",
+  "pubDate": "2026-11-03T06:00:00",
+  "durationSec": 1119,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE5623637822.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "hang-on",
+      "text": "hang on",
+      "display": "hang on",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 37,
+      "pos": "verb",
+      "ipa": "/ˌhæŋ ˈɒn/",
+      "tags": [
+        "figuratively",
+        "idiomatic"
+      ],
+      "meaningEn": "To wait a moment.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "等待一分钟。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 419.39,
+          "end": 425.75,
+          "sentence": "…slangy version, maybe slightly friendlier version of hold on now is hang on now.",
+          "sentenceZh": "说不定现在稍稍友好的 搁置的版本 现在已经搁置了",
+          "sentenceZhSource": "mt",
+          "answer": "hang on",
+          "answerStart": 69,
+          "answerEnd": 76,
+          "answerForm": "base"
+        },
+        {
+          "start": 428.31,
+          "end": 428.91,
+          "sentence": "Hang on now.",
+          "sentenceZh": "坚持住。",
+          "sentenceZhSource": "mt",
+          "answer": "Hang on",
+          "answerStart": 0,
+          "answerEnd": 7,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "hang on",
+        "ing": "hanging on",
+        "past": "hung on",
+        "pp": "hung on",
+        "s3": "hangs on"
+      },
+      "examples": [
+        "Hang on. Let me check."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "push-back",
+      "text": "push back",
+      "display": "push back",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 21,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "To refute or argue against a position or an accusation; to express one's own view on a situation.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "反驳或反对立场或指控;表达自己对局势的看法。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 59.05,
+          "end": 61.85,
+          "sentence": "In life, sometimes you need to push back,",
+          "sentenceZh": "在生活中,有时 你需要推退,",
+          "sentenceZhSource": "mt",
+          "answer": "push back",
+          "answerStart": 31,
+          "answerEnd": 40,
+          "answerForm": "base"
+        },
+        {
+          "start": 671.77,
+          "end": 672.65,
+          "sentence": "Because you're pushing back.",
+          "sentenceZh": "因为你在推后。",
+          "sentenceZhSource": "mt",
+          "answer": "pushing back",
+          "answerStart": 15,
+          "answerEnd": 27,
+          "answerForm": "ing"
+        }
+      ],
+      "inflections": {
+        "base": "push back",
+        "past": "pushed back",
+        "ing": "pushing back",
+        "pp": "pushed back",
+        "s3": "pushes back"
+      },
+      "examples": [
+        "The scandal is growing legs. We need to start pushing back."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "hold-on",
+      "text": "hold on",
+      "display": "hold on",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 13,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To retain an advantage.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "保留优势。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 419.39,
+          "end": 425.75,
+          "sentence": "…slightly more slangy version, maybe slightly friendlier version of hold on now is hang on now.",
+          "sentenceZh": "...稍稍多些俗气的版本, 也许稍稍友好的版本 坚持现在是挂现在。",
+          "sentenceZhSource": "mt",
+          "answer": "hold on",
+          "answerStart": 68,
+          "answerEnd": 75,
+          "answerForm": "base"
+        },
+        {
+          "start": 432.47,
+          "end": 434.21,
+          "sentence": "Just hang on versus hold on.",
+          "sentenceZh": "坚持住,坚持住。",
+          "sentenceZhSource": "mt",
+          "answer": "hold on",
+          "answerStart": 20,
+          "answerEnd": 27,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "hold on",
+        "pp": "held on",
+        "past": "held on",
+        "ing": "holding on",
+        "s3": "holds on",
+        "plural": "holds on"
+      },
+      "examples": [
+        "I'm holding on to my trump cards until I really need them."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "pick-one-s-battles",
+      "text": "pick one's battles",
+      "display": "pick one's battles",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 11,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To take a stand for a cause only if it is truly important enough to be worth the costs.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "只有在真正重要的是值得付出代价的情况下,才能为事业采取立场。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 164.95,
+          "end": 165.55,
+          "sentence": "Pick your battles.",
+          "sentenceZh": "选择你的战斗。",
+          "sentenceZhSource": "mt",
+          "answer": "Pick your battles",
+          "answerStart": 0,
+          "answerEnd": 17,
+          "answerForm": "other"
+        },
+        {
+          "start": 1059.83,
+          "end": 1064.39,
+          "sentence": "Okay, this here is where I'm going to pick my battles and this is worth fighting.",
+          "sentenceZh": "好吧,这就是我要在这里 选择我的战斗,这是值得战斗。",
+          "sentenceZhSource": "mt",
+          "answer": "pick my battles",
+          "answerStart": 38,
+          "answerEnd": 53,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "pick one's battles",
+        "past": "picked one's battles",
+        "ing": "picking one's battles",
+        "pp": "picked one's battles",
+        "s3": "picks one's battles",
+        "plural": "picks one's battles"
+      },
+      "examples": [
+        "“[…]Jimmy Iovine, who runs Interscope, my record company, said, ‘Pick your battles carefully — don’t put your life at risk,’ but at the end of the day, I don’t see how you can shut up and just enjoy success when other people who don’t have the fame or the luxury to rent security guards are suffering.[…]”"
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 4
+    }
+  ],
+  "distractors": [
+    {
+      "text": "back buttered",
+      "pos": "verb",
+      "meaningEn": "simple past and past participle of back butter",
+      "meaningZh": "简单过去和过去黄油背面参与量",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back buttered",
+        "pp": "backed buttered",
+        "plural": "backs buttered",
+        "past": "backed buttered",
+        "ing": "backing buttered",
+        "s3": "backs buttered"
+      }
+    },
+    {
+      "text": "back out",
+      "pos": "verb",
+      "meaningEn": "To reverse from a confined space.",
+      "meaningZh": "从封闭的空间倒转。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back out",
+        "pp": "backed out",
+        "plural": "backs out",
+        "past": "backed out",
+        "ing": "backing out",
+        "s3": "backs out"
+      }
+    },
+    {
+      "text": "back washed",
+      "pos": "verb",
+      "meaningEn": "Alternative spelling of backwash.",
+      "meaningZh": "背洗的替代拼写。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back washed",
+        "pp": "backed washed",
+        "plural": "backs washed",
+        "past": "backed washed",
+        "ing": "backing washed",
+        "s3": "backs washed"
+      }
+    },
+    {
+      "text": "back announcing",
+      "pos": "verb",
+      "meaningEn": "A brief statement or synopsis identifying a piece of music or story when it completes; outro.",
+      "meaningZh": "一份简短声明或概要,在音乐或故事完成时指明一段音乐或故事;",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back announcing",
+        "pp": "backed announcing",
+        "plural": "backs announcing",
+        "past": "backed announcing",
+        "ing": "backing announcing",
+        "s3": "backs announcing"
+      }
+    },
+    {
+      "text": "back titrate",
+      "pos": "verb",
+      "meaningEn": "To carry out back titration.",
+      "meaningZh": "进行后击",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back titrate",
+        "pp": "backed titrate",
+        "plural": "backs titrate",
+        "past": "backed titrate",
+        "ing": "backing titrate",
+        "s3": "backs titrate"
+      }
+    },
+    {
+      "text": "back and forthed",
+      "pos": "verb",
+      "meaningEn": "From one place to another and back again.",
+      "meaningZh": "从一个地方到另一个地方 再回来一次",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back and forthed",
+        "pp": "backed and forthed",
+        "plural": "backs and forthed",
+        "past": "backed and forthed",
+        "ing": "backing and forthed",
+        "s3": "backs and forthed"
+      }
+    },
+    {
+      "text": "back stamps",
+      "pos": "verb",
+      "meaningEn": "third-person singular simple present indicative of back stamp",
+      "meaningZh": "表示后印邮票的单一简单表单",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back stamps",
+        "pp": "backed stamps",
+        "plural": "backs stamps",
+        "past": "backed stamps",
+        "ing": "backing stamps",
+        "s3": "backs stamps"
+      }
+    },
+    {
+      "text": "back dooring",
+      "pos": "verb",
+      "meaningEn": "A subsidiary entrance to a building or house at its rear, normally away from the street.",
+      "meaningZh": "建筑物或后方房屋的附属入口,通常远离街道。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back dooring",
+        "pp": "backed dooring",
+        "plural": "backs dooring",
+        "past": "backed dooring",
+        "ing": "backing dooring",
+        "s3": "backs dooring"
+      }
+    },
+    {
+      "text": "back titrated",
+      "pos": "verb",
+      "meaningEn": "To carry out back titration.",
+      "meaningZh": "进行后击",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back titrated",
+        "pp": "backed titrated",
+        "plural": "backs titrated",
+        "past": "backed titrated",
+        "ing": "backing titrated",
+        "s3": "backs titrated"
+      }
+    },
+    {
+      "text": "back washing",
+      "pos": "verb",
+      "meaningEn": "Alternative spelling of backwash.",
+      "meaningZh": "背洗的替代拼写。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back washing",
+        "pp": "backed washing",
+        "plural": "backs washing",
+        "past": "backed washing",
+        "ing": "backing washing",
+        "s3": "backs washing"
+      }
+    },
+    {
+      "text": "back orders",
+      "pos": "verb",
+      "meaningEn": "third-person singular simple present indicative of back order",
+      "meaningZh": "表示后序的单一简单表单",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back orders",
+        "pp": "backed orders",
+        "plural": "backs orders",
+        "past": "backed orders",
+        "ing": "backing orders",
+        "s3": "backs orders"
+      }
+    },
+    {
+      "text": "back the right horse",
+      "pos": "verb",
+      "meaningEn": "To support someone who will succeed.",
+      "meaningZh": "支持一个成功的人",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back the right horse",
+        "pp": "backed the right horse",
+        "plural": "backs the right horse",
+        "past": "backed the right horse",
+        "ing": "backing the right horse",
+        "s3": "backs the right horse"
+      }
+    },
+    {
+      "text": "back onto",
+      "pos": "verb",
+      "meaningEn": "To reverse a vehicle onto something.",
+      "meaningZh": "将车辆倒转到什么东西上",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back onto",
+        "pp": "backed onto",
+        "plural": "backs onto",
+        "past": "backed onto",
+        "ing": "backing onto",
+        "s3": "backs onto"
+      }
+    },
+    {
+      "text": "back stamping",
+      "pos": "verb",
+      "meaningEn": "present participle and gerund of back stamp",
+      "meaningZh": "现参加和后印邮票",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back stamping",
+        "pp": "backed stamping",
+        "plural": "backs stamping",
+        "past": "backed stamping",
+        "ing": "backing stamping",
+        "s3": "backs stamping"
+      }
+    },
+    {
+      "text": "back up the truck",
+      "pos": "verb",
+      "meaningEn": "To take advantage of favourable pricing by purchasing a large amount.",
+      "meaningZh": "利用优惠定价办法,大量购买。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back up the truck",
+        "pp": "backed up the truck",
+        "plural": "backs up the truck",
+        "past": "backed up the truck",
+        "ing": "backing up the truck",
+        "s3": "backs up the truck"
+      }
+    },
+    {
+      "text": "back up",
+      "pos": "verb",
+      "meaningEn": "To move backwards, especially for a vehicle to do so.",
+      "meaningZh": "后退,特别是车辆后退。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back up",
+        "pp": "backed up",
+        "plural": "backs up",
+        "past": "backed up",
+        "ing": "backing up",
+        "s3": "backs up"
+      }
+    },
+    {
+      "text": "back scatters",
+      "pos": "verb",
+      "meaningEn": "third-person singular simple present indicative of back scatter",
+      "meaningZh": "表示后散分布的单一简单表单",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back scatters",
+        "pp": "backed scatters",
+        "plural": "backs scatters",
+        "past": "backed scatters",
+        "ing": "backing scatters",
+        "s3": "backs scatters"
+      }
+    },
+    {
+      "text": "back doored",
+      "pos": "verb",
+      "meaningEn": "A subsidiary entrance to a building or house at its rear, normally away from the street.",
+      "meaningZh": "建筑物或后方房屋的附属入口,通常远离街道。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back doored",
+        "pp": "backed doored",
+        "plural": "backs doored",
+        "past": "backed doored",
+        "ing": "backing doored",
+        "s3": "backs doored"
+      }
+    },
+    {
+      "text": "back scattered",
+      "pos": "verb",
+      "meaningEn": "simple past and past participle of back scatter",
+      "meaningZh": "后散的简单过去和过去参与者",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back scattered",
+        "pp": "backed scattered",
+        "plural": "backs scattered",
+        "past": "backed scattered",
+        "ing": "backing scattered",
+        "s3": "backs scattered"
+      }
+    },
+    {
+      "text": "back titrates",
+      "pos": "verb",
+      "meaningEn": "To carry out back titration.",
+      "meaningZh": "进行后击",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back titrates",
+        "pp": "backed titrates",
+        "plural": "backs titrates",
+        "past": "backed titrates",
+        "ing": "backing titrates",
+        "s3": "backs titrates"
+      }
+    },
+    {
+      "text": "back chatted",
+      "pos": "verb",
+      "meaningEn": "simple past and past participle of back chat",
+      "meaningZh": "简单过去和过去",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back chatted",
+        "pp": "backed chatted",
+        "plural": "backs chatted",
+        "past": "backed chatted",
+        "ing": "backing chatted",
+        "s3": "backs chatted"
+      }
+    },
+    {
+      "text": "back and forthing",
+      "pos": "verb",
+      "meaningEn": "From one place to another and back again.",
+      "meaningZh": "从一个地方到另一个地方 再回来一次",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back and forthing",
+        "pp": "backed and forthing",
+        "plural": "backs and forthing",
+        "past": "backed and forthing",
+        "ing": "backing and forthing",
+        "s3": "backs and forthing"
+      }
+    },
+    {
+      "text": "back on to",
+      "pos": "verb",
+      "meaningEn": "To reverse a vehicle onto something.",
+      "meaningZh": "将车辆倒转到什么东西上",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back on to",
+        "pp": "backed on to",
+        "plural": "backs on to",
+        "past": "backed on to",
+        "ing": "backing on to",
+        "s3": "backs on to"
+      }
+    },
+    {
+      "text": "back announces",
+      "pos": "verb",
+      "meaningEn": "A brief statement or synopsis identifying a piece of music or story when it completes; outro.",
+      "meaningZh": "一份简短声明或概要,在音乐或故事完成时指明一段音乐或故事;",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back announces",
+        "pp": "backed announces",
+        "plural": "backs announces",
+        "past": "backed announces",
+        "ing": "backing announces",
+        "s3": "backs announces"
+      }
+    },
+    {
+      "text": "back over",
+      "pos": "verb",
+      "meaningEn": "To reverse a vehicle over; to trample something while reversing",
+      "meaningZh": "翻过一辆汽车;践踏某件东西,同时倒过",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back over",
+        "pp": "backed over",
+        "plural": "backs over",
+        "past": "backed over",
+        "ing": "backing over",
+        "s3": "backs over"
+      }
+    },
+    {
+      "text": "back announced",
+      "pos": "verb",
+      "meaningEn": "A brief statement or synopsis identifying a piece of music or story when it completes; outro.",
+      "meaningZh": "一份简短声明或概要,在音乐或故事完成时指明一段音乐或故事;",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back announced",
+        "pp": "backed announced",
+        "plural": "backs announced",
+        "past": "backed announced",
+        "ing": "backing announced",
+        "s3": "backs announced"
+      }
+    },
+    {
+      "text": "back ordered",
+      "pos": "verb",
+      "meaningEn": "simple past and past participle of back order",
+      "meaningZh": "简单过去和过去",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back ordered",
+        "pp": "backed ordered",
+        "plural": "backs ordered",
+        "past": "backed ordered",
+        "ing": "backing ordered",
+        "s3": "backs ordered"
+      }
+    },
+    {
+      "text": "back down",
+      "pos": "verb",
+      "meaningEn": "To take a less aggressive position in a conflict than one previously had, or has planned to have.",
+      "meaningZh": "做出讓步 /做出让步",
+      "meaningZhSource": "kaikki",
+      "inflections": {
+        "base": "back down",
+        "pp": "backed down",
+        "plural": "backs down",
+        "past": "backed down",
+        "ing": "backing down",
+        "s3": "backs down"
+      }
+    },
+    {
+      "text": "back doors",
+      "pos": "verb",
+      "meaningEn": "A subsidiary entrance to a building or house at its rear, normally away from the street.",
+      "meaningZh": "建筑物或后方房屋的附属入口,通常远离街道。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back doors",
+        "pp": "backed doors",
+        "plural": "backs doors",
+        "past": "backed doors",
+        "ing": "backing doors",
+        "s3": "backs doors"
+      }
+    },
+    {
+      "text": "back ordering",
+      "pos": "verb",
+      "meaningEn": "present participle and gerund of back order",
+      "meaningZh": "现参加和后序",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back ordering",
+        "pp": "backed ordering",
+        "plural": "backs ordering",
+        "past": "backed ordering",
+        "ing": "backing ordering",
+        "s3": "backs ordering"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T09:25:08.342963Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
