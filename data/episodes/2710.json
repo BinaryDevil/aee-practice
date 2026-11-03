@@ -1,0 +1,507 @@
+{
+  "schemaVersion": 1,
+  "number": 2710,
+  "guid": "babe5014-c5e1-11f1-9467-638c814ad3b9",
+  "title": "Should You Tell Someone They're Aging Like a Fine Wine?",
+  "subtitle": "Learn the nuances of this expression in English",
+  "pubDate": "2026-10-26T05:00:00",
+  "durationSec": 1571,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE6050537930.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/business",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "age-like-a-fine-wine",
+      "text": "age like a fine wine",
+      "display": "age like a fine wine",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 24,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "To age well; to look or become better as one becomes older.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "长到老;长到大看或变好。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 609.48,
+          "end": 610.92,
+          "sentence": "aging like a fine wine.",
+          "sentenceZh": "老得像个美酒",
+          "sentenceZhSource": "mt",
+          "answer": "aging like a fine wine",
+          "answerStart": 0,
+          "answerEnd": 22,
+          "answerForm": "other"
+        },
+        {
+          "start": 642.2,
+          "end": 647.08,
+          "sentence": "it sarcastically or you might be like, yeah, not exactly aging like a fine wine, but here we are.",
+          "sentenceZh": "讽刺地说,或者你可能喜欢, 是啊,不完全老 像美酒, 但我们在这里。",
+          "sentenceZhSource": "mt",
+          "answer": "aging like a fine wine",
+          "answerStart": 57,
+          "answerEnd": 79,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "age like a fine wine",
+        "plural": "ages like a fine wine",
+        "pp": "aged like a fine wine",
+        "ing": "ageing like a fine wine",
+        "s3": "ages like a fine wine",
+        "past": "aged like a fine wine"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    }
+  ],
+  "distractors": [
+    {
+      "text": "wine and dine",
+      "pos": "verb",
+      "meaningEn": "To entertain or woo someone with a fine meal.",
+      "meaningZh": "来娱乐或追求一个有美食的人",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "wine and dine",
+        "plural": "wines and dine",
+        "past": "wined and dine",
+        "pp": "wined and dine",
+        "ing": "wining and dine",
+        "s3": "wines and dine"
+      }
+    },
+    {
+      "text": "accept",
+      "pos": "verb",
+      "meaningEn": "To receive, especially with a consent, with favour, or with approval.",
+      "meaningZh": "接受；承认；同意",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accept",
+        "pp": "accepted",
+        "past": "accepted",
+        "ing": "accepting",
+        "s3": "accepts"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "agree",
+      "pos": "verb",
+      "meaningEn": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.",
+      "meaningZh": "同意；赞成；应允",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agree",
+        "pp": "agreed",
+        "past": "agreed",
+        "s3": "agrees",
+        "ing": "agreeing"
+      }
+    },
+    {
+      "text": "allow",
+      "pos": "verb",
+      "meaningEn": "To let one have as a suitable share of something.",
+      "meaningZh": "允许；同意给予；承认",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allow",
+        "pp": "allowed",
+        "ing": "allowing",
+        "s3": "allows",
+        "past": "allowed"
+      }
+    },
+    {
+      "text": "appear",
+      "pos": "verb",
+      "meaningEn": "To come or be in sight; to be in view; to become visible.",
+      "meaningZh": "出现；显得；来到",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "appear",
+        "past": "appeared",
+        "s3": "appears",
+        "ing": "appearing",
+        "pp": "appeared"
+      }
+    },
+    {
+      "text": "approach",
+      "pos": "verb",
+      "meaningEn": "To come or go near, in place or time; to move toward; to advance nearer; to draw nigh.",
+      "meaningZh": "接近；入门；接近",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "approach",
+        "plural": "approaches",
+        "past": "approached",
+        "ing": "approaching",
+        "pp": "approached",
+        "s3": "approaches"
+      }
+    },
+    {
+      "text": "argue",
+      "pos": "verb",
+      "meaningEn": "To show grounds for concluding; to indicate, imply.",
+      "meaningZh": "提出理由；争论；辩论",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "argue",
+        "pp": "argued",
+        "past": "argued",
+        "s3": "argues",
+        "ing": "arguing"
+      }
+    },
+    {
+      "text": "arrive",
+      "pos": "verb",
+      "meaningEn": "To reach; to get to a certain place.",
+      "meaningZh": "到达；抵达",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "arrive",
+        "past": "arrived",
+        "pp": "arrived",
+        "ing": "arriving",
+        "s3": "arrives"
+      }
+    },
+    {
+      "text": "ask",
+      "pos": "verb",
+      "meaningEn": "To request.",
+      "meaningZh": "问；要求；问",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ask",
+        "past": "asked",
+        "pp": "asked",
+        "ing": "asking",
+        "s3": "asks"
+      }
+    },
+    {
+      "text": "be",
+      "pos": "verb",
+      "meaningEn": "Used with past participles of verbs to form the passive voice.",
+      "meaningZh": "是；表示；在",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "be",
+        "past": "was",
+        "s3": "is",
+        "pp": "been",
+        "ing": "being"
+      }
+    },
+    {
+      "text": "become",
+      "pos": "verb",
+      "meaningEn": "begin to be; turn into.",
+      "meaningZh": "变成；变得；适合",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "become",
+        "past": "became",
+        "pp": "become",
+        "s3": "becomes",
+        "ing": "becoming"
+      }
+    },
+    {
+      "text": "begin",
+      "pos": "verb",
+      "meaningEn": "To start, to initiate or take the first step into something.",
+      "meaningZh": "开始",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "begin",
+        "past": "began",
+        "ing": "beginning",
+        "pp": "begun",
+        "s3": "begins"
+      }
+    },
+    {
+      "text": "believe",
+      "pos": "verb",
+      "meaningEn": "To accept as true, particularly without absolute certainty.",
+      "meaningZh": "相信",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "believe",
+        "past": "believed",
+        "s3": "believes",
+        "pp": "believed",
+        "ing": "believing"
+      }
+    },
+    {
+      "text": "break",
+      "pos": "verb",
+      "meaningEn": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+      "meaningZh": "休息；中断；破裂处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "break",
+        "past": "broke",
+        "pp": "broken",
+        "ing": "breaking",
+        "s3": "breaks",
+        "plural": "breaks"
+      }
+    },
+    {
+      "text": "bring",
+      "pos": "verb",
+      "meaningEn": "To transport toward somebody/somewhere.",
+      "meaningZh": "带来；产生；促使",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "bring",
+        "pp": "brought",
+        "past": "brought",
+        "ing": "bringing",
+        "s3": "brings"
+      }
+    },
+    {
+      "text": "build",
+      "pos": "verb",
+      "meaningEn": "To form by combining materials or parts.",
+      "meaningZh": "建立；建筑；构造",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "build",
+        "pp": "built",
+        "ing": "building",
+        "past": "built",
+        "s3": "builds"
+      }
+    },
+    {
+      "text": "buy",
+      "pos": "verb",
+      "meaningEn": "To obtain in exchange for money or goods.",
+      "meaningZh": "买；获得；买",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "buy",
+        "past": "bought",
+        "ing": "buying",
+        "pp": "bought",
+        "s3": "buys",
+        "plural": "buys"
+      }
+    },
+    {
+      "text": "call",
+      "pos": "verb",
+      "meaningEn": "To request, summon, or beckon.",
+      "meaningZh": "呼叫；访问；打电话",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "call",
+        "pp": "called",
+        "past": "called",
+        "ing": "calling",
+        "plural": "calls",
+        "s3": "calls"
+      }
+    },
+    {
+      "text": "carry",
+      "pos": "verb",
+      "meaningEn": "To lift and take it to another place; to transport by lifting.",
+      "meaningZh": "进位；射程；运载",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "carry",
+        "pp": "carried",
+        "ing": "carrying",
+        "past": "carried",
+        "s3": "carries"
+      }
+    },
+    {
+      "text": "change",
+      "pos": "verb",
+      "meaningEn": "To become something different.",
+      "meaningZh": "变化；找回的零钱；找头",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "change",
+        "plural": "changes",
+        "pp": "changed",
+        "ing": "changing",
+        "past": "changed",
+        "s3": "changes"
+      }
+    },
+    {
+      "text": "choose",
+      "pos": "verb",
+      "meaningEn": "To pick; to make the choice of; to select.",
+      "meaningZh": "选择；宁愿；欲",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "choose",
+        "pp": "chosen",
+        "past": "chose",
+        "ing": "choosing",
+        "s3": "chooses"
+      }
+    },
+    {
+      "text": "close",
+      "pos": "verb",
+      "meaningEn": "To move a thing, or part of a thing, nearer to another so that the gap or opening between the two is removed.",
+      "meaningZh": "结束；完结；靠近的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "close",
+        "past": "closed",
+        "pp": "closed",
+        "ing": "closing",
+        "s3": "closes"
+      }
+    },
+    {
+      "text": "come",
+      "pos": "verb",
+      "meaningEn": "To move nearer to the point of perspective.",
+      "meaningZh": "过来；来；到达",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "come",
+        "past": "came",
+        "ing": "coming",
+        "s3": "comes",
+        "pp": "come"
+      }
+    },
+    {
+      "text": "compare",
+      "pos": "verb",
+      "meaningEn": "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
+      "meaningZh": "比较；比喻；对照",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "compare",
+        "pp": "compared",
+        "ing": "comparing",
+        "s3": "compares",
+        "past": "compared"
+      }
+    },
+    {
+      "text": "consider",
+      "pos": "verb",
+      "meaningEn": "To think about seriously.",
+      "meaningZh": "考虑；思考；认为",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "consider",
+        "pp": "considered",
+        "ing": "considering",
+        "past": "considered",
+        "s3": "considers"
+      }
+    },
+    {
+      "text": "continue",
+      "pos": "verb",
+      "meaningEn": "To proceed with; to prolong.",
+      "meaningZh": "继续；延续；延长",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "continue",
+        "past": "continued",
+        "s3": "continues",
+        "pp": "continued",
+        "ing": "continuing"
+      }
+    },
+    {
+      "text": "control",
+      "pos": "verb",
+      "meaningEn": "To exercise influence over; to suggest or dictate the behavior of.",
+      "meaningZh": "控制；管理；克制",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "control",
+        "plural": "controls",
+        "pp": "controlled",
+        "ing": "controlling",
+        "s3": "controls",
+        "past": "controlled"
+      }
+    },
+    {
+      "text": "cost",
+      "pos": "verb",
+      "meaningEn": "To incur a charge of; to require payment of a price.",
+      "meaningZh": "代价；价值；费用",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "cost",
+        "plural": "costs",
+        "s3": "costs",
+        "ing": "costing",
+        "past": "cost",
+        "pp": "cost"
+      }
+    },
+    {
+      "text": "create",
+      "pos": "verb",
+      "meaningEn": "To bring into existence",
+      "meaningZh": "创造；建造；引起",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "create",
+        "pp": "created",
+        "ing": "creating",
+        "s3": "creates",
+        "past": "created"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T09:59:14.688176Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

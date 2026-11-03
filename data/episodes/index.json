@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T09:51:30.337400Z",
+  "generatedAt": "2026-11-03T09:59:14.692907Z",
   "episodes": [
     {
       "number": 2715,
@@ -41,6 +41,16 @@
       "itemCount": 1,
       "hasBlog": false,
       "file": "episodes/2712.json"
+    },
+    {
+      "number": 2710,
+      "guid": "babe5014-c5e1-11f1-9467-638c814ad3b9",
+      "title": "Should You Tell Someone They're Aging Like a Fine Wine?",
+      "pubDate": "2026-10-26T05:00:00",
+      "durationSec": 1571,
+      "itemCount": 1,
+      "hasBlog": false,
+      "file": "episodes/2710.json"
     },
     {
       "number": 2702,
