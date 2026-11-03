@@ -127,6 +127,11 @@ def main():
                                 else:
                                     before = page.evaluate('window.__aee.audio.currentTime')
                                     page.wait_for_function('(before) => window.__aee.audio.currentTime > before + 0.2', arg=before, timeout=10000)
+                                    # Ad-drift nudge: +15s re-seeks the same clip 15s later (and is remembered per episode).
+                                    page.get_by_test_id('nudge-forward').click()
+                                    page.wait_for_function('(start) => Math.abs(window.__aee.audio.currentTime - Math.max(0,start+15-.5)) < 1.5', arg=start, timeout=20000)
+                                    page.get_by_test_id('nudge-back').click()
+                                    page.wait_for_function('(start) => Math.abs(window.__aee.audio.currentTime - Math.max(0,start-.5)) < 1.5', arg=start, timeout=20000)
                                 clicked_audio = True
                         page.get_by_test_id('next-button').click()
                     assert saw_retry, 'Retry round did not appear'

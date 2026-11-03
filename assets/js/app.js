@@ -51,16 +51,28 @@ const date = d => {
     day: 'numeric'
   });
 };
-const clip = (o, ep = episode) => o ? `<button class="clip" data-testid="play-button" data-start="${Number(o.start) || 0}" data-end="${Number(o.end) || 0}" data-audio="${esc(ep?.audioUrl || '')}" data-url="${esc(ep?.episodeUrl || '')}" aria-label="${t('play')}">▶ <span>${Math.floor((o.start || 0) / 60)}:${String(Math.floor((o.start || 0) % 60)).padStart(2, '0')}</span></button>` : '';
+const clip = (o, ep = episode) => o ? `<button class="clip" data-testid="play-button" data-start="${Number(o.start) || 0}" data-end="${Number(o.end) || 0}" data-audio="${esc(ep?.audioUrl || '')}" data-url="${esc(ep?.episodeUrl || '')}" data-episode="${esc(String(ep?.number ?? ''))}" aria-label="${t('play')}">▶ <span>${Math.floor((o.start || 0) / 60)}:${String(Math.floor((o.start || 0) % 60)).padStart(2, '0')}</span></button>` : '';
 window.__aee = {
   audio,
   lastClip: null
 };
 let clipEnd = null;
+let lastButton = null;
+// The official MP3 has dynamically inserted ads whose length varies per listener, so a clip can land
+// early or late. Learners can nudge it; the offset is remembered per episode.
+const offsetKey = n => `aee-offset-${n}`;
+const getOffset = n => Number(localStorage.getItem(offsetKey(n))) || 0;
+function clipBar(n) {
+  const off = getOffset(n);
+  $('#clip-bar').innerHTML = `<span>${t('clipOff')}</span> <button type="button" data-testid="nudge-back" data-nudge="-15">−15s</button> <button type="button" data-testid="nudge-forward" data-nudge="15">+15s</button>${off ? ` <small data-testid="nudge-offset">${off > 0 ? '+' : ''}${off}s</small>` : ''}`;
+}
 function playClip(button) {
-  const start = Number(button.dataset.start),
-    end = Number(button.dataset.end),
+  lastButton = button;
+  const n = button.dataset.episode, offset = n ? getOffset(n) : 0;
+  const start = Number(button.dataset.start) + offset,
+    end = Number(button.dataset.end) + offset,
     src = button.dataset.audio;
+  if (n) clipBar(n);
   window.__aee.lastClip = {
     start,
     end
@@ -169,6 +181,7 @@ function showQuestion() {
   selectedExplanation = null;
   const occurrence = q.occurrence;
   const ep = {
+    number: q.episodeNumber,
     audioUrl: q.audioUrl,
     episodeUrl: q.episodeUrl
   };
@@ -235,6 +248,7 @@ function renderExplanation() {
   } = selectedExplanation;
   const o = q.occurrence;
   const ep = {
+    number: q.episodeNumber,
     audioUrl: q.audioUrl,
     episodeUrl: q.episodeUrl
   };
@@ -346,6 +360,12 @@ $('#language-switch').onclick = () => {
 document.addEventListener('click', e => {
   const b = e.target.closest('[data-testid="play-button"]');
   if (b) playClip(b);
+  const nudge = e.target.closest('[data-nudge]');
+  if (nudge && lastButton?.dataset.episode) {
+    const n = lastButton.dataset.episode;
+    localStorage.setItem(offsetKey(n), String(getOffset(n) + Number(nudge.dataset.nudge)));
+    playClip(lastButton);
+  }
 });
 window.addEventListener('hashchange', route);
 Promise.all([json('data/episodes/index.json').catch(() => ({

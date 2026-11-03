@@ -31,6 +31,7 @@ export default {
   explanation: '解释语言',
   ui: '界面语言',
   both: '双语',
+  clipOff: '片段位置不对？官方音频中的广告长度不固定，可以微调：',
   play: '播放片段',
   audioError: '无法加载音频。',
   official: '打开官方节目',

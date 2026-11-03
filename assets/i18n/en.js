@@ -31,6 +31,7 @@ export default {
   explanation: 'Explanation language',
   ui: 'Interface language',
   both: 'Both',
+  clipOff: 'Clip in the wrong place? Ads in the official audio vary — nudge it:',
   play: 'Play clip',
   audioError: 'Audio could not be loaded.',
   official: 'Open the official episode',
