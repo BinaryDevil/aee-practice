@@ -1,7 +1,7 @@
 import en from '../i18n/en.js';
 import zh from '../i18n/zh-CN.js';
 import { config } from './config.js';
-import { buildSession, blankSentence } from './quiz.js';
+import { buildSession, blankSentence, checkRecall } from './quiz.js';
 import { explanation } from './explain.js';
 const $ = s => document.querySelector(s),
   app = $('#app'),
@@ -28,7 +28,6 @@ let settings = read('aee-settings', {
   misses = new Map(),
   retrying = false,
   score = 0,
-  matchSelected = false,
   selectedExplanation = null;
 const t = k => (settings.ui === 'zh' ? zh : en)[k] || k;
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({
@@ -177,7 +176,6 @@ function showQuestion() {
     return;
   }
   answered = false;
-  matchSelected = false;
   selectedExplanation = null;
   const occurrence = q.occurrence;
   const ep = {
@@ -190,23 +188,27 @@ function showQuestion() {
     cloze: 'clozePrompt',
     listening: 'listeningPrompt',
     chinese: 'chinesePrompt',
-    match: 'matchPrompt'
+    definition: 'definitionPrompt',
+    recall: 'recallPrompt'
   }[q.type]);
-  app.innerHTML = `<div class="quiz-head"><a class="back" href="#/">← ${t('home')}</a><span>${retrying ? t('retry') : `${cursor + 1} / ${session.length}`}</span></div><div class="progress"><span style="width:${cursor / session.length * 100}%"></span></div><section class="question" data-has-tip="${Boolean(q.item.teacherNote || q.item.synonyms?.length || (q.item.tags || []).some(tag => ['informal', 'formal', 'slang'].includes(tag)))}"><p class="eyebrow">${t('quiz')} · ${q.type === 'listening' ? '♫' : q.type === 'match' ? '↔' : '✦'}</p><h1>${prompt}</h1>${q.type === 'meaning' ? `<p class="question-word">${esc(q.item.display || q.item.text)}</p>` : ''}${q.type === 'chinese' ? `<p class="question-word">${esc(q.item.meaningZh)}</p>` : ''}${occurrence ? `<div class="sentence">${clip(occurrence, ep)} <span>${esc(['cloze', 'listening'].includes(q.type) ? blankSentence(occurrence) : occurrence.sentence)}</span></div>` : ''}<div id="options" class="options"></div><div id="feedback" aria-live="polite"></div><button class="primary next" data-testid="next-button" hidden>${t('next')}</button></section>`;
+  // Listening hides the sentence and recall hides the audio, so neither can be answered by the other channel.
+  const sentenceBlock = !occurrence ? '' : q.type === 'listening' ? `${clip(occurrence, ep)} <span class="hidden-sentence">${t('listenHint')}</span>` : `${q.type === 'recall' ? '' : clip(occurrence, ep)} <span>${esc(['cloze', 'recall'].includes(q.type) ? blankSentence(occurrence) : occurrence.sentence)}</span>`;
+  app.innerHTML = `<div class="quiz-head"><a class="back" href="#/">← ${t('home')}</a><span>${retrying ? t('retry') : `${cursor + 1} / ${session.length}`}</span></div><div class="progress"><span style="width:${cursor / session.length * 100}%"></span></div><section class="question" data-has-tip="${Boolean(q.item.teacherNote || q.item.synonyms?.length || (q.item.tags || []).some(tag => ['informal', 'formal', 'slang'].includes(tag)))}"><p class="eyebrow">${t('quiz')} · ${q.type === 'listening' ? '♫' : q.type === 'recall' ? '✎' : '✦'}</p><h1>${prompt}</h1>${q.type === 'meaning' ? `<p class="question-word">${esc(q.item.display || q.item.text)}</p>` : ''}${q.type === 'chinese' ? `<p class="question-word">${esc(q.item.meaningZh)}</p>` : ''}${q.type === 'definition' ? `<p class="question-word definition">${esc(q.item.meaningEn)}</p>` : ''}${sentenceBlock ? `<div class="sentence" data-testid="question-sentence">${sentenceBlock}</div>` : ''}<div id="options" class="options"></div><div id="feedback" aria-live="polite"></div><button class="primary next" data-testid="next-button" hidden>${t('next')}</button></section>`;
   renderOptions(q);
   $('[data-testid="next-button"]').onclick = advance;
 }
 function renderOptions(q) {
   const el = $('#options');
-  if (q.type === 'match' && !matchSelected) {
-    el.innerHTML = `<button class="option" data-testid="match-pair-tile">${esc(q.item.display || q.item.text)}</button>`;
-    el.querySelector('button').onclick = () => {
-      matchSelected = true;
-      renderOptions(q);
-    };
+  if (q.type === 'recall') {
+    el.innerHTML = `<form class="recall" data-testid="recall-form"><label for="recall-input">${t('recallLabel')} <code data-testid="recall-hint">${esc(q.hint)}</code></label><input id="recall-input" data-testid="recall-input" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="recall-actions"><button class="primary" data-testid="recall-submit">${t('check')}</button><button type="button" class="text-button" data-testid="recall-giveup">${t('giveUp')}</button></div></form>`;
+    const input = el.querySelector('input');
+    const submit = typed => answer(q, {item: {text: q.occurrence.answer, typed}, correct: checkRecall(q, typed)});
+    el.querySelector('form').onsubmit = e => { e.preventDefault(); submit(input.value); };
+    el.querySelector('[data-testid="recall-giveup"]').onclick = () => submit('');
+    input.focus();
     return;
   }
-  el.innerHTML = (q.type === 'match' ? `<p>${t('matchSelect')}</p>` : '') + q.options.map((o, i) => `<button class="option" data-testid="${q.type === 'match' ? 'match-pair-tile' : 'option-button'}" data-index="${i}" data-correct="${o.correct}" data-meaning-en="${esc(o.item.meaningEn)}" data-meaning-zh="${esc(o.item.meaningZh)}">${q.type === 'meaning' || q.type === 'match' ? meaning(o.item) : esc(o.text)}</button>`).join('');
+  el.innerHTML = q.options.map((o, i) => `<button class="option" data-testid="option-button" data-index="${i}" data-correct="${o.correct}" data-meaning-en="${esc(o.item.meaningEn)}" data-meaning-zh="${esc(o.item.meaningZh)}">${q.type === 'meaning' ? meaning(o.item) : esc(o.text)}</button>`).join('');
   el.querySelectorAll('button').forEach(b => b.onclick = () => answer(q, q.options[Number(b.dataset.index)]));
 }
 function answer(q, option) {
@@ -235,9 +237,26 @@ function answer(q, option) {
     right,
     lang: settings.explanation === 'zh' ? 'zh' : 'en'
   };
-  document.querySelectorAll('#options button').forEach(b => b.disabled = true);
+  document.querySelectorAll('#options button, #options input').forEach(b => b.disabled = true);
+  document.querySelectorAll('#options .option').forEach(b => {
+    if (b.dataset.correct === 'true') b.classList.add('is-correct');
+    else if (q.options[Number(b.dataset.index)] === option) b.classList.add('is-wrong');
+  });
+  $('#recall-input')?.classList.add(right ? 'is-correct' : 'is-wrong');
+  revealSentence(q);
   renderExplanation();
   $('[data-testid="next-button"]').hidden = false;
+}
+// Once answered, show the full sentence (with the expression marked) and its clip in the question card.
+function markedSentence(o) {
+  if (!o) return '';
+  if (!Number.isInteger(o.answerStart) || !Number.isInteger(o.answerEnd)) return esc(o.sentence || '');
+  return `${esc(o.sentence.slice(0, o.answerStart))}<mark>${esc(o.sentence.slice(o.answerStart, o.answerEnd))}</mark>${esc(o.sentence.slice(o.answerEnd))}`;
+}
+function revealSentence(q) {
+  const box = $('[data-testid="question-sentence"]');
+  if (!box || !q.occurrence) return;
+  box.innerHTML = `${clip(q.occurrence, {number: q.episodeNumber, audioUrl: q.audioUrl, episodeUrl: q.episodeUrl})} <span>${markedSentence(q.occurrence)}</span>`;
 }
 function renderExplanation() {
   const {
@@ -254,14 +273,15 @@ function renderExplanation() {
   };
   const x = explanation(q.item, option.item, lang, right, q.type, o);
   const meaning = `${esc(x.meaning)}${x.secondary ? `<br>${esc(x.secondary)}` : ''}`;
-  let sentence = esc(o?.sentence || '');
-  if (o && Number.isInteger(o.answerStart) && Number.isInteger(o.answerEnd)) {
-    sentence = `${esc(o.sentence.slice(0, o.answerStart))}<mark>${esc(o.sentence.slice(o.answerStart, o.answerEnd))}</mark>${esc(o.sentence.slice(o.answerEnd))}`;
-  }
+  const sentence = markedSentence(o);
   const context = `<div data-testid="exp-episode">② ${lang === 'zh' ? '在节目中：' : 'In the episode:'} ${clip(o, ep)} ${sentence ? `“${sentence}”` : ''}${o?.sentenceZh ? `<div class="translation">机器翻译（仅供参考）：${esc(o.sentenceZh)}</div>` : ''}</div>`;
-  $('#feedback').innerHTML = `<div class="feedback ${right ? 'correct' : 'wrong'}" data-testid="explanation-panel"><h2>${esc(x.heading)}</h2>${right ? `<details><summary>${t('correctMeaning')}</summary><p data-testid="exp-meaning">${meaning}</p></details>` : `<p data-testid="exp-meaning">${meaning}</p>${context}<p data-testid="exp-why">${esc(x.why)}</p>${x.tip ? `<p data-testid="exp-tip">${esc(x.tip)}</p>` : ''}`}<button class="text-button" id="other-language">${t('showOther')}</button></div>`;
+  $('#feedback').innerHTML = `<div class="feedback ${right ? 'correct' : 'wrong'}" data-testid="explanation-panel"><h2>${esc(x.heading)}</h2>${right ? `<details${selectedExplanation.open ? ' open' : ''}><summary>${t('correctMeaning')}</summary><p data-testid="exp-meaning">${meaning}</p></details>` : `<p data-testid="exp-meaning">${meaning}</p>${context}<p data-testid="exp-why">${esc(x.why)}</p>${x.tip ? `<p data-testid="exp-tip">${esc(x.tip)}</p>` : ''}`}<button class="text-button" id="other-language" data-testid="other-language" lang="${lang === 'zh' ? 'en' : 'zh'}">${lang === 'zh' ? 'Explain in English' : '用中文解释'}</button></div>`;
+  const details = $('#feedback details');
+  if (details) details.ontoggle = () => { selectedExplanation.open = details.open; };
   $('#other-language').onclick = () => {
+    // Switching language is a request to read the explanation, so keep the meaning section open.
     selectedExplanation.lang = lang === 'zh' ? 'en' : 'zh';
+    selectedExplanation.open = true;
     renderExplanation();
   };
 }

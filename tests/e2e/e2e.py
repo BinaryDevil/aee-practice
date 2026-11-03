@@ -78,22 +78,34 @@ def main():
                     first_pass = True
                     clicked_audio = False
                     saw_retry = False
+                    checked_toggle = False
                     steps = 0
                     while not page.get_by_test_id('results-screen').count():
                         steps += 1
                         assert steps < 40, 'Quiz did not finish'
-                        if page.get_by_test_id('match-pair-tile').count() == 1:
-                            page.get_by_test_id('match-pair-tile').click()
-                        choices = page.locator('[data-correct]')
                         if first_pass and page.get_by_text('再试一次' if language == 'zh' else 'Let’s try these again', exact=True).count():
                             first_pass = False
                             saw_retry = True
-                        choice = page.locator('[data-correct="false"]').first
-                        if not first_pass or not choice.count():
-                            choice = page.locator('[data-correct="true"]').first
-                        chosen_meaning = choice.get_attribute('data-meaning-zh' if language == 'zh' else 'data-meaning-en')
                         sentence = page.locator('.sentence span').last.inner_text() if page.locator('.sentence span').count() else ''
-                        choice.click()
+                        if page.locator('.hidden-sentence').count():
+                            sentence = ''  # listening questions reveal the sentence only after answering
+                            assert not page.locator('.sentence mark').count()
+                        if page.get_by_test_id('recall-input').count():
+                            # Typed question: a wrong answer on the first pass, "show answer" on the retry.
+                            chosen_meaning = None
+                            assert page.get_by_test_id('recall-hint').inner_text().strip()
+                            assert not page.get_by_test_id('question-sentence').get_by_test_id('play-button').count()
+                            if first_pass:
+                                page.get_by_test_id('recall-input').fill('zzz')
+                                page.get_by_test_id('recall-submit').click()
+                            else:
+                                page.get_by_test_id('recall-giveup').click()
+                        else:
+                            choice = page.locator('[data-correct="false"]').first
+                            if not first_pass or not choice.count():
+                                choice = page.locator('[data-correct="true"]').first
+                            chosen_meaning = choice.get_attribute('data-meaning-zh' if language == 'zh' else 'data-meaning-en')
+                            choice.click()
                         panel = page.get_by_test_id('explanation-panel')
                         panel.wait_for()
                         assert not any(x in panel.inner_text().lower() for x in ('undefined', 'null', 'nan'))
@@ -133,7 +145,13 @@ def main():
                                     page.get_by_test_id('nudge-back').click()
                                     page.wait_for_function('(start) => Math.abs(window.__aee.audio.currentTime - Math.max(0,start-.5)) < 1.5', arg=start, timeout=20000)
                                 clicked_audio = True
+                        if not first_pass and page.get_by_test_id('exp-meaning').count() and not page.get_by_test_id('exp-meaning').is_visible():
+                            # Correct answer: the language toggle must reveal the meaning, not just swap the heading.
+                            page.get_by_test_id('other-language').click()
+                            assert page.get_by_test_id('exp-meaning').is_visible()
+                            checked_toggle = True
                         page.get_by_test_id('next-button').click()
+                    assert checked_toggle, 'Language toggle on a correct answer was not checked'
                     assert saw_retry, 'Retry round did not appear'
                     assert clicked_audio
                     page.screenshot(path=str(screenshots / f'{row["number"]}-{language}-results.png'), full_page=True)

@@ -61,7 +61,10 @@ export function explanation(item, chosen, lang = 'en', correct = false, type = '
   const name = clean(chosen?.text);
   const gloss = chinese ? clean(chosen?.meaningZh) : embeddedGloss(chosen?.meaningEn);
   const translation = !chinese && clean(chosen?.meaningZh) ? ` (${clean(chosen.meaningZh)})` : '';
-  const why = name && gloss ? `${chinese ? `③ 为什么不是“${name}”？“${name}”的意思是${gloss.replace(/[。！？]+$/, '')}${translation}。` : `③ Why not “${name}”? “${name}” means ${gloss}${translation}.`} ${contrast(item, chosen, lang, type)}`.trim() : '';
+  const typed = type === 'recall' ? clean(chosen?.typed) : '';
+  const heard = clean(occurrence?.answer) || clean(item.text);
+  const recallWhy = type === 'recall' && !correct ? chinese ? `③ 你写的是“${typed || '（空白）'}”，节目里说的是“${heard}”。` : `③ You wrote “${typed || '(nothing)'}”; the hosts said “${heard}”.` : '';
+  const why = recallWhy ? recallWhy : name && gloss && type !== 'recall' ? `${chinese ? `③ 为什么不是“${name}”？“${name}”的意思是${gloss.replace(/[。！？]+$/, '')}${translation}。` : `③ Why not “${name}”? “${name}” means ${gloss}${translation}.`} ${contrast(item, chosen, lang, type)}`.trim() : '';
   const tags = (item.tags || []).filter(tag => ['informal', 'formal', 'slang'].includes(tag));
   const tagNames = {
     informal: '非正式表达',

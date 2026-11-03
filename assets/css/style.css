@@ -5,3 +5,5 @@
 .clip-bar{position:fixed;left:0;right:0;bottom:0;z-index:20;display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;justify-content:center;padding:.5rem .75rem;background:#173c55;color:#fff;font-size:.85rem}
 .clip-bar button{border:1px solid #fff6;background:transparent;color:#fff;border-radius:999px;padding:.2rem .7rem;font:inherit;cursor:pointer}
 body{padding-bottom:6.5rem}
+.recall{display:grid;gap:12px}.recall label{color:#4f6d75}.recall code{font:18px ui-monospace,Menlo,monospace;letter-spacing:.12em;color:#183f50;background:#e8f2f0;padding:2px 8px;border-radius:5px}.recall input{min-height:52px;border:1px solid #bfd2d0;border-radius:8px;padding:10px 16px;font-size:18px;background:white;color:#183f50}.recall input:disabled{background:#f1f5f4}.recall-actions{display:flex;align-items:center;gap:18px}.hidden-sentence{color:#637d7e;font-style:italic}.question-word.definition{font:21px Georgia,serif;line-height:1.4}.sentence mark{background:#fbe7b5;color:inherit;padding:0 2px;border-radius:3px}
+.option.is-correct,.recall input.is-correct{border-color:#4b9d72;background:#e4f3ea}.option.is-wrong,.recall input.is-wrong{border-color:#cb8955;background:#fff4e9}

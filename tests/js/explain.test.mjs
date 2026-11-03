@@ -37,3 +37,10 @@ test('long distractor gloss uses its first sentence', () => {
   assert.match(x.why, /means a short first sentence/);
   assert.doesNotMatch(x.why, /More words/);
 });
+
+test('typed-answer explanations compare what was written with what was said', () => {
+  const x = explanation(item, {text: 'try', typed: 'tri'}, 'en', false, 'recall');
+  assert.match(x.why, /You wrote “tri”; the hosts said “try”/);
+  assert.match(explanation(item, {text: 'try', typed: ''}, 'zh', false, 'recall').why, /你写的是“（空白）”/);
+  assert.equal(explanation(item, {text: 'try', typed: 'try'}, 'en', true, 'recall').why, '');
+});
