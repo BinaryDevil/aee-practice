@@ -1,0 +1,14 @@
+# Caches: audio, full transcripts, lexicons, models. Never commit these (copyright / size).
+.cache/
+cache/
+*.mp3
+*.pcm
+*.part
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+test-results/
+playwright-report/
+.venv/
+venv/
