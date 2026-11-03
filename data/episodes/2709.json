@@ -1,0 +1,826 @@
+{
+  "schemaVersion": 1,
+  "number": 2709,
+  "guid": "48dbee0a-bbf7-11f1-a38b-ff41c7f1bc6c",
+  "title": "When Ugly Doesn’t Mean What You Think it Means",
+  "subtitle": "Find out other meanings of this word",
+  "pubDate": "2026-10-22T05:00:00",
+  "durationSec": 1111,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE1487441236.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "no-joke",
+      "text": "no joke",
+      "display": "no joke",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "noun",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "Something that should be taken seriously; not something that should be laughed about.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "应该认真对待的东西;不应该嘲笑的东西。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "不是开玩笑的事；困难的事；严肃的事",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 702.15,
+          "end": 706.03,
+          "sentence": "All right, we're back from break and the last one is no joke.",
+          "sentenceZh": "好吧,我们从休息回来 最后一个不是玩笑",
+          "sentenceZhSource": "mt",
+          "answer": "no joke",
+          "answerStart": 53,
+          "answerEnd": 60,
+          "answerForm": "base"
+        },
+        {
+          "start": 712.23,
+          "end": 715.33,
+          "sentence": "You might say like I waited in line for three hours, no joke.",
+          "sentenceZh": "你可能会说我在排队等了三个小时 而不是开玩笑",
+          "sentenceZhSource": "mt",
+          "answer": "no joke",
+          "answerStart": 53,
+          "answerEnd": 60,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "no joke"
+      },
+      "examples": [
+        "But, sir, it is not a farce to the Canadian people; it is no joke to the Canadian tax-payer. If it is either a farce or a joke, they must foot the bill. No , it is no joke to them; it is something else, and something a great deal worse .",
+        "Treason-felony, we repeat, is no joke; but then no more is penal servitude for nine years."
+      ],
+      "synonyms": [
+        "no laughing matter"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "you-know-what-i-mean",
+      "text": "you know what i mean",
+      "display": "you know what i mean",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 16,
+      "pos": "phrase",
+      "ipa": null,
+      "tags": [
+        "colloquial"
+      ],
+      "meaningEn": "You are familiar with the situation I am describing; used to establish common ground with the interlocutor",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "你熟悉我所描述的情况;过去你曾与对话者建立共同立场",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 498.82,
+          "end": 499.6,
+          "sentence": "You know what I mean?",
+          "sentenceZh": "你明白我的意思吗?",
+          "sentenceZhSource": "mt",
+          "answer": "You know what I mean",
+          "answerStart": 0,
+          "answerEnd": 20,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "you know what i mean"
+      },
+      "examples": [
+        "I think there's a value to having a reverence for something bigger than yourself, you know: \"There's something out there.\" Sure, you know what I mean?",
+        "Like when you've sung along with a song a thousand times but you know it so well that the words don't even mean anything anymore. They're just bits of air coming out of your mouth. You know what I mean?"
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "find-one-s-voice",
+      "text": "find one's voice",
+      "display": "find one's voice",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 16,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To become willing or able to talk or otherwise express one's opinions.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "愿意或能够谈论或以其他方式表达自己的意见。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "能说话了",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 524.26,
+          "end": 529.62,
+          "sentence": "Because before we found our voice, audio quality, awkwardness, I know when we started recording,",
+          "sentenceZh": "因为在我们找到我们的声音 音质质量 尴尬之前 我知道我们什么时候开始录音",
+          "sentenceZhSource": "mt",
+          "answer": "found our voice",
+          "answerStart": 18,
+          "answerEnd": 33,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "find one's voice",
+        "pp": "found one's voice",
+        "past": "found one's voice",
+        "ing": "finding one's voice",
+        "s3": "finds one's voice",
+        "plural": "finds one's voice"
+      },
+      "examples": [
+        "The biggest cheer of the night came shortly afterwards. St James’ Park finally found its voice to welcome back Jonás Gutiérrez into a Newcastle side for the first time since his diagnosis with testicular cancer 17 months ago."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "brutal",
+      "text": "brutal",
+      "display": "brutal",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "noun",
+      "ipa": "/ˈbɹuːtəl/",
+      "tags": [],
+      "meaningEn": "Savagely violent, vicious, ruthless, or cruel, often in an unintelligent manner.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "残忍的；野蛮的；不讲理的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 554.38,
+          "end": 558.36,
+          "sentence": "You might say the scenes in the film depicted brutal military tactics,",
+          "sentenceZh": "你可以说影片中描述残暴军事战术的场景",
+          "sentenceZhSource": "mt",
+          "answer": "brutal",
+          "answerStart": 46,
+          "answerEnd": 52,
+          "answerForm": "base"
+        },
+        {
+          "start": 575.3,
+          "end": 580.42,
+          "sentence": "Or we say this a lot in Arizona will say, oh, the heat today is brutal or the heat was brutal",
+          "sentenceZh": "或者我们在亚利桑那州经常说, 哦,今天的炎热是残酷的, 或者炎热是残酷的",
+          "sentenceZhSource": "mt",
+          "answer": "brutal",
+          "answerStart": 64,
+          "answerEnd": 70,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "brutal",
+        "plural": "brutals"
+      },
+      "examples": [
+        "The game was brutal, but after a bloodbath he finally won.",
+        "What began as a zeitgeisty outlaw romp in the Uncool Britannia of the 1990s is now reborn as a scabrous and brutal black comedy about middle-aged male disappointment and fear of death."
+      ],
+      "synonyms": [
+        "barbaric",
+        "barbarous",
+        "savage",
+        "truculent",
+        "bowelless"
+      ],
+      "concept": false,
+      "rank": 4
+    },
+    {
+      "id": "hike",
+      "text": "hike",
+      "display": "hike",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "noun",
+      "ipa": "/haɪk/",
+      "tags": [],
+      "meaningEn": "A long walk, usually for pleasure or exercise.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "徒步旅行；远足；涨价",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 570.02,
+          "end": 571.94,
+          "sentence": "I say this every time I go for a hike, right?",
+          "sentenceZh": "每次我去远足都这么说,对吧?",
+          "sentenceZhSource": "mt",
+          "answer": "hike",
+          "answerStart": 33,
+          "answerEnd": 37,
+          "answerForm": "base"
+        },
+        {
+          "start": 608.36,
+          "end": 611.94,
+          "sentence": "Where the heat is a great experience, the physical hike, but you're right.",
+          "sentenceZh": "热度是伟大的体验, 身体飞跃,但你是对的。",
+          "sentenceZhSource": "mt",
+          "answer": "hike",
+          "answerStart": 51,
+          "answerEnd": 55,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "hike",
+        "plural": "hikes",
+        "ing": "hiking",
+        "past": "hiked",
+        "pp": "hiked",
+        "s3": "hikes"
+      },
+      "examples": [
+        "Well, if it gave him so much pleasure to find the nest, he is welcome to the eggs. I can hunt another grass tuft, lay another set, and rear my brood in peace while he goes \"hiking\" after eggs at Flathead.",
+        "From here, you can pick up the asphalt bike path and take a hike across the meadow."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 5
+    },
+    {
+      "id": "disappointing",
+      "text": "disappointing",
+      "display": "disappointing",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 6.5,
+      "pos": "adj",
+      "ipa": ".disә'pɒintiŋ",
+      "tags": [],
+      "meaningEn": "Causing disappointment.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "使失望的；期待落空的；令人沮丧的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 254.54,
+          "end": 255.58,
+          "sentence": "disappointing, upsetting.",
+          "sentenceZh": "令人失望,令人沮丧。",
+          "sentenceZhSource": "mt",
+          "answer": "disappointing",
+          "answerStart": 0,
+          "answerEnd": 13,
+          "answerForm": "base"
+        },
+        {
+          "start": 264.42,
+          "end": 270.92,
+          "sentence": "kind of disappointing or difficult or terrible or something that you dread a bad situation.",
+          "sentenceZh": "一种令人失望 或困难 或可怕 或某事 你害怕 一个坏情况。",
+          "sentenceZhSource": "mt",
+          "answer": "disappointing",
+          "answerStart": 8,
+          "answerEnd": 21,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "disappointing",
+        "ing": "disappointing"
+      },
+      "examples": [
+        "disappointing results / news; a disappointing experience"
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 6
+    },
+    {
+      "id": "unpleasant",
+      "text": "unpleasant",
+      "display": "unpleasant",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 6.5,
+      "pos": "adj",
+      "ipa": "/ʌnˈplɛzn̩t/",
+      "tags": [],
+      "meaningEn": "Not pleasant.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "使人不愉快的；使人厌恶的；煞风景的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 431.68,
+          "end": 434.86,
+          "sentence": "We're just wanting to share that something was unpleasant.",
+          "sentenceZh": "我们只是想分享一些不愉快的事",
+          "sentenceZhSource": "mt",
+          "answer": "unpleasant",
+          "answerStart": 47,
+          "answerEnd": 57,
+          "answerForm": "base"
+        },
+        {
+          "start": 725.27,
+          "end": 730.67,
+          "sentence": "But in the slang sense, let's flip over to the slang sense, unpleasant or difficult or also kind",
+          "sentenceZh": "但从语语的意义上说,让我们翻过 语语的意义上,不愉快或困难 或同样善良",
+          "sentenceZhSource": "mt",
+          "answer": "unpleasant",
+          "answerStart": 60,
+          "answerEnd": 70,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "unpleasant"
+      },
+      "examples": [
+        "O sweet Portia, / Here are a few of the unpleasant’st words / That ever blotted paper!",
+        "It was indeed one admirable piece of Conduct in the said Magistrates, that the Streets were kept constantly clear, and free from all manner of frightful Objects, dead Bodies, or any such things as were indecent or unpleasant, unless where any Body fell down suddenly or died in the Streets […]"
+      ],
+      "synonyms": [
+        "disagreeable",
+        "distasteful",
+        "abhorrant",
+        "abhorrent",
+        "bad",
+        "sickly"
+      ],
+      "concept": false,
+      "rank": 7
+    }
+  ],
+  "distractors": [
+    {
+      "text": "find out",
+      "pos": "verb",
+      "meaningEn": "To discover, as by asking or investigating.",
+      "meaningZh": "找出；查明",
+      "meaningZhSource": "kaikki",
+      "inflections": {
+        "base": "find out",
+        "pp": "found out",
+        "past": "found out",
+        "ing": "finding out",
+        "s3": "finds out",
+        "plural": "finds out"
+      }
+    },
+    {
+      "text": "find another gear",
+      "pos": "verb",
+      "meaningEn": "To suddenly achieve an extra burst of athletic performance, especially after a sustained period of competitive exertion.",
+      "meaningZh": "特别是在经过了持续的竞争努力之后,突然出现了额外的体育表演。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find another gear",
+        "pp": "found another gear",
+        "past": "found another gear",
+        "ing": "finding another gear",
+        "s3": "finds another gear",
+        "plural": "finds another gear"
+      }
+    },
+    {
+      "text": "find in",
+      "pos": "verb",
+      "meaningEn": "To supply with.",
+      "meaningZh": "供应。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find in",
+        "pp": "found in",
+        "past": "found in",
+        "ing": "finding in",
+        "s3": "finds in",
+        "plural": "finds in"
+      }
+    },
+    {
+      "text": "find one's place",
+      "pos": "verb",
+      "meaningEn": "To discover one's vocation, purpose, and/or sense of belonging to or passion for something.",
+      "meaningZh": "发现一个人的职业、目的和/或归属感 或对某事的激情",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find one's place",
+        "pp": "found one's place",
+        "past": "found one's place",
+        "ing": "finding one's place",
+        "s3": "finds one's place",
+        "plural": "finds one's place"
+      }
+    },
+    {
+      "text": "find your height",
+      "pos": "phrase",
+      "meaningEn": "to line up by height; to queue up by height",
+      "meaningZh": "高度排行; 高度排队",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find your height",
+        "pp": "found your height",
+        "past": "found your height",
+        "ing": "finding your height",
+        "s3": "finds your height",
+        "plural": "finds your height"
+      }
+    },
+    {
+      "text": "find a friendly bush",
+      "pos": "verb",
+      "meaningEn": "To urinate or defecate or to seek relative privacy for that purpose; to relieve oneself, particularly outdoors.",
+      "meaningZh": "为此目的,小便或排便或寻求相对隐私;自解,特别是户外的自解。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find a friendly bush",
+        "pp": "found a friendly bush",
+        "past": "found a friendly bush",
+        "ing": "finding a friendly bush",
+        "s3": "finds a friendly bush",
+        "plural": "finds a friendly bush"
+      }
+    },
+    {
+      "text": "find fault",
+      "pos": "verb",
+      "meaningEn": "To criticize something excessively.",
+      "meaningZh": "批评过度的东西。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find fault",
+        "pp": "found fault",
+        "past": "found fault",
+        "ing": "finding fault",
+        "s3": "finds fault",
+        "plural": "finds fault"
+      }
+    },
+    {
+      "text": "find favour",
+      "pos": "verb",
+      "meaningEn": "To be met with approval.",
+      "meaningZh": "须经核准。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find favour",
+        "pp": "found favour",
+        "past": "found favour",
+        "ing": "finding favour",
+        "s3": "finds favour",
+        "plural": "finds favour"
+      }
+    },
+    {
+      "text": "find god",
+      "pos": "verb",
+      "meaningEn": "To develop a faith in God or divine beings in general; to join a religious group and become a believer.",
+      "meaningZh": "培养对上帝或一般神灵的信仰;加入一个宗教团体并成为信徒。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find god",
+        "pp": "found god",
+        "past": "found god",
+        "ing": "finding god",
+        "s3": "finds god",
+        "plural": "finds god"
+      }
+    },
+    {
+      "text": "find one's tongue",
+      "pos": "verb",
+      "meaningEn": "To speak after being unable to do so or after remaining silent; to find something to say.",
+      "meaningZh": "在无法发言或保持沉默之后发言;找到话语。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "find one's tongue",
+        "pp": "found one's tongue",
+        "past": "found one's tongue",
+        "ing": "finding one's tongue",
+        "s3": "finds one's tongue",
+        "plural": "finds one's tongue"
+      }
+    },
+    {
+      "text": "hike up",
+      "pos": "verb",
+      "meaningEn": "To lift; to tug or pull upwards.",
+      "meaningZh": "升起 拖拉或往上拉",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hike up",
+        "plural": "hikes up",
+        "ing": "hiking up",
+        "past": "hiked up",
+        "pp": "hiked up",
+        "s3": "hikes up"
+      }
+    },
+    {
+      "text": "hike out",
+      "pos": "verb",
+      "meaningEn": "to lean over the edge of a boat, in order to counterbalance its weight when it is tilted, to avoid heeling.",
+      "meaningZh": "在船的边缘倾斜,以抵消倾斜时的重量,避免跟足。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hike out",
+        "plural": "hikes out",
+        "ing": "hiking out",
+        "past": "hiked out",
+        "pp": "hiked out",
+        "s3": "hikes out"
+      }
+    },
+    {
+      "text": "hike the appalachian trail",
+      "pos": "verb",
+      "meaningEn": "To engage in an extramarital affair.",
+      "meaningZh": "参与婚外情",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hike the appalachian trail",
+        "plural": "hikes the appalachian trail",
+        "ing": "hiking the appalachian trail",
+        "past": "hiked the appalachian trail",
+        "pp": "hiked the appalachian trail",
+        "s3": "hikes the appalachian trail"
+      }
+    },
+    {
+      "text": "joke around",
+      "pos": "verb",
+      "meaningEn": ": bowdlerization of fuck around",
+      "meaningZh": ": 到处乱乱乱乱乱乱乱",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "joke around",
+        "plural": "jokes around",
+        "ing": "joking around",
+        "past": "joked around",
+        "s3": "jokes around",
+        "pp": "joked around"
+      }
+    },
+    {
+      "text": "joke up",
+      "pos": "verb",
+      "meaningEn": "To make jokes aimed upward in social class or level of authority.",
+      "meaningZh": "以社会阶层或权力级别上更上一层楼的恶作剧。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "joke up",
+        "plural": "jokes up",
+        "ing": "joking up",
+        "past": "joked up",
+        "s3": "jokes up",
+        "pp": "joked up"
+      }
+    },
+    {
+      "text": "joke it up",
+      "pos": "verb",
+      "meaningEn": "To be funny, make jokes and carry on.",
+      "meaningZh": "幽默点 开玩笑 继续",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "joke it up",
+        "plural": "jokes it up",
+        "ing": "joking it up",
+        "past": "joked it up",
+        "s3": "jokes it up",
+        "pp": "joked it up"
+      }
+    },
+    {
+      "text": "know about",
+      "pos": "verb",
+      "meaningEn": "To have positive inclinations regarding; to have no doubts regarding.",
+      "meaningZh": "具有积极的倾向;毫不怀疑。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know about",
+        "past": "knew about",
+        "pp": "known about",
+        "s3": "knows about",
+        "ing": "knowing about"
+      }
+    },
+    {
+      "text": "know ball",
+      "pos": "verb",
+      "meaningEn": "To be knowledgeable about and competent at a particular subject or task.",
+      "meaningZh": "了解并胜任某一主题或任务。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know ball",
+        "past": "knew ball",
+        "pp": "known ball",
+        "s3": "knows ball",
+        "ing": "knowing ball"
+      }
+    },
+    {
+      "text": "know better",
+      "pos": "verb",
+      "meaningEn": "To recognize that a statement or belief is false or doubtful.",
+      "meaningZh": "承认某一声明或信仰是虚假或可疑的。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know better",
+        "past": "knew better",
+        "pp": "known better",
+        "s3": "knows better",
+        "ing": "knowing better"
+      }
+    },
+    {
+      "text": "know of",
+      "pos": "verb",
+      "meaningEn": "To be aware of the existence of someone or something, but to have little or no other knowledge beyond that point.",
+      "meaningZh": "了解某个人或某物的存在,但除了这一点之外,掌握很少或没有任何其他知识。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know of",
+        "past": "knew of",
+        "pp": "known of",
+        "s3": "knows of",
+        "ing": "knowing of"
+      }
+    },
+    {
+      "text": "know one's place",
+      "pos": "verb",
+      "meaningEn": "To understand one's rank or status and behave accordingly; to act humbly.",
+      "meaningZh": "了解自己的军衔或地位,并据此行事;谦恭行事。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know one's place",
+        "past": "knew one's place",
+        "pp": "known one's place",
+        "s3": "knows one's place",
+        "ing": "knowing one's place"
+      }
+    },
+    {
+      "text": "know one's way around",
+      "pos": "verb",
+      "meaningEn": "To know an area.",
+      "meaningZh": "了解一个区域。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know one's way around",
+        "past": "knew one's way around",
+        "pp": "known one's way around",
+        "s3": "knows one's way around",
+        "ing": "knowing one's way around"
+      }
+    },
+    {
+      "text": "know back to front",
+      "pos": "verb",
+      "meaningEn": "To know very thoroughly.",
+      "meaningZh": "深入了解真相",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know back to front",
+        "past": "knew back to front",
+        "pp": "known back to front",
+        "s3": "knows back to front",
+        "ing": "knowing back to front"
+      }
+    },
+    {
+      "text": "know backwards",
+      "pos": "verb",
+      "meaningEn": "To have very thorough knowledge of.",
+      "meaningZh": "拥有非常透彻的知识。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know backwards",
+        "past": "knew backwards",
+        "pp": "known backwards",
+        "s3": "knows backwards",
+        "ing": "knowing backwards"
+      }
+    },
+    {
+      "text": "know fine well",
+      "pos": "verb",
+      "meaningEn": "To know something perfectly well, to be very aware of something.",
+      "meaningZh": "完全了解某事 深知某事",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know fine well",
+        "past": "knew fine well",
+        "pp": "known fine well",
+        "s3": "knows fine well",
+        "ing": "knowing fine well"
+      }
+    },
+    {
+      "text": "know full well",
+      "pos": "verb",
+      "meaningEn": "To understand completely.",
+      "meaningZh": "来完全理解",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "know full well",
+        "past": "knew full well",
+        "pp": "known full well",
+        "s3": "knows full well",
+        "ing": "knowing full well"
+      }
+    },
+    {
+      "text": "mean time",
+      "pos": "noun",
+      "meaningEn": "A mean amount of time.",
+      "meaningZh": "平均时间。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "mean time",
+        "s3": "means time",
+        "past": "meant time",
+        "pp": "meant time",
+        "ing": "meaning time"
+      }
+    },
+    {
+      "text": "mean the world to",
+      "pos": "verb",
+      "meaningEn": "To be loved or cared about a great deal by.",
+      "meaningZh": "被大量爱护或照顾",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "mean the world to",
+        "s3": "means the world to",
+        "past": "meant the world to",
+        "pp": "meant the world to",
+        "ing": "meaning the world to"
+      }
+    },
+    {
+      "text": "mean absolute deviation",
+      "pos": "noun",
+      "meaningEn": "In a set of data, the average of the absolute values of the deviations from a chosen central point.",
+      "meaningZh": "在一组数据中,偏离选定中心点的绝对值平均值。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "mean absolute deviation",
+        "s3": "means absolute deviation",
+        "past": "meant absolute deviation",
+        "pp": "meant absolute deviation",
+        "ing": "meaning absolute deviation"
+      }
+    },
+    {
+      "text": "mean business",
+      "pos": "verb",
+      "meaningEn": "To be serious, especially where achieving a specific end against opposition is concerned.",
+      "meaningZh": "严肃认真,特别是在涉及具体解决反对派问题时。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "mean business",
+        "s3": "means business",
+        "past": "meant business",
+        "pp": "meant business",
+        "ing": "meaning business"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T18:35:12.311534Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "schemaVersion": 1,
+  "number": 2707,
+  "guid": "0cd2282a-bbf7-11f1-8de3-33d4b3e96517",
+  "title": "Worried, Nervous, or Anxious? What’s the Difference?",
+  "subtitle": "Learn the key differences between these terms",
+  "pubDate": "2026-10-20T05:00:00",
+  "durationSec": 1159,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE6731011294.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "bite-one-s-nails",
+      "text": "bite one's nails",
+      "display": "bite one's nails",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To worry or fret over something.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "担心或担心某事",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 760.16,
+          "end": 762.94,
+          "sentence": "They might bite their nails, for example, right?",
+          "sentenceZh": "他们可能会咬指甲,例如,对不对?",
+          "sentenceZhSource": "mt",
+          "answer": "bite their nails",
+          "answerStart": 11,
+          "answerEnd": 27,
+          "answerForm": "other"
+        },
+        {
+          "start": 853.32,
+          "end": 855.24,
+          "sentence": "you're, you know, you're twitching your leg, you're biting your nails.",
+          "sentenceZh": "你,你知道, 你抽搐你的腿, 你咬你的指甲。",
+          "sentenceZhSource": "mt",
+          "answer": "biting your nails",
+          "answerStart": 52,
+          "answerEnd": 69,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "bite one's nails",
+        "past": "bit one's nails",
+        "ing": "biting one's nails",
+        "plural": "bites one's nails",
+        "s3": "bites one's nails",
+        "pp": "bit one's nails"
+      },
+      "examples": [],
+      "synonyms": [
+        "chew on one's nails"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "let-oneself-go",
+      "text": "let oneself go",
+      "display": "let oneself go",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To relax and enjoy oneself without restraint.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "放松和享受,没有克制。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "放松",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 696.66,
+          "end": 699.22,
+          "sentence": "Let's go outside just the word worried.",
+          "sentenceZh": "我们到外面去 仅仅字担心。",
+          "sentenceZhSource": "mt",
+          "answer": "Let's go",
+          "answerStart": 0,
+          "answerEnd": 8,
+          "answerForm": "other"
+        },
+        {
+          "start": 1006.98,
+          "end": 1007.58,
+          "sentence": "Let's go through this.",
+          "sentenceZh": "让我们来经历这个。",
+          "sentenceZhSource": "mt",
+          "answer": "Let's go",
+          "answerStart": 0,
+          "answerEnd": 8,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "let oneself go",
+        "ing": "letting oneself go",
+        "pp": "let oneself go",
+        "past": "let oneself go",
+        "s3": "lets oneself go"
+      },
+      "examples": [
+        "Fill your lungs up, and let it out slowly. Let it out slowly and relax as you exhale. […] Just let yourself go, (name), and relax."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    }
+  ],
+  "distractors": [
+    {
+      "text": "bite the big one",
+      "pos": "verb",
+      "meaningEn": "To die.",
+      "meaningZh": "死而复生",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite the big one",
+        "past": "bit the big one",
+        "ing": "biting the big one",
+        "plural": "bites the big one",
+        "s3": "bites the big one",
+        "pp": "bit the big one"
+      }
+    },
+    {
+      "text": "bite down",
+      "pos": "verb",
+      "meaningEn": "To bite very hard and usually for a purpose.",
+      "meaningZh": "咬得很硬 通常是为了一个目的",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite down",
+        "past": "bit down",
+        "ing": "biting down",
+        "plural": "bites down",
+        "s3": "bites down",
+        "pp": "bit down"
+      }
+    },
+    {
+      "text": "bite off",
+      "pos": "verb",
+      "meaningEn": "To bite so hard as to remove something from its source.",
+      "meaningZh": "咬得咬得痛得要从源头取出东西",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite off",
+        "past": "bit off",
+        "ing": "biting off",
+        "plural": "bites off",
+        "s3": "bites off",
+        "pp": "bit off"
+      }
+    },
+    {
+      "text": "bite back",
+      "pos": "verb",
+      "meaningEn": "To retaliate; to give a sharp retort.",
+      "meaningZh": "进行报复;进行尖锐的报复。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite back",
+        "past": "bit back",
+        "ing": "biting back",
+        "plural": "bites back",
+        "s3": "bites back",
+        "pp": "bit back"
+      }
+    },
+    {
+      "text": "bite on granite",
+      "pos": "verb",
+      "meaningEn": "To waste energy on a pointless task.",
+      "meaningZh": "浪费能源去完成无意义的任务",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite on granite",
+        "past": "bit on granite",
+        "ing": "biting on granite",
+        "plural": "bites on granite",
+        "s3": "bites on granite",
+        "pp": "bit on granite"
+      }
+    },
+    {
+      "text": "bite the bullet",
+      "pos": "verb",
+      "meaningEn": "To accept a negative aspect of a situation in order to proceed.",
+      "meaningZh": "接受某一局势的消极方面,以便着手进行。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite the bullet",
+        "past": "bit the bullet",
+        "ing": "biting the bullet",
+        "plural": "bites the bullet",
+        "s3": "bites the bullet",
+        "pp": "bit the bullet"
+      }
+    },
+    {
+      "text": "bite the curb",
+      "pos": "verb",
+      "meaningEn": "To be curb stomped.",
+      "meaningZh": "被踩在脚下",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite the curb",
+        "past": "bit the curb",
+        "ing": "biting the curb",
+        "plural": "bites the curb",
+        "s3": "bites the curb",
+        "pp": "bit the curb"
+      }
+    },
+    {
+      "text": "bite in the arse",
+      "pos": "verb",
+      "meaningEn": "To cause problems for one at a later time.",
+      "meaningZh": "以后再给一个人制造麻烦",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "bite in the arse",
+        "past": "bit in the arse",
+        "ing": "biting in the arse",
+        "plural": "bites in the arse",
+        "s3": "bites in the arse",
+        "pp": "bit in the arse"
+      }
+    },
+    {
+      "text": "absorb",
+      "pos": "verb",
+      "meaningEn": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
+      "meaningZh": "吸收；使全神贯注；同化",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "absorb",
+        "pp": "absorbed",
+        "past": "absorbed",
+        "s3": "absorbs",
+        "ing": "absorbing"
+      }
+    },
+    {
+      "text": "adapt",
+      "pos": "verb",
+      "meaningEn": "To make suitable; to make to correspond; to fit or suit.",
+      "meaningZh": "使适应；改编；适应",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adapt",
+        "pp": "adapted",
+        "ing": "adapting",
+        "past": "adapted",
+        "s3": "adapts"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "admire",
+      "pos": "verb",
+      "meaningEn": "To regard with wonder and delight.",
+      "meaningZh": "赞美；钦佩；爱慕",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "admire",
+        "past": "admired",
+        "pp": "admired",
+        "ing": "admiring",
+        "s3": "admires"
+      }
+    },
+    {
+      "text": "agree",
+      "pos": "verb",
+      "meaningEn": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.",
+      "meaningZh": "同意；赞成；应允",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agree",
+        "pp": "agreed",
+        "past": "agreed",
+        "s3": "agrees",
+        "ing": "agreeing"
+      }
+    },
+    {
+      "text": "airplane",
+      "pos": "verb",
+      "meaningEn": "To fly in an aeroplane.",
+      "meaningZh": "飞机",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "airplane",
+        "plural": "airplanes"
+      }
+    },
+    {
+      "text": "allow",
+      "pos": "verb",
+      "meaningEn": "To let one have as a suitable share of something.",
+      "meaningZh": "允许；同意给予；承认",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allow",
+        "pp": "allowed",
+        "ing": "allowing",
+        "s3": "allows",
+        "past": "allowed"
+      }
+    },
+    {
+      "text": "alter",
+      "pos": "verb",
+      "meaningEn": "To change the form or structure of.",
+      "meaningZh": "改变",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "alter",
+        "pp": "altered",
+        "ing": "altering",
+        "s3": "alters",
+        "past": "altered"
+      }
+    },
+    {
+      "text": "anticipate",
+      "pos": "verb",
+      "meaningEn": "To act before, especially to prevent an action.",
+      "meaningZh": "预期；占先；加速",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "anticipate",
+        "pp": "anticipated",
+        "ing": "anticipating",
+        "past": "anticipated",
+        "s3": "anticipates"
+      }
+    },
+    {
+      "text": "appear",
+      "pos": "verb",
+      "meaningEn": "To come or be in sight; to be in view; to become visible.",
+      "meaningZh": "出现；显得；来到",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "appear",
+        "past": "appeared",
+        "s3": "appears",
+        "ing": "appearing",
+        "pp": "appeared"
+      }
+    },
+    {
+      "text": "appoint",
+      "pos": "verb",
+      "meaningEn": "To set, fix or determine by authority or agreement.",
+      "meaningZh": "任命；指定；下令",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "appoint",
+        "pp": "appointed",
+        "past": "appointed",
+        "ing": "appointing",
+        "s3": "appoints"
+      }
+    },
+    {
+      "text": "ask",
+      "pos": "verb",
+      "meaningEn": "To request.",
+      "meaningZh": "问；要求；问",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ask",
+        "past": "asked",
+        "pp": "asked",
+        "ing": "asking",
+        "s3": "asks"
+      }
+    },
+    {
+      "text": "assert",
+      "pos": "verb",
+      "meaningEn": "To declare with assurance or plainly and strongly; to state positively.",
+      "meaningZh": "主张；坚称；断言",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "assert",
+        "past": "asserted",
+        "ing": "asserting",
+        "s3": "asserts",
+        "pp": "asserted"
+      }
+    },
+    {
+      "text": "bake",
+      "pos": "verb",
+      "meaningEn": "To cook in an oven.",
+      "meaningZh": "烘焙；烤；烤面包",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "bake",
+        "ing": "baking",
+        "pp": "baked",
+        "past": "baked",
+        "s3": "bakes"
+      }
+    },
+    {
+      "text": "ban",
+      "pos": "verb",
+      "meaningEn": "To prohibit; to interdict; to proscribe; to forbid or block from participation.",
+      "meaningZh": "禁令；禁止；取缔",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ban",
+        "pp": "banned",
+        "ing": "banning",
+        "past": "banned",
+        "plural": "bans",
+        "s3": "bans"
+      }
+    },
+    {
+      "text": "be",
+      "pos": "verb",
+      "meaningEn": "Used with past participles of verbs to form the passive voice.",
+      "meaningZh": "是；表示；在",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "be",
+        "past": "was",
+        "s3": "is",
+        "pp": "been",
+        "ing": "being"
+      }
+    },
+    {
+      "text": "become",
+      "pos": "verb",
+      "meaningEn": "begin to be; turn into.",
+      "meaningZh": "变成；变得；适合",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "become",
+        "past": "became",
+        "pp": "become",
+        "s3": "becomes",
+        "ing": "becoming"
+      }
+    },
+    {
+      "text": "begin",
+      "pos": "verb",
+      "meaningEn": "To start, to initiate or take the first step into something.",
+      "meaningZh": "开始",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "begin",
+        "past": "began",
+        "ing": "beginning",
+        "pp": "begun",
+        "s3": "begins"
+      }
+    },
+    {
+      "text": "believe",
+      "pos": "verb",
+      "meaningEn": "To accept as true, particularly without absolute certainty.",
+      "meaningZh": "相信",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "believe",
+        "past": "believed",
+        "s3": "believes",
+        "pp": "believed",
+        "ing": "believing"
+      }
+    },
+    {
+      "text": "bite",
+      "pos": "verb",
+      "meaningEn": "To cut into something by clamping the teeth.",
+      "meaningZh": "咬；一口；咬",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "bite",
+        "past": "bit",
+        "ing": "biting",
+        "plural": "bites",
+        "s3": "bites",
+        "pp": "bit"
+      }
+    },
+    {
+      "text": "boom",
+      "pos": "verb",
+      "meaningEn": "To make a loud, hollow, resonant sound.",
+      "meaningZh": "繁荣；隆隆声；急速发展",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "boom",
+        "past": "boomed",
+        "plural": "booms",
+        "ing": "booming",
+        "pp": "boomed",
+        "s3": "booms"
+      }
+    },
+    {
+      "text": "borrow",
+      "pos": "verb",
+      "meaningEn": "To receive from somebody temporarily, expecting to return it.",
+      "meaningZh": "借；借入；借用",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "borrow",
+        "pp": "borrowed",
+        "past": "borrowed",
+        "ing": "borrowing",
+        "s3": "borrows"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T18:42:06.937380Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

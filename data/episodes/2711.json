@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "number": 2711,
+  "guid": "daf68d4c-c5e1-11f1-9dda-43a961b9fef9",
+  "title": "Should You Say “B as in Bravo” or “B as in Boy?”",
+  "subtitle": "Learn how to talk about pronouncing words with native English speakers",
+  "pubDate": "2026-10-27T17:00:00",
+  "durationSec": 1466,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE3729011241.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/business",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "on-hold",
+      "text": "on hold",
+      "display": "on hold",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 9,
+      "pos": "prep_phrase",
+      "ipa": "ɔn həuld",
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "Delayed; postponed; suspended.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "延迟; 推迟; 暂停 。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "等着通电话；暂缓；推迟",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 1248.58,
+          "end": 1252.14,
+          "sentence": "…could send an email to the wrong account and then you have to wait on hold again",
+          "sentenceZh": "...可以发送电子邮件到错误的账户 然后你不得不等待 等待再次",
+          "sentenceZhSource": "mt",
+          "answer": "on hold",
+          "answerStart": 68,
+          "answerEnd": 75,
+          "answerForm": "base"
+        },
+        {
+          "start": 1257.0,
+          "end": 1262.6,
+          "sentence": "I was on hold with my daughter for an hour with her college to get something done.",
+          "sentenceZh": "我和我女儿在大学呆了一个小时 来完成一些事情",
+          "sentenceZhSource": "mt",
+          "answer": "on hold",
+          "answerStart": 6,
+          "answerEnd": 13,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "on hold"
+      },
+      "examples": [
+        "This project is on hold until we can get more information.",
+        "Plans to build a western rail route into Heathrow Airport have been put on hold, with Network Rail saying that staff working on the scheme have been moved to other projects."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    }
+  ],
+  "distractors": [],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T18:31:25.019992Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "number": 2708,
+  "guid": "2a44fdba-bbf7-11f1-a0af-db152e3a3e8b",
+  "title": "Honestly, You’ll Be Happy About These Pronunciation Tips",
+  "subtitle": "Learn the right way to pronounce sounds in these sentences",
+  "pubDate": "2026-10-21T05:00:00",
+  "durationSec": 1010,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE2088457638.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [],
+  "distractors": [],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T18:38:23.890883Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

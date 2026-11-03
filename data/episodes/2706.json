@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 1,
+  "number": 2706,
+  "guid": "eeef1a02-bbf6-11f1-b648-f3e42f94814c",
+  "title": "When to Use \"That\" in English",
+  "subtitle": "Find out how to know if you should include \"that\" in your sentences",
+  "pubDate": "2026-10-19T05:00:00",
+  "durationSec": 1288,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE1838463876.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "a-bit",
+      "text": "a bit",
+      "display": "a bit",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "adv",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "To a small extent; in a small amount.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "在一定程度上;少量。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "一点儿；有一点儿",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 258.24,
+          "end": 260.54,
+          "sentence": "We'll explain a bit more when to actually use that",
+          "sentenceZh": "我们再解释解释一下 什么时候用这个",
+          "sentenceZhSource": "mt",
+          "answer": "a bit",
+          "answerStart": 14,
+          "answerEnd": 19,
+          "answerForm": "base"
+        },
+        {
+          "start": 331.64,
+          "end": 334.42,
+          "sentence": "So let's get into it a bit more, Aubrey.",
+          "sentenceZh": "让我们多谈点 奥布里",
+          "sentenceZhSource": "mt",
+          "answer": "a bit",
+          "answerStart": 21,
+          "answerEnd": 26,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "a bit"
+      },
+      "examples": [
+        "Could you move that up a bit?"
+      ],
+      "synonyms": [
+        "somewhat"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "clarify",
+      "text": "clarify",
+      "display": "clarify",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 6.0,
+      "pos": "verb",
+      "ipa": "/ˈklæɹ.ɪ.faɪ/",
+      "tags": [],
+      "meaningEn": "To make or become clear or bright by freeing from impurities or turbidity.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "澄清；阐明；使明晰",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 663.58,
+          "end": 669.68,
+          "sentence": "So we don't need the that in there to clarify anything or to create more rhythm within the sentence.",
+          "sentenceZh": "所以,我们不需要 里面的东西 来澄清任何事情 或者创造更多的节奏 在句子内。",
+          "sentenceZhSource": "mt",
+          "answer": "clarify",
+          "answerStart": 38,
+          "answerEnd": 45,
+          "answerForm": "base"
+        },
+        {
+          "start": 881.98,
+          "end": 885.98,
+          "sentence": "Those longer complex sentences, it's going to need it more to clarify.",
+          "sentenceZh": "那些更长的复杂句子, 它需要它 更多的澄清。",
+          "sentenceZhSource": "mt",
+          "answer": "clarify",
+          "answerStart": 62,
+          "answerEnd": 69,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "clarify",
+        "pp": "clarified",
+        "ing": "clarifying",
+        "s3": "clarifies",
+        "past": "clarified"
+      },
+      "examples": [
+        "What's the best way to clarify cooking oil?",
+        "Leave the wine for 24 hours and it will clarify."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    }
+  ],
+  "distractors": [
+    {
+      "text": "aboard",
+      "pos": "adv",
+      "meaningEn": "On board; into or within a ship or boat; hence, into or within a railway car.",
+      "meaningZh": "在船上；在火车上；在飞机上",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aboard"
+      }
+    },
+    {
+      "text": "abruptly",
+      "pos": "adv",
+      "meaningEn": "In an abrupt manner; without giving notice, or without the usual forms; suddenly; precipitously.",
+      "meaningZh": "突然地；唐突地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "abruptly"
+      }
+    },
+    {
+      "text": "accelerate",
+      "pos": "verb",
+      "meaningEn": "To cause to move faster; to quicken the motion of; to add to the speed of.",
+      "meaningZh": "加速；促进",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accelerate",
+        "past": "accelerated",
+        "pp": "accelerated",
+        "ing": "accelerating",
+        "s3": "accelerates"
+      }
+    },
+    {
+      "text": "accumulate",
+      "pos": "verb",
+      "meaningEn": "To heap up in a mass; to pile up; to collect or bring together, often gradually and without active intent.",
+      "meaningZh": "积聚；堆积",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accumulate",
+        "pp": "accumulated",
+        "ing": "accumulating",
+        "s3": "accumulates",
+        "past": "accumulated"
+      }
+    },
+    {
+      "text": "accurately",
+      "pos": "adv",
+      "meaningEn": "In an accurate manner; exactly; precisely; without error or defect.",
+      "meaningZh": "正确地；精确地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accurately"
+      }
+    },
+    {
+      "text": "actually",
+      "pos": "adv",
+      "meaningEn": "In act or in fact; really; in truth; positively.",
+      "meaningZh": "事实上；竟然；如今",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "actually"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "advertise",
+      "pos": "verb",
+      "meaningEn": "To give notice of; to announce publicly.",
+      "meaningZh": "做广告；通知；公布",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "advertise",
+        "pp": "advertised",
+        "past": "advertised",
+        "ing": "advertising",
+        "s3": "advertises"
+      }
+    },
+    {
+      "text": "after",
+      "pos": "adv",
+      "meaningEn": "Behind; later in time; following.",
+      "meaningZh": "在...之后；由于；在...之后",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "after"
+      }
+    },
+    {
+      "text": "again",
+      "pos": "adv",
+      "meaningEn": "Another time: indicating a repeat of an action.",
+      "meaningZh": "再一次；又；到原处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "again"
+      }
+    },
+    {
+      "text": "allege",
+      "pos": "verb",
+      "meaningEn": "To adduce as a reason, excuse, support etc.",
+      "meaningZh": "宣称；主张；提出",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allege",
+        "pp": "alleged",
+        "past": "alleged",
+        "ing": "alleging",
+        "s3": "alleges"
+      }
+    },
+    {
+      "text": "allegedly",
+      "pos": "adv",
+      "meaningEn": "According to allegation; supposedly, reportedly.",
+      "meaningZh": "依其申述",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allegedly"
+      }
+    },
+    {
+      "text": "allow",
+      "pos": "verb",
+      "meaningEn": "To let one have as a suitable share of something.",
+      "meaningZh": "允许；同意给予；承认",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allow",
+        "pp": "allowed",
+        "ing": "allowing",
+        "s3": "allows",
+        "past": "allowed"
+      }
+    },
+    {
+      "text": "almost",
+      "pos": "adv",
+      "meaningEn": "Very close to, but not quite.",
+      "meaningZh": "几乎；差不多",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "almost"
+      }
+    },
+    {
+      "text": "already",
+      "pos": "adv",
+      "meaningEn": "Prior to some specified time, either past, present, or future; by this time; previously.",
+      "meaningZh": "已经；早已",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "already"
+      }
+    },
+    {
+      "text": "also",
+      "pos": "adv",
+      "meaningEn": "In addition; besides; as well; further; too.",
+      "meaningZh": "也；并且；同样地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "also"
+      }
+    },
+    {
+      "text": "always",
+      "pos": "adv",
+      "meaningEn": "At all times; throughout all time; since the beginning.",
+      "meaningZh": "总是；始终",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "always"
+      }
+    },
+    {
+      "text": "any",
+      "pos": "adv",
+      "meaningEn": "To even the slightest extent; at all.",
+      "meaningZh": "任何的；任何",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "any"
+      }
+    },
+    {
+      "text": "appear",
+      "pos": "verb",
+      "meaningEn": "To come or be in sight; to be in view; to become visible.",
+      "meaningZh": "出现；显得；来到",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "appear",
+        "past": "appeared",
+        "s3": "appears",
+        "ing": "appearing",
+        "pp": "appeared"
+      }
+    },
+    {
+      "text": "articulate",
+      "pos": "verb",
+      "meaningEn": "To make clear or effective.",
+      "meaningZh": "发音清晰的；口才好的；明白地说",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "articulate",
+        "pp": "articulated",
+        "ing": "articulating",
+        "s3": "articulates",
+        "past": "articulated"
+      }
+    },
+    {
+      "text": "as",
+      "pos": "adv",
+      "meaningEn": "To such an extent or degree; to the same extent or degree.",
+      "meaningZh": "同样地；例如；做为",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "as"
+      }
+    },
+    {
+      "text": "ask",
+      "pos": "verb",
+      "meaningEn": "To request.",
+      "meaningZh": "问；要求；问",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ask",
+        "past": "asked",
+        "pp": "asked",
+        "ing": "asking",
+        "s3": "asks"
+      }
+    },
+    {
+      "text": "attain",
+      "pos": "verb",
+      "meaningEn": "To come to or reach by motion or progression.",
+      "meaningZh": "达到；获得；达到",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "attain",
+        "pp": "attained",
+        "ing": "attaining",
+        "past": "attained",
+        "s3": "attains"
+      }
+    },
+    {
+      "text": "authorize",
+      "pos": "verb",
+      "meaningEn": "To grant the permission or power necessary to do; to permit; to sanction or consent to.",
+      "meaningZh": "授权；批准；委托",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "authorize",
+        "pp": "authorized",
+        "ing": "authorizing",
+        "past": "authorized",
+        "s3": "authorizes"
+      }
+    },
+    {
+      "text": "away",
+      "pos": "adv",
+      "meaningEn": "From a place, hence.",
+      "meaningZh": "离去",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "away"
+      }
+    },
+    {
+      "text": "be",
+      "pos": "verb",
+      "meaningEn": "Used with past participles of verbs to form the passive voice.",
+      "meaningZh": "是；表示；在",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "be",
+        "past": "was",
+        "s3": "is",
+        "pp": "been",
+        "ing": "being"
+      }
+    },
+    {
+      "text": "bead",
+      "pos": "verb",
+      "meaningEn": "To form into a bead.",
+      "meaningZh": "珠子；滴；用珠装饰",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "bead",
+        "plural": "beads",
+        "past": "beaded",
+        "ing": "beading",
+        "pp": "beaded",
+        "s3": "beads"
+      }
+    },
+    {
+      "text": "become",
+      "pos": "verb",
+      "meaningEn": "begin to be; turn into.",
+      "meaningZh": "变成；变得；适合",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "become",
+        "past": "became",
+        "pp": "become",
+        "s3": "becomes",
+        "ing": "becoming"
+      }
+    },
+    {
+      "text": "begin",
+      "pos": "verb",
+      "meaningEn": "To start, to initiate or take the first step into something.",
+      "meaningZh": "开始",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "begin",
+        "past": "began",
+        "ing": "beginning",
+        "pp": "begun",
+        "s3": "begins"
+      }
+    },
+    {
+      "text": "believe",
+      "pos": "verb",
+      "meaningEn": "To accept as true, particularly without absolute certainty.",
+      "meaningZh": "相信",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "believe",
+        "past": "believed",
+        "s3": "believes",
+        "pp": "believed",
+        "ing": "believing"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-03T18:46:08.980103Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

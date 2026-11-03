@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T09:59:14.692907Z",
+  "generatedAt": "2026-11-03T18:46:08.985970Z",
   "episodes": [
     {
       "number": 2715,
@@ -43,6 +43,16 @@
       "file": "episodes/2712.json"
     },
     {
+      "number": 2711,
+      "guid": "daf68d4c-c5e1-11f1-9dda-43a961b9fef9",
+      "title": "Should You Say “B as in Bravo” or “B as in Boy?”",
+      "pubDate": "2026-10-27T17:00:00",
+      "durationSec": 1466,
+      "itemCount": 1,
+      "hasBlog": false,
+      "file": "episodes/2711.json"
+    },
+    {
       "number": 2710,
       "guid": "babe5014-c5e1-11f1-9467-638c814ad3b9",
       "title": "Should You Tell Someone They're Aging Like a Fine Wine?",
@@ -51,6 +61,46 @@
       "itemCount": 1,
       "hasBlog": false,
       "file": "episodes/2710.json"
+    },
+    {
+      "number": 2709,
+      "guid": "48dbee0a-bbf7-11f1-a38b-ff41c7f1bc6c",
+      "title": "When Ugly Doesn’t Mean What You Think it Means",
+      "pubDate": "2026-10-22T05:00:00",
+      "durationSec": 1111,
+      "itemCount": 7,
+      "hasBlog": false,
+      "file": "episodes/2709.json"
+    },
+    {
+      "number": 2708,
+      "guid": "2a44fdba-bbf7-11f1-a0af-db152e3a3e8b",
+      "title": "Honestly, You’ll Be Happy About These Pronunciation Tips",
+      "pubDate": "2026-10-21T05:00:00",
+      "durationSec": 1010,
+      "itemCount": 0,
+      "hasBlog": false,
+      "file": "episodes/2708.json"
+    },
+    {
+      "number": 2707,
+      "guid": "0cd2282a-bbf7-11f1-8de3-33d4b3e96517",
+      "title": "Worried, Nervous, or Anxious? What’s the Difference?",
+      "pubDate": "2026-10-20T05:00:00",
+      "durationSec": 1159,
+      "itemCount": 2,
+      "hasBlog": false,
+      "file": "episodes/2707.json"
+    },
+    {
+      "number": 2706,
+      "guid": "eeef1a02-bbf6-11f1-b648-f3e42f94814c",
+      "title": "When to Use \"That\" in English",
+      "pubDate": "2026-10-19T05:00:00",
+      "durationSec": 1288,
+      "itemCount": 2,
+      "hasBlog": false,
+      "file": "episodes/2706.json"
     },
     {
       "number": 2702,
