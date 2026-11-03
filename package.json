@@ -1,1 +1,1 @@
-{"type":"module","scripts":{"test":"node --test tests/js/*.test.mjs","test:e2e":"/workspace/aee-practice-app/venv/bin/python tests/e2e/e2e.py"}}
+{"type":"module","scripts":{"test":"node --test tests/js/*.test.mjs","test:e2e":"python tests/e2e/e2e.py"}}
