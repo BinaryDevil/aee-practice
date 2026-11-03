@@ -1,3 +1,3 @@
 export const config = {
-  repoUrl: ''
+  repoUrl: 'https://github.com/BinaryDevil/aee-practice'
 };
