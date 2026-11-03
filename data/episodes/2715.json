@@ -247,18 +247,18 @@
   ],
   "distractors": [
     {
-      "text": "back buttered",
+      "text": "back up",
       "pos": "verb",
-      "meaningEn": "simple past and past participle of back butter",
-      "meaningZh": "简单过去和过去黄油背面参与量",
+      "meaningEn": "To move backwards, especially for a vehicle to do so.",
+      "meaningZh": "后退,特别是车辆后退。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "back buttered",
-        "pp": "backed buttered",
-        "plural": "backs buttered",
-        "past": "backed buttered",
-        "ing": "backing buttered",
-        "s3": "backs buttered"
+        "base": "back up",
+        "pp": "backed up",
+        "plural": "backs up",
+        "past": "backed up",
+        "ing": "backing up",
+        "s3": "backs up"
       }
     },
     {
@@ -277,378 +277,33 @@
       }
     },
     {
-      "text": "back washed",
+      "text": "back off",
       "pos": "verb",
-      "meaningEn": "Alternative spelling of backwash.",
-      "meaningZh": "背洗的替代拼写。",
+      "meaningEn": "To move backwards away from something.",
+      "meaningZh": "向后退 远离某事。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "back washed",
-        "pp": "backed washed",
-        "plural": "backs washed",
-        "past": "backed washed",
-        "ing": "backing washed",
-        "s3": "backs washed"
+        "base": "back off",
+        "pp": "backed off",
+        "plural": "backs off",
+        "past": "backed off",
+        "ing": "backing off",
+        "s3": "backs off"
       }
     },
     {
-      "text": "back announcing",
+      "text": "back and fill",
       "pos": "verb",
-      "meaningEn": "A brief statement or synopsis identifying a piece of music or story when it completes; outro.",
-      "meaningZh": "一份简短声明或概要,在音乐或故事完成时指明一段音乐或故事;",
+      "meaningEn": "To manage a sailing ship so that the wind strikes them alternately in front and behind, in order to keep the ship in the middle of a river or channel while the current or tide carries the vessel against the wind.",
+      "meaningZh": "管理一艘帆船,以便风在船前和船后交替袭击他们,使船保持在河流或河道中间,而水或潮水将船只随风而行。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "back announcing",
-        "pp": "backed announcing",
-        "plural": "backs announcing",
-        "past": "backed announcing",
-        "ing": "backing announcing",
-        "s3": "backs announcing"
-      }
-    },
-    {
-      "text": "back titrate",
-      "pos": "verb",
-      "meaningEn": "To carry out back titration.",
-      "meaningZh": "进行后击",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back titrate",
-        "pp": "backed titrate",
-        "plural": "backs titrate",
-        "past": "backed titrate",
-        "ing": "backing titrate",
-        "s3": "backs titrate"
-      }
-    },
-    {
-      "text": "back and forthed",
-      "pos": "verb",
-      "meaningEn": "From one place to another and back again.",
-      "meaningZh": "从一个地方到另一个地方 再回来一次",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back and forthed",
-        "pp": "backed and forthed",
-        "plural": "backs and forthed",
-        "past": "backed and forthed",
-        "ing": "backing and forthed",
-        "s3": "backs and forthed"
-      }
-    },
-    {
-      "text": "back stamps",
-      "pos": "verb",
-      "meaningEn": "third-person singular simple present indicative of back stamp",
-      "meaningZh": "表示后印邮票的单一简单表单",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back stamps",
-        "pp": "backed stamps",
-        "plural": "backs stamps",
-        "past": "backed stamps",
-        "ing": "backing stamps",
-        "s3": "backs stamps"
-      }
-    },
-    {
-      "text": "back dooring",
-      "pos": "verb",
-      "meaningEn": "A subsidiary entrance to a building or house at its rear, normally away from the street.",
-      "meaningZh": "建筑物或后方房屋的附属入口,通常远离街道。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back dooring",
-        "pp": "backed dooring",
-        "plural": "backs dooring",
-        "past": "backed dooring",
-        "ing": "backing dooring",
-        "s3": "backs dooring"
-      }
-    },
-    {
-      "text": "back titrated",
-      "pos": "verb",
-      "meaningEn": "To carry out back titration.",
-      "meaningZh": "进行后击",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back titrated",
-        "pp": "backed titrated",
-        "plural": "backs titrated",
-        "past": "backed titrated",
-        "ing": "backing titrated",
-        "s3": "backs titrated"
-      }
-    },
-    {
-      "text": "back washing",
-      "pos": "verb",
-      "meaningEn": "Alternative spelling of backwash.",
-      "meaningZh": "背洗的替代拼写。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back washing",
-        "pp": "backed washing",
-        "plural": "backs washing",
-        "past": "backed washing",
-        "ing": "backing washing",
-        "s3": "backs washing"
-      }
-    },
-    {
-      "text": "back orders",
-      "pos": "verb",
-      "meaningEn": "third-person singular simple present indicative of back order",
-      "meaningZh": "表示后序的单一简单表单",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back orders",
-        "pp": "backed orders",
-        "plural": "backs orders",
-        "past": "backed orders",
-        "ing": "backing orders",
-        "s3": "backs orders"
-      }
-    },
-    {
-      "text": "back the right horse",
-      "pos": "verb",
-      "meaningEn": "To support someone who will succeed.",
-      "meaningZh": "支持一个成功的人",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back the right horse",
-        "pp": "backed the right horse",
-        "plural": "backs the right horse",
-        "past": "backed the right horse",
-        "ing": "backing the right horse",
-        "s3": "backs the right horse"
-      }
-    },
-    {
-      "text": "back onto",
-      "pos": "verb",
-      "meaningEn": "To reverse a vehicle onto something.",
-      "meaningZh": "将车辆倒转到什么东西上",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back onto",
-        "pp": "backed onto",
-        "plural": "backs onto",
-        "past": "backed onto",
-        "ing": "backing onto",
-        "s3": "backs onto"
-      }
-    },
-    {
-      "text": "back stamping",
-      "pos": "verb",
-      "meaningEn": "present participle and gerund of back stamp",
-      "meaningZh": "现参加和后印邮票",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back stamping",
-        "pp": "backed stamping",
-        "plural": "backs stamping",
-        "past": "backed stamping",
-        "ing": "backing stamping",
-        "s3": "backs stamping"
-      }
-    },
-    {
-      "text": "back up the truck",
-      "pos": "verb",
-      "meaningEn": "To take advantage of favourable pricing by purchasing a large amount.",
-      "meaningZh": "利用优惠定价办法,大量购买。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back up the truck",
-        "pp": "backed up the truck",
-        "plural": "backs up the truck",
-        "past": "backed up the truck",
-        "ing": "backing up the truck",
-        "s3": "backs up the truck"
-      }
-    },
-    {
-      "text": "back up",
-      "pos": "verb",
-      "meaningEn": "To move backwards, especially for a vehicle to do so.",
-      "meaningZh": "后退,特别是车辆后退。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back up",
-        "pp": "backed up",
-        "plural": "backs up",
-        "past": "backed up",
-        "ing": "backing up",
-        "s3": "backs up"
-      }
-    },
-    {
-      "text": "back scatters",
-      "pos": "verb",
-      "meaningEn": "third-person singular simple present indicative of back scatter",
-      "meaningZh": "表示后散分布的单一简单表单",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back scatters",
-        "pp": "backed scatters",
-        "plural": "backs scatters",
-        "past": "backed scatters",
-        "ing": "backing scatters",
-        "s3": "backs scatters"
-      }
-    },
-    {
-      "text": "back doored",
-      "pos": "verb",
-      "meaningEn": "A subsidiary entrance to a building or house at its rear, normally away from the street.",
-      "meaningZh": "建筑物或后方房屋的附属入口,通常远离街道。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back doored",
-        "pp": "backed doored",
-        "plural": "backs doored",
-        "past": "backed doored",
-        "ing": "backing doored",
-        "s3": "backs doored"
-      }
-    },
-    {
-      "text": "back scattered",
-      "pos": "verb",
-      "meaningEn": "simple past and past participle of back scatter",
-      "meaningZh": "后散的简单过去和过去参与者",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back scattered",
-        "pp": "backed scattered",
-        "plural": "backs scattered",
-        "past": "backed scattered",
-        "ing": "backing scattered",
-        "s3": "backs scattered"
-      }
-    },
-    {
-      "text": "back titrates",
-      "pos": "verb",
-      "meaningEn": "To carry out back titration.",
-      "meaningZh": "进行后击",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back titrates",
-        "pp": "backed titrates",
-        "plural": "backs titrates",
-        "past": "backed titrates",
-        "ing": "backing titrates",
-        "s3": "backs titrates"
-      }
-    },
-    {
-      "text": "back chatted",
-      "pos": "verb",
-      "meaningEn": "simple past and past participle of back chat",
-      "meaningZh": "简单过去和过去",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back chatted",
-        "pp": "backed chatted",
-        "plural": "backs chatted",
-        "past": "backed chatted",
-        "ing": "backing chatted",
-        "s3": "backs chatted"
-      }
-    },
-    {
-      "text": "back and forthing",
-      "pos": "verb",
-      "meaningEn": "From one place to another and back again.",
-      "meaningZh": "从一个地方到另一个地方 再回来一次",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back and forthing",
-        "pp": "backed and forthing",
-        "plural": "backs and forthing",
-        "past": "backed and forthing",
-        "ing": "backing and forthing",
-        "s3": "backs and forthing"
-      }
-    },
-    {
-      "text": "back on to",
-      "pos": "verb",
-      "meaningEn": "To reverse a vehicle onto something.",
-      "meaningZh": "将车辆倒转到什么东西上",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back on to",
-        "pp": "backed on to",
-        "plural": "backs on to",
-        "past": "backed on to",
-        "ing": "backing on to",
-        "s3": "backs on to"
-      }
-    },
-    {
-      "text": "back announces",
-      "pos": "verb",
-      "meaningEn": "A brief statement or synopsis identifying a piece of music or story when it completes; outro.",
-      "meaningZh": "一份简短声明或概要,在音乐或故事完成时指明一段音乐或故事;",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back announces",
-        "pp": "backed announces",
-        "plural": "backs announces",
-        "past": "backed announces",
-        "ing": "backing announces",
-        "s3": "backs announces"
-      }
-    },
-    {
-      "text": "back over",
-      "pos": "verb",
-      "meaningEn": "To reverse a vehicle over; to trample something while reversing",
-      "meaningZh": "翻过一辆汽车;践踏某件东西,同时倒过",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back over",
-        "pp": "backed over",
-        "plural": "backs over",
-        "past": "backed over",
-        "ing": "backing over",
-        "s3": "backs over"
-      }
-    },
-    {
-      "text": "back announced",
-      "pos": "verb",
-      "meaningEn": "A brief statement or synopsis identifying a piece of music or story when it completes; outro.",
-      "meaningZh": "一份简短声明或概要,在音乐或故事完成时指明一段音乐或故事;",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back announced",
-        "pp": "backed announced",
-        "plural": "backs announced",
-        "past": "backed announced",
-        "ing": "backing announced",
-        "s3": "backs announced"
-      }
-    },
-    {
-      "text": "back ordered",
-      "pos": "verb",
-      "meaningEn": "simple past and past participle of back order",
-      "meaningZh": "简单过去和过去",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "back ordered",
-        "pp": "backed ordered",
-        "plural": "backs ordered",
-        "past": "backed ordered",
-        "ing": "backing ordered",
-        "s3": "backs ordered"
+        "base": "back and fill",
+        "pp": "backed and fill",
+        "plural": "backs and fill",
+        "past": "backed and fill",
+        "ing": "backing and fill",
+        "s3": "backs and fill"
       }
     },
     {
@@ -667,39 +322,373 @@
       }
     },
     {
-      "text": "back doors",
+      "text": "back in",
       "pos": "verb",
-      "meaningEn": "A subsidiary entrance to a building or house at its rear, normally away from the street.",
-      "meaningZh": "建筑物或后方房屋的附属入口,通常远离街道。",
+      "meaningEn": "To reverse a vehicle into a space.",
+      "meaningZh": "将车辆倒转到空间",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "back doors",
-        "pp": "backed doors",
-        "plural": "backs doors",
-        "past": "backed doors",
-        "ing": "backing doors",
-        "s3": "backs doors"
+        "base": "back in",
+        "pp": "backed in",
+        "plural": "backs in",
+        "past": "backed in",
+        "ing": "backing in",
+        "s3": "backs in"
       }
     },
     {
-      "text": "back ordering",
+      "text": "back into",
       "pos": "verb",
-      "meaningEn": "present participle and gerund of back order",
-      "meaningZh": "现参加和后序",
+      "meaningEn": "To advance to the post-season as a result of another team's loss, especially where one's own team has also lost.",
+      "meaningZh": "由于另一个团队的损失,特别是在自己的团队也丧失了的情况下,进入季后赛。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "back ordering",
-        "pp": "backed ordering",
-        "plural": "backs ordering",
-        "past": "backed ordering",
-        "ing": "backing ordering",
-        "s3": "backs ordering"
+        "base": "back into",
+        "pp": "backed into",
+        "plural": "backs into",
+        "past": "backed into",
+        "ing": "backing into",
+        "s3": "backs into"
+      }
+    },
+    {
+      "text": "back onto",
+      "pos": "verb",
+      "meaningEn": "To reverse a vehicle onto something.",
+      "meaningZh": "将车辆倒转到什么东西上",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "back onto",
+        "pp": "backed onto",
+        "plural": "backs onto",
+        "past": "backed onto",
+        "ing": "backing onto",
+        "s3": "backs onto"
+      }
+    },
+    {
+      "text": "hang up",
+      "pos": "verb",
+      "meaningEn": "To put up to hang.",
+      "meaningZh": "挂起来。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang up",
+        "ing": "hanging up",
+        "past": "hung up",
+        "pp": "hung up",
+        "s3": "hangs up"
+      }
+    },
+    {
+      "text": "hang out",
+      "pos": "verb",
+      "meaningEn": "To spend time with somebody; to regularly meet with somebody.",
+      "meaningZh": "与某人共度时光;定期与某人会面。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang out",
+        "ing": "hanging out",
+        "past": "hung out",
+        "pp": "hung out",
+        "s3": "hangs out"
+      }
+    },
+    {
+      "text": "hang together",
+      "pos": "verb",
+      "meaningEn": "To be connected.",
+      "meaningZh": "连接。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang together",
+        "ing": "hanging together",
+        "past": "hung together",
+        "pp": "hung together",
+        "s3": "hangs together"
+      }
+    },
+    {
+      "text": "hang upon",
+      "pos": "verb",
+      "meaningEn": "To regard with passionate affection.",
+      "meaningZh": "和热情的爱。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang upon",
+        "ing": "hanging upon",
+        "past": "hung upon",
+        "pp": "hung upon",
+        "s3": "hangs upon"
+      }
+    },
+    {
+      "text": "hang about",
+      "pos": "verb",
+      "meaningEn": "To linger, loiter, or stay.",
+      "meaningZh": "逗留,游荡,或留下来。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang about",
+        "ing": "hanging about",
+        "past": "hung about",
+        "pp": "hung about",
+        "s3": "hangs about"
+      }
+    },
+    {
+      "text": "hang fire",
+      "pos": "verb",
+      "meaningEn": "To fail to fire immediately when the trigger is pulled.",
+      "meaningZh": "在扣动扳机时不立即开火。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang fire",
+        "ing": "hanging fire",
+        "past": "hung fire",
+        "pp": "hung fire",
+        "s3": "hangs fire"
+      }
+    },
+    {
+      "text": "hang one on",
+      "pos": "verb",
+      "meaningEn": "To burden or assign a take to.",
+      "meaningZh": "负担或分配负担。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang one on",
+        "ing": "hanging one on",
+        "past": "hung one on",
+        "pp": "hung one on",
+        "s3": "hangs one on"
+      }
+    },
+    {
+      "text": "hang up one's hat",
+      "pos": "verb",
+      "meaningEn": "To end one's career.",
+      "meaningZh": "结束自己的事业",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang up one's hat",
+        "ing": "hanging up one's hat",
+        "past": "hung up one's hat",
+        "pp": "hung up one's hat",
+        "s3": "hangs up one's hat"
+      }
+    },
+    {
+      "text": "hang with",
+      "pos": "verb",
+      "meaningEn": "To spend time with; to hang out with; to socialize with.",
+      "meaningZh": "与他人共度时光;与他人相处;与他人交往。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang with",
+        "ing": "hanging with",
+        "past": "hung with",
+        "pp": "hung with",
+        "s3": "hangs with"
+      }
+    },
+    {
+      "text": "hang around",
+      "pos": "verb",
+      "meaningEn": "To stay, linger, or loiter.",
+      "meaningZh": "留下来 逗留 或闲逛",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang around",
+        "ing": "hanging around",
+        "past": "hung around",
+        "pp": "hung around",
+        "s3": "hangs around"
+      }
+    },
+    {
+      "text": "hang behind",
+      "pos": "verb",
+      "meaningEn": "To linger or remain in a place after an event has completed and others have mostly departed.",
+      "meaningZh": "在一个事件完成后,在其他地方逗留或停留,其他人大多已经离开。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hang behind",
+        "ing": "hanging behind",
+        "past": "hung behind",
+        "pp": "hung behind",
+        "s3": "hangs behind"
+      }
+    },
+    {
+      "text": "hold out",
+      "pos": "verb",
+      "meaningEn": "To hold out; to extend forward.",
+      "meaningZh": "坚持;向前伸展。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold out",
+        "pp": "held out",
+        "past": "held out",
+        "ing": "holding out",
+        "s3": "holds out",
+        "plural": "holds out"
+      }
+    },
+    {
+      "text": "hold over",
+      "pos": "verb",
+      "meaningEn": "To support or sustain someone for a limited period.",
+      "meaningZh": "在有限的时期内支持或维持某人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold over",
+        "pp": "held over",
+        "past": "held over",
+        "ing": "holding over",
+        "s3": "holds over",
+        "plural": "holds over"
+      }
+    },
+    {
+      "text": "hold hostage",
+      "pos": "verb",
+      "meaningEn": "To have possession or custody of as security for performance against a treaty, a pledge, or a demand, especially now an extra-legal demand.",
+      "meaningZh": "拥有或保管作为针对一项条约、一项保证或一项要求,特别是现在的法外要求而履约的担保。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold hostage",
+        "pp": "held hostage",
+        "past": "held hostage",
+        "ing": "holding hostage",
+        "s3": "holds hostage",
+        "plural": "holds hostage"
+      }
+    },
+    {
+      "text": "hold the ring",
+      "pos": "verb",
+      "meaningEn": "To be a spectator at a fight; to watch other people argue.",
+      "meaningZh": "成为战斗的旁观者; 看着别人争吵。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold the ring",
+        "pp": "held the ring",
+        "past": "held the ring",
+        "ing": "holding the ring",
+        "s3": "holds the ring",
+        "plural": "holds the ring"
+      }
+    },
+    {
+      "text": "hold to",
+      "pos": "verb",
+      "meaningEn": "To share or subscribe to.",
+      "meaningZh": "分享或订阅。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold to",
+        "pp": "held to",
+        "past": "held to",
+        "ing": "holding to",
+        "s3": "holds to",
+        "plural": "holds to"
+      }
+    },
+    {
+      "text": "hold a mirror to",
+      "pos": "verb",
+      "meaningEn": "To reflect; to represent and by resemblance provide insight into.",
+      "meaningZh": "反省;代表及相似性,使人们能深入了解。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold a mirror to",
+        "pp": "held a mirror to",
+        "past": "held a mirror to",
+        "ing": "holding a mirror to",
+        "s3": "holds a mirror to",
+        "plural": "holds a mirror to"
+      }
+    },
+    {
+      "text": "hold back",
+      "pos": "verb",
+      "meaningEn": "To act with reserve; to contain one's full measure or power.",
+      "meaningZh": "以后备行动; 控制一个人的完全量或权力。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold back",
+        "pp": "held back",
+        "past": "held back",
+        "ing": "holding back",
+        "s3": "holds back",
+        "plural": "holds back"
+      }
+    },
+    {
+      "text": "hold court",
+      "pos": "verb",
+      "meaningEn": "To preside in a formal manner over an official assembly of courtiers and others in which entertainment is presented or affairs of state are considered.",
+      "meaningZh": "以正式方式主持法院官和其他举行娱乐或审议国家事务的人的正式集会。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold court",
+        "pp": "held court",
+        "past": "held court",
+        "ing": "holding court",
+        "s3": "holds court",
+        "plural": "holds court"
+      }
+    },
+    {
+      "text": "hold fire",
+      "pos": "verb",
+      "meaningEn": "To wait for an opportunity to shoot at something or someone.",
+      "meaningZh": "等待一个机会 拍摄的东西或某人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold fire",
+        "pp": "held fire",
+        "past": "held fire",
+        "ing": "holding fire",
+        "s3": "holds fire",
+        "plural": "holds fire"
+      }
+    },
+    {
+      "text": "hold hard",
+      "pos": "verb",
+      "meaningEn": "To stubbornly resist assault, pressure or opposition, either physically or mentally.",
+      "meaningZh": "无论是身体上还是精神上,顽固抵制攻击、压力或反对。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold hard",
+        "pp": "held hard",
+        "past": "held hard",
+        "ing": "holding hard",
+        "s3": "holds hard",
+        "plural": "holds hard"
+      }
+    },
+    {
+      "text": "hold in",
+      "pos": "verb",
+      "meaningEn": "To keep something to oneself; to prevent from escaping.",
+      "meaningZh": "保持某种秘密,防止逃跑。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "hold in",
+        "pp": "held in",
+        "past": "held in",
+        "ing": "holding in",
+        "s3": "holds in",
+        "plural": "holds in"
       }
     }
   ],
   "generator": {
     "version": "1.0.0",
-    "builtAt": "2026-11-03T09:26:54.462397Z",
+    "builtAt": "2026-11-03T09:37:01.251761Z",
     "lexicons": {
       "kaikki": "kaikki_en_mini.jsonl",
       "ecdict": "ecdict.csv"

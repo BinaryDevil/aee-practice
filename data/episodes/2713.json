@@ -239,48 +239,18 @@
   ],
   "distractors": [
     {
-      "text": "crack the whip",
+      "text": "crack on",
       "pos": "verb",
-      "meaningEn": "To make harsh demands in a position of leadership.",
-      "meaningZh": "以领导地位提出严厉的要求。",
+      "meaningEn": "To continue briskly or promptly.",
+      "meaningZh": "继续快速或快速地快速前进。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "crack the whip",
-        "plural": "cracks the whip",
-        "past": "cracked the whip",
-        "pp": "cracked the whip",
-        "ing": "cracking the whip",
-        "s3": "cracks the whip"
-      }
-    },
-    {
-      "text": "crack a smile",
-      "pos": "verb",
-      "meaningEn": "To smile, especially while attempting not to.",
-      "meaningZh": "微笑,特别是当试图不微笑。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack a smile",
-        "plural": "cracks a smile",
-        "past": "cracked a smile",
-        "pp": "cracked a smile",
-        "ing": "cracking a smile",
-        "s3": "cracks a smile"
-      }
-    },
-    {
-      "text": "crack along",
-      "pos": "verb",
-      "meaningEn": "To move quickly; to continue with work briskly.",
-      "meaningZh": "快速行动;继续快速工作。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack along",
-        "plural": "cracks along",
-        "past": "cracked along",
-        "pp": "cracked along",
-        "ing": "cracking along",
-        "s3": "cracks along"
+        "base": "crack on",
+        "plural": "cracks on",
+        "past": "cracked on",
+        "pp": "cracked on",
+        "ing": "cracking on",
+        "s3": "cracks on"
       }
     },
     {
@@ -299,273 +269,18 @@
       }
     },
     {
-      "text": "crack down",
+      "text": "crack a smile",
       "pos": "verb",
-      "meaningEn": "To take harsh action, as when enforcing a law or rule more stringently than before.",
-      "meaningZh": "采取严厉行动,如执行法律或规则时比以前更加严格。",
+      "meaningEn": "To smile, especially while attempting not to.",
+      "meaningZh": "微笑,特别是当试图不微笑。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "crack down",
-        "plural": "cracks down",
-        "past": "cracked down",
-        "pp": "cracked down",
-        "ing": "cracking down",
-        "s3": "cracks down"
-      }
-    },
-    {
-      "text": "crack a crib",
-      "pos": "verb",
-      "meaningEn": "To break into a house.",
-      "meaningZh": "破门而入",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack a crib",
-        "plural": "cracks a crib",
-        "past": "cracked a crib",
-        "pp": "cracked a crib",
-        "ing": "cracking a crib",
-        "s3": "cracks a crib"
-      }
-    },
-    {
-      "text": "crack a rat",
-      "pos": "verb",
-      "meaningEn": "To break wind.",
-      "meaningZh": "打破风。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack a rat",
-        "plural": "cracks a rat",
-        "past": "cracked a rat",
-        "pp": "cracked a rat",
-        "ing": "cracking a rat",
-        "s3": "cracks a rat"
-      }
-    },
-    {
-      "text": "crack out",
-      "pos": "verb",
-      "meaningEn": "To show signs or symptoms of excessive crack cocaine use.",
-      "meaningZh": "显示过度使用快克可卡因的迹象或症状。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack out",
-        "plural": "cracks out",
-        "past": "cracked out",
-        "pp": "cracked out",
-        "ing": "cracking out",
-        "s3": "cracks out"
-      }
-    },
-    {
-      "text": "crack kills",
-      "pos": "phrase",
-      "meaningEn": "Used to warn others of the dangers of crack cocaine and drugs in general.",
-      "meaningZh": "用来警告其他人快克可卡因和一般毒品的危险。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack kills",
-        "plural": "cracks kills",
-        "past": "cracked kills",
-        "pp": "cracked kills",
-        "ing": "cracking kills",
-        "s3": "cracks kills"
-      }
-    },
-    {
-      "text": "crack one's fingers",
-      "pos": "verb",
-      "meaningEn": "To pull or push one's fingers so that the joints make a cracking noise.",
-      "meaningZh": "拉或推手指 这样关节就会发出响声",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack one's fingers",
-        "plural": "cracks one's fingers",
-        "past": "cracked one's fingers",
-        "pp": "cracked one's fingers",
-        "ing": "cracking one's fingers",
-        "s3": "cracks one's fingers"
-      }
-    },
-    {
-      "text": "crack the flags",
-      "pos": "verb",
-      "meaningEn": "Of the sun or sunshine: to beat down very strongly; to be extremely hot.",
-      "meaningZh": "以太阳或阳光盟誓,以极强的击落它;以极热的击败它。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack the flags",
-        "plural": "cracks the flags",
-        "past": "cracked the flags",
-        "pp": "cracked the flags",
-        "ing": "cracking the flags",
-        "s3": "cracks the flags"
-      }
-    },
-    {
-      "text": "crack a book",
-      "pos": "verb",
-      "meaningEn": "To open up one's books, especially in order to study.",
-      "meaningZh": "开放自己的书,特别是为了学习。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack a book",
-        "plural": "cracks a book",
-        "past": "cracked a book",
-        "pp": "cracked a book",
-        "ing": "cracking a book",
-        "s3": "cracks a book"
-      }
-    },
-    {
-      "text": "crack a crust",
-      "pos": "verb",
-      "meaningEn": "To make a living.",
-      "meaningZh": "谋生",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack a crust",
-        "plural": "cracks a crust",
-        "past": "cracked a crust",
-        "pp": "cracked a crust",
-        "ing": "cracking a crust",
-        "s3": "cracks a crust"
-      }
-    },
-    {
-      "text": "crack one off",
-      "pos": "verb",
-      "meaningEn": "To masturbate to orgasm.",
-      "meaningZh": "手淫到高潮。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack one off",
-        "plural": "cracks one off",
-        "past": "cracked one off",
-        "pp": "cracked one off",
-        "ing": "cracking one off",
-        "s3": "cracks one off"
-      }
-    },
-    {
-      "text": "crack wise",
-      "pos": "verb",
-      "meaningEn": "To make a sarcastic, flippant, or sardonic comment.",
-      "meaningZh": "发表讽刺性、夸夸其谈或沙度评论。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack wise",
-        "plural": "cracks wise",
-        "past": "cracked wise",
-        "pp": "cracked wise",
-        "ing": "cracking wise",
-        "s3": "cracks wise"
-      }
-    },
-    {
-      "text": "crack hardy",
-      "pos": "verb",
-      "meaningEn": "To keep a brave face, to suppress one's feelings, to grin and bear it.",
-      "meaningZh": "保持一个勇敢的脸, 压制一个人的感情, 微笑和忍受它。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack hardy",
-        "plural": "cracks hardy",
-        "past": "cracked hardy",
-        "pp": "cracked hardy",
-        "ing": "cracking hardy",
-        "s3": "cracks hardy"
-      }
-    },
-    {
-      "text": "crack one",
-      "pos": "verb",
-      "meaningEn": "To fart",
-      "meaningZh": "来放屁",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack one",
-        "plural": "cracks one",
-        "past": "cracked one",
-        "pp": "cracked one",
-        "ing": "cracking one",
-        "s3": "cracks one"
-      }
-    },
-    {
-      "text": "crack through",
-      "pos": "verb",
-      "meaningEn": "To penetrate",
-      "meaningZh": "穿透",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack through",
-        "plural": "cracks through",
-        "past": "cracked through",
-        "pp": "cracked through",
-        "ing": "cracking through",
-        "s3": "cracks through"
-      }
-    },
-    {
-      "text": "crack a fat",
-      "pos": "verb",
-      "meaningEn": "To get an erection of the penis.",
-      "meaningZh": "勃起阴茎。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack a fat",
-        "plural": "cracks a fat",
-        "past": "cracked a fat",
-        "pp": "cracked a fat",
-        "ing": "cracking a fat",
-        "s3": "cracks a fat"
-      }
-    },
-    {
-      "text": "crack onto",
-      "pos": "verb",
-      "meaningEn": "To flirt with; to approach and speak to, seeking romance, love, sex, etc.",
-      "meaningZh": "调情;接近和交谈,寻求浪漫、爱、性等。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack onto",
-        "plural": "cracks onto",
-        "past": "cracked onto",
-        "pp": "cracked onto",
-        "ing": "cracking onto",
-        "s3": "cracks onto"
-      }
-    },
-    {
-      "text": "crack on",
-      "pos": "verb",
-      "meaningEn": "To continue briskly or promptly.",
-      "meaningZh": "继续快速或快速地快速前进。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack on",
-        "plural": "cracks on",
-        "past": "cracked on",
-        "pp": "cracked on",
-        "ing": "cracking on",
-        "s3": "cracks on"
-      }
-    },
-    {
-      "text": "crack someone's egg",
-      "pos": "verb",
-      "meaningEn": "To cause to realize that they are transgender.",
-      "meaningZh": "促使人们认识到他们是变性人。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "crack someone's egg",
-        "plural": "cracks someone's egg",
-        "past": "cracked someone's egg",
-        "pp": "cracked someone's egg",
-        "ing": "cracking someone's egg",
-        "s3": "cracks someone's egg"
+        "base": "crack a smile",
+        "plural": "cracks a smile",
+        "past": "cracked a smile",
+        "pp": "cracked a smile",
+        "ing": "cracking a smile",
+        "s3": "cracks a smile"
       }
     },
     {
@@ -584,33 +299,63 @@
       }
     },
     {
-      "text": "joke it up",
+      "text": "crack someone's egg",
       "pos": "verb",
-      "meaningEn": "To be funny, make jokes and carry on.",
-      "meaningZh": "幽默 开玩笑 继续",
+      "meaningEn": "To cause to realize that they are transgender.",
+      "meaningZh": "促使人们认识到他们是变性人。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "joke it up",
-        "plural": "jokes it up",
-        "ing": "joking it up",
-        "past": "joked it up",
-        "s3": "jokes it up",
-        "pp": "joked it up"
+        "base": "crack someone's egg",
+        "plural": "cracks someone's egg",
+        "past": "cracked someone's egg",
+        "pp": "cracked someone's egg",
+        "ing": "cracking someone's egg",
+        "s3": "cracks someone's egg"
       }
     },
     {
-      "text": "joke up",
+      "text": "crack the whip",
       "pos": "verb",
-      "meaningEn": "To make jokes aimed upward in social class or level of authority.",
-      "meaningZh": "在社会阶层或权力级别上制造笑话。",
+      "meaningEn": "To make harsh demands in a position of leadership.",
+      "meaningZh": "以领导地位提出严厉的要求。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "joke up",
-        "plural": "jokes up",
-        "ing": "joking up",
-        "past": "joked up",
-        "s3": "jokes up",
-        "pp": "joked up"
+        "base": "crack the whip",
+        "plural": "cracks the whip",
+        "past": "cracked the whip",
+        "pp": "cracked the whip",
+        "ing": "cracking the whip",
+        "s3": "cracks the whip"
+      }
+    },
+    {
+      "text": "crack through",
+      "pos": "verb",
+      "meaningEn": "To penetrate",
+      "meaningZh": "穿透",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack through",
+        "plural": "cracks through",
+        "past": "cracked through",
+        "pp": "cracked through",
+        "ing": "cracking through",
+        "s3": "cracks through"
+      }
+    },
+    {
+      "text": "crack a book",
+      "pos": "verb",
+      "meaningEn": "To open up one's books, especially in order to study.",
+      "meaningZh": "开放自己的书,特别是为了学习。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crack a book",
+        "plural": "cracks a book",
+        "past": "cracked a book",
+        "pp": "cracked a book",
+        "ing": "cracking a book",
+        "s3": "cracks a book"
       }
     },
     {
@@ -629,65 +374,290 @@
       }
     },
     {
-      "text": "take no for an answer",
+      "text": "joke up",
       "pos": "verb",
-      "meaningEn": "To accept a refusal or rejection and cease pressing the issue.",
-      "meaningZh": "接受拒绝或拒绝,并停止推动这一问题。",
+      "meaningEn": "To make jokes aimed upward in social class or level of authority.",
+      "meaningZh": "在社会阶层或权力级别上制造笑话。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "take no for an answer",
-        "past": "took no for an answer",
-        "pp": "taken no for an answer",
-        "ing": "taking no for an answer",
-        "s3": "takes no for an answer"
+        "base": "joke up",
+        "plural": "jokes up",
+        "ing": "joking up",
+        "past": "joked up",
+        "s3": "jokes up",
+        "pp": "joked up"
       }
     },
     {
-      "text": "take from behind",
+      "text": "joke it up",
       "pos": "verb",
-      "meaningEn": "To attack from behind.",
-      "meaningZh": "从后面进攻",
+      "meaningEn": "To be funny, make jokes and carry on.",
+      "meaningZh": "幽默 开玩笑 继续",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "take from behind",
-        "past": "took from behind",
-        "pp": "taken from behind",
-        "ing": "taking from behind",
-        "s3": "takes from behind"
+        "base": "joke it up",
+        "plural": "jokes it up",
+        "ing": "joking it up",
+        "past": "joked it up",
+        "s3": "jokes it up",
+        "pp": "joked it up"
       }
     },
     {
-      "text": "take the easy way out",
+      "text": "take away",
       "pos": "verb",
-      "meaningEn": "To cut corners; to follow the path of least resistance; to take shortcuts to avoid pain or having to struggle to achieve a desired result; to end or avoid a difficult situation in an easy or simple way that is not the best or most sensible or honorable solution.",
-      "meaningZh": "切割角角;走抵抗最少的道路;走捷径以避免痛苦或不得不为达到预期结果而挣扎;以不最佳或最明智或最光荣的解决办法,简单或简单的方式结束或避免困难局面。",
+      "meaningEn": "To remove something and put it in a different place.",
+      "meaningZh": "把东西移走 放在别的地方",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "take the easy way out",
-        "past": "took the easy way out",
-        "pp": "taken the easy way out",
-        "ing": "taking the easy way out",
-        "s3": "takes the easy way out"
+        "base": "take away",
+        "past": "took away",
+        "pp": "taken away",
+        "ing": "taking away",
+        "s3": "takes away"
       }
     },
     {
-      "text": "take ship",
+      "text": "take off",
       "pos": "verb",
-      "meaningEn": "To embark on a voyage by ship.",
-      "meaningZh": "乘船航行。",
+      "meaningEn": "To remove.",
+      "meaningZh": "移走。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "take ship",
-        "past": "took ship",
-        "pp": "taken ship",
-        "ing": "taking ship",
-        "s3": "takes ship"
+        "base": "take off",
+        "past": "took off",
+        "pp": "taken off",
+        "ing": "taking off",
+        "s3": "takes off"
+      }
+    },
+    {
+      "text": "take up",
+      "pos": "verb",
+      "meaningEn": "To pick up.",
+      "meaningZh": "接电话。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take up",
+        "past": "took up",
+        "pp": "taken up",
+        "ing": "taking up",
+        "s3": "takes up"
+      }
+    },
+    {
+      "text": "take down",
+      "pos": "verb",
+      "meaningEn": "To remove something from a wall or similar vertical surface to which it is fixed.",
+      "meaningZh": "从固定的墙上或类似的垂直表面移走东西。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take down",
+        "past": "took down",
+        "pp": "taken down",
+        "ing": "taking down",
+        "s3": "takes down"
+      }
+    },
+    {
+      "text": "take in",
+      "pos": "verb",
+      "meaningEn": "To receive.",
+      "meaningZh": "接受。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take in",
+        "past": "took in",
+        "pp": "taken in",
+        "ing": "taking in",
+        "s3": "takes in"
+      }
+    },
+    {
+      "text": "take it",
+      "pos": "verb",
+      "meaningEn": "To start doing.",
+      "meaningZh": "开始做。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take it",
+        "past": "took it",
+        "pp": "taken it",
+        "ing": "taking it",
+        "s3": "takes it"
+      }
+    },
+    {
+      "text": "take on",
+      "pos": "verb",
+      "meaningEn": "To acquire, bring in, or introduce.",
+      "meaningZh": "获取、引进或介绍。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take on",
+        "past": "took on",
+        "pp": "taken on",
+        "ing": "taking on",
+        "s3": "takes on"
+      }
+    },
+    {
+      "text": "take over",
+      "pos": "verb",
+      "meaningEn": "To assume control of something, such as a business or enterprise, and sometimes by force.",
+      "meaningZh": "控制某种东西,如企业或企业,有时是以武力控制。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take over",
+        "past": "took over",
+        "pp": "taken over",
+        "ing": "taking over",
+        "s3": "takes over"
+      }
+    },
+    {
+      "text": "take back",
+      "pos": "verb",
+      "meaningEn": "To retract or withdraw.",
+      "meaningZh": "撤回或退出。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take back",
+        "past": "took back",
+        "pp": "taken back",
+        "ing": "taking back",
+        "s3": "takes back"
+      }
+    },
+    {
+      "text": "take for",
+      "pos": "verb",
+      "meaningEn": "To regard as.",
+      "meaningZh": "视之为。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take for",
+        "past": "took for",
+        "pp": "taken for",
+        "ing": "taking for",
+        "s3": "takes for"
+      }
+    },
+    {
+      "text": "take possession",
+      "pos": "verb",
+      "meaningEn": "To become the owner.",
+      "meaningZh": "成为主人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take possession",
+        "past": "took possession",
+        "pp": "taken possession",
+        "ing": "taking possession",
+        "s3": "takes possession"
+      }
+    },
+    {
+      "text": "take up the slack",
+      "pos": "verb",
+      "meaningEn": "To tighten something that is slack so that it is taut.",
+      "meaningZh": "紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧地紧紧紧地紧紧紧地紧紧紧地紧紧地紧紧紧地紧紧地紧紧紧地紧紧地紧地紧地紧紧地紧紧地紧地紧紧地紧地紧地紧紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地地地地地地地地地地",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take up the slack",
+        "past": "took up the slack",
+        "pp": "taken up the slack",
+        "ing": "taking up the slack",
+        "s3": "takes up the slack"
+      }
+    },
+    {
+      "text": "take up with",
+      "pos": "verb",
+      "meaningEn": "To form a close relationship with.",
+      "meaningZh": "建立亲密的关系。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take up with",
+        "past": "took up with",
+        "pp": "taken up with",
+        "ing": "taking up with",
+        "s3": "takes up with"
+      }
+    },
+    {
+      "text": "take water",
+      "pos": "verb",
+      "meaningEn": "As a person or animal, to go into a body of water and start swimming.",
+      "meaningZh": "作为人或动物 进入水体 开始游泳",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take water",
+        "past": "took water",
+        "pp": "taken water",
+        "ing": "taking water",
+        "s3": "takes water"
+      }
+    },
+    {
+      "text": "able",
+      "pos": "adj",
+      "meaningEn": "Having the necessary powers or the needed resources to accomplish a task.",
+      "meaningZh": "能干的；能够的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "able"
+      }
+    },
+    {
+      "text": "absolute",
+      "pos": "adj",
+      "meaningEn": "Free of restrictions, limitations, qualifications or conditions; unconditional.",
+      "meaningZh": "绝对的；专制的；完全的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "absolute",
+        "plural": "absolutes"
+      }
+    },
+    {
+      "text": "absorb",
+      "pos": "verb",
+      "meaningEn": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
+      "meaningZh": "吸收；使全神贯注；同化",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "absorb",
+        "pp": "absorbed",
+        "past": "absorbed",
+        "s3": "absorbs",
+        "ing": "absorbing"
+      }
+    },
+    {
+      "text": "acceptable",
+      "pos": "adj",
+      "meaningEn": "Capable, worthy, or sure of being accepted or received with pleasure; welcome; gratifying; pleasing to a receiver.",
+      "meaningZh": "可接受的；合意的；可忍受的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "acceptable"
+      }
+    },
+    {
+      "text": "according",
+      "pos": "adj",
+      "meaningEn": "Agreeing; in agreement or harmony; harmonious.",
+      "meaningZh": "相符的；根据...而定的；相应地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "according"
       }
     }
   ],
   "generator": {
     "version": "1.0.0",
-    "builtAt": "2026-11-03T09:27:02.714940Z",
+    "builtAt": "2026-11-03T09:37:09.951763Z",
     "lexicons": {
       "kaikki": "kaikki_en_mini.jsonl",
       "ecdict": "ecdict.csv"

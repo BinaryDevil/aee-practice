@@ -246,63 +246,33 @@
   ],
   "distractors": [
     {
-      "text": "face like a fiddle",
+      "text": "face mask",
       "pos": "noun",
-      "meaningEn": "A long face; a melancholy expression.",
-      "meaningZh": "长长的脸孔,忧郁的表情。",
-      "meaningZhSource": "mt",
+      "meaningEn": "A diving mask.",
+      "meaningZh": "面具；面罩",
+      "meaningZhSource": "kaikki",
       "inflections": {
-        "base": "face like a fiddle",
-        "ing": "facing like a fiddle",
-        "plural": "faces like a fiddle",
-        "pp": "faced like a fiddle",
-        "past": "faced like a fiddle",
-        "s3": "faces like a fiddle"
+        "base": "face mask",
+        "ing": "facing mask",
+        "plural": "faces mask",
+        "pp": "faced mask",
+        "past": "faced mask",
+        "s3": "faces mask"
       }
     },
     {
-      "text": "face powder",
-      "pos": "noun",
-      "meaningEn": "A cosmetic made from coloured talc, applied to the face.",
-      "meaningZh": "用彩色口服制成的化妆品,贴在脸上。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face powder",
-        "ing": "facing powder",
-        "plural": "faces powder",
-        "pp": "faced powder",
-        "past": "faced powder",
-        "s3": "faces powder"
-      }
-    },
-    {
-      "text": "face artist",
-      "pos": "noun",
-      "meaningEn": "Someone who performs oral sex.",
-      "meaningZh": "口交的人。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face artist",
-        "ing": "facing artist",
-        "plural": "faces artist",
-        "pp": "faced artist",
-        "past": "faced artist",
-        "s3": "faces artist"
-      }
-    },
-    {
-      "text": "face the music",
+      "text": "face down",
       "pos": "verb",
-      "meaningEn": "To accept or confront the unpleasant consequences of one's actions.",
-      "meaningZh": "接受或面对自己行为带来的不愉快后果。",
+      "meaningEn": "To confront; to abash by stern looks.",
+      "meaningZh": "对抗; 严酷的眼神压抑。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "face the music",
-        "ing": "facing the music",
-        "plural": "faces the music",
-        "pp": "faced the music",
-        "past": "faced the music",
-        "s3": "faces the music"
+        "base": "face down",
+        "ing": "facing down",
+        "plural": "faces down",
+        "pp": "faced down",
+        "past": "faced down",
+        "s3": "faces down"
       }
     },
     {
@@ -321,231 +291,6 @@
       }
     },
     {
-      "text": "face reveals",
-      "pos": "verb",
-      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
-      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face reveals",
-        "ing": "facing reveals",
-        "plural": "faces reveals",
-        "pp": "faced reveals",
-        "past": "faced reveals",
-        "s3": "faces reveals"
-      }
-    },
-    {
-      "text": "face off",
-      "pos": "verb",
-      "meaningEn": "To confront.",
-      "meaningZh": "对抗。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face off",
-        "ing": "facing off",
-        "plural": "faces off",
-        "pp": "faced off",
-        "past": "faced off",
-        "s3": "faces off"
-      }
-    },
-    {
-      "text": "face tanked",
-      "pos": "verb",
-      "meaningEn": "To absorb damage directly, especially in an unsophisticated or unskillful way.",
-      "meaningZh": "直接吸收损害,尤其是以不精细或不熟练的方式吸收损害。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face tanked",
-        "ing": "facing tanked",
-        "plural": "faces tanked",
-        "pp": "faced tanked",
-        "past": "faced tanked",
-        "s3": "faces tanked"
-      }
-    },
-    {
-      "text": "face ague",
-      "pos": "noun",
-      "meaningEn": "Trigeminal neuralgia.",
-      "meaningZh": "三角神经。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face ague",
-        "ing": "facing ague",
-        "plural": "faces ague",
-        "pp": "faced ague",
-        "past": "faced ague",
-        "s3": "faces ague"
-      }
-    },
-    {
-      "text": "face reveal",
-      "pos": "noun",
-      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
-      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face reveal",
-        "ing": "facing reveal",
-        "plural": "faces reveal",
-        "pp": "faced reveal",
-        "past": "faced reveal",
-        "s3": "faces reveal"
-      }
-    },
-    {
-      "text": "face tank",
-      "pos": "verb",
-      "meaningEn": "To absorb damage directly, especially in an unsophisticated or unskillful way.",
-      "meaningZh": "直接吸收损害,尤其是以不精细或不熟练的方式吸收损害。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face tank",
-        "ing": "facing tank",
-        "plural": "faces tank",
-        "pp": "faced tank",
-        "past": "faced tank",
-        "s3": "faces tank"
-      }
-    },
-    {
-      "text": "face palms",
-      "pos": "verb",
-      "meaningEn": "Alternative spelling of facepalm.",
-      "meaningZh": "面骨的替代拼写。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face palms",
-        "ing": "facing palms",
-        "plural": "faces palms",
-        "pp": "faced palms",
-        "past": "faced palms",
-        "s3": "faces palms"
-      }
-    },
-    {
-      "text": "face tanking",
-      "pos": "verb",
-      "meaningEn": "To absorb damage directly, especially in an unsophisticated or unskillful way.",
-      "meaningZh": "直接吸收损害,尤其是以不精细或不熟练的方式吸收损害。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face tanking",
-        "ing": "facing tanking",
-        "plural": "faces tanking",
-        "pp": "faced tanking",
-        "past": "faced tanking",
-        "s3": "faces tanking"
-      }
-    },
-    {
-      "text": "face fucks",
-      "pos": "verb",
-      "meaningEn": "third-person singular simple present indicative of face fuck",
-      "meaningZh": "单一简单表情表示脸部性交",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face fucks",
-        "ing": "facing fucks",
-        "plural": "faces fucks",
-        "pp": "faced fucks",
-        "past": "faced fucks",
-        "s3": "faces fucks"
-      }
-    },
-    {
-      "text": "face piece",
-      "pos": "noun",
-      "meaningEn": "The part of a respirator or gas mask that covers the nose, mouth, and sometimes the eyes.",
-      "meaningZh": "呼吸器或防毒面具的部分 覆盖鼻子,嘴,有时是眼睛。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face piece",
-        "ing": "facing piece",
-        "plural": "faces piece",
-        "pp": "faced piece",
-        "past": "faced piece",
-        "s3": "faces piece"
-      }
-    },
-    {
-      "text": "face job",
-      "pos": "noun",
-      "meaningEn": "A plastic surgical procedure to alter the appearance of the face, particularly for cosmetic reasons.",
-      "meaningZh": "整形外科手术,以改变面部的外貌,特别是为了化妆。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face job",
-        "ing": "facing job",
-        "plural": "faces job",
-        "pp": "faced job",
-        "past": "faced job",
-        "s3": "faces job"
-      }
-    },
-    {
-      "text": "face revealing",
-      "pos": "verb",
-      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
-      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face revealing",
-        "ing": "facing revealing",
-        "plural": "faces revealing",
-        "pp": "faced revealing",
-        "past": "faced revealing",
-        "s3": "faces revealing"
-      }
-    },
-    {
-      "text": "face fly",
-      "pos": "noun",
-      "meaningEn": "A fly, Musca autumnalis, that resembles the housefly and is a pest of cattle and horses.",
-      "meaningZh": "一只苍蝇,穆斯卡秋天的苍蝇, 类似家庭苍蝇, 是牛和马的害虫。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face fly",
-        "ing": "facing fly",
-        "plural": "faces fly",
-        "pp": "faced fly",
-        "past": "faced fly",
-        "s3": "faces fly"
-      }
-    },
-    {
-      "text": "face value",
-      "pos": "noun",
-      "meaningEn": "The amount or value listed on a bill, card, note, stamp, etc.; the stated value or amount.",
-      "meaningZh": "账单、卡片、纸条、印章等所列金额或价值;说明的价值或数额。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face value",
-        "ing": "facing value",
-        "plural": "faces value",
-        "pp": "faced value",
-        "past": "faced value",
-        "s3": "faces value"
-      }
-    },
-    {
-      "text": "face cloth",
-      "pos": "noun",
-      "meaningEn": "A small cloth used to wash one's face.",
-      "meaningZh": "用来洗脸的小布",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face cloth",
-        "ing": "facing cloth",
-        "plural": "faces cloth",
-        "pp": "faced cloth",
-        "past": "faced cloth",
-        "s3": "faces cloth"
-      }
-    },
-    {
       "text": "face time",
       "pos": "noun",
       "meaningEn": "Time spent in visual communication with another party.",
@@ -558,81 +303,6 @@
         "pp": "faced time",
         "past": "faced time",
         "s3": "faces time"
-      }
-    },
-    {
-      "text": "face pack",
-      "pos": "noun",
-      "meaningEn": "A set of beauty products for the face",
-      "meaningZh": "一张脸的美容品",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face pack",
-        "ing": "facing pack",
-        "plural": "faces pack",
-        "pp": "faced pack",
-        "past": "faced pack",
-        "s3": "faces pack"
-      }
-    },
-    {
-      "text": "face out",
-      "pos": "verb",
-      "meaningEn": "To carry off by bold looks; to see something unpleasant through with courage and spirit.",
-      "meaningZh": "勇敢地向前看;以勇气和精神看到一些令人不愉快的事情。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face out",
-        "ing": "facing out",
-        "plural": "faces out",
-        "pp": "faced out",
-        "past": "faced out",
-        "s3": "faces out"
-      }
-    },
-    {
-      "text": "face palm",
-      "pos": "noun",
-      "meaningEn": "A gesture of bringing one or both palms to the face, with various interpretations including exasperation, chagrin, frustration, embarrassment, etc.",
-      "meaningZh": "手势是将一只或两只手掌放在面前,并有各种解释,包括愤怒、愤怒、沮丧、尴尬等。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face palm",
-        "ing": "facing palm",
-        "plural": "faces palm",
-        "pp": "faced palm",
-        "past": "faced palm",
-        "s3": "faces palm"
-      }
-    },
-    {
-      "text": "face for television",
-      "pos": "noun",
-      "meaningEn": "An attractive face.",
-      "meaningZh": "一张吸引人的脸",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face for television",
-        "ing": "facing for television",
-        "plural": "faces for television",
-        "pp": "faced for television",
-        "past": "faced for television",
-        "s3": "faces for television"
-      }
-    },
-    {
-      "text": "face up to",
-      "pos": "verb",
-      "meaningEn": "To confront a condition or situation, typically one that is unpleasant or uncomfortable.",
-      "meaningZh": "面对一种或多种情况,通常是不愉快或不舒服的情况。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "face up to",
-        "ing": "facing up to",
-        "plural": "faces up to",
-        "pp": "faced up to",
-        "past": "faced up to",
-        "s3": "faces up to"
       }
     },
     {
@@ -651,6 +321,66 @@
       }
     },
     {
+      "text": "face off",
+      "pos": "verb",
+      "meaningEn": "To confront.",
+      "meaningZh": "对抗。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face off",
+        "ing": "facing off",
+        "plural": "faces off",
+        "pp": "faced off",
+        "past": "faced off",
+        "s3": "faces off"
+      }
+    },
+    {
+      "text": "face palm",
+      "pos": "noun",
+      "meaningEn": "A gesture of bringing one or both palms to the face, with various interpretations including exasperation, chagrin, frustration, embarrassment, etc.",
+      "meaningZh": "手势是将一只或两只手掌放在面前,并有各种解释,包括愤怒、愤怒、沮丧、尴尬等。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face palm",
+        "ing": "facing palm",
+        "plural": "faces palm",
+        "pp": "faced palm",
+        "past": "faced palm",
+        "s3": "faces palm"
+      }
+    },
+    {
+      "text": "face piece",
+      "pos": "noun",
+      "meaningEn": "The part of a respirator or gas mask that covers the nose, mouth, and sometimes the eyes.",
+      "meaningZh": "呼吸器或防毒面具的部分 覆盖鼻子,嘴,有时是眼睛。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face piece",
+        "ing": "facing piece",
+        "plural": "faces piece",
+        "pp": "faced piece",
+        "past": "faced piece",
+        "s3": "faces piece"
+      }
+    },
+    {
+      "text": "face reveal",
+      "pos": "noun",
+      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
+      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "face reveal",
+        "ing": "facing reveal",
+        "plural": "faces reveal",
+        "pp": "faced reveal",
+        "past": "faced reveal",
+        "s3": "faces reveal"
+      }
+    },
+    {
       "text": "face validity",
       "pos": "noun",
       "meaningEn": "A property of a hypothesis by which its appearance suggests to an observer that the hypothesis will be determined true if tested.",
@@ -666,39 +396,290 @@
       }
     },
     {
-      "text": "face revealed",
-      "pos": "verb",
-      "meaningEn": "A photograph or video posted online, showing a content creator's true facial appearance for the first time.",
-      "meaningZh": "照片或视频张贴在网上, 首次展示内容创作者真实面部外观。",
+      "text": "face value",
+      "pos": "noun",
+      "meaningEn": "The amount or value listed on a bill, card, note, stamp, etc.; the stated value or amount.",
+      "meaningZh": "账单、卡片、纸条、印章等所列金额或价值;说明的价值或数额。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "face revealed",
-        "ing": "facing revealed",
-        "plural": "faces revealed",
-        "pp": "faced revealed",
-        "past": "faced revealed",
-        "s3": "faces revealed"
+        "base": "face value",
+        "ing": "facing value",
+        "plural": "faces value",
+        "pp": "faced value",
+        "past": "faced value",
+        "s3": "faces value"
       }
     },
     {
-      "text": "face like a bag of spanners",
-      "pos": "noun",
-      "meaningEn": "A very ugly face.",
-      "meaningZh": "一个丑陋的脸蛋",
+      "text": "have on",
+      "pos": "verb",
+      "meaningEn": "To be wearing.",
+      "meaningZh": "穿着。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "face like a bag of spanners",
-        "ing": "facing like a bag of spanners",
-        "plural": "faces like a bag of spanners",
-        "pp": "faced like a bag of spanners",
-        "past": "faced like a bag of spanners",
-        "s3": "faces like a bag of spanners"
+        "base": "have on",
+        "ing": "having on",
+        "past": "had on",
+        "s3": "has on",
+        "pp": "had on"
+      }
+    },
+    {
+      "text": "have it",
+      "pos": "verb",
+      "meaningEn": "To state or hold as true; to insist.",
+      "meaningZh": "声明或坚持真实;坚持。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have it",
+        "ing": "having it",
+        "past": "had it",
+        "s3": "has it",
+        "pp": "had it"
+      }
+    },
+    {
+      "text": "have a go",
+      "pos": "verb",
+      "meaningEn": "To make an attempt; to try.",
+      "meaningZh": "尝试 尝试 尝试",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have a go",
+        "ing": "having a go",
+        "past": "had a go",
+        "s3": "has a go",
+        "pp": "had a go"
+      }
+    },
+    {
+      "text": "have a laugh",
+      "pos": "verb",
+      "meaningEn": "To laugh.",
+      "meaningZh": "为了笑。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have a laugh",
+        "ing": "having a laugh",
+        "past": "had a laugh",
+        "s3": "has a laugh",
+        "pp": "had a laugh"
+      }
+    },
+    {
+      "text": "have a thing",
+      "pos": "verb",
+      "meaningEn": "To be in a casual or illicit romantic relationship.",
+      "meaningZh": "建立临时或非法的浪漫关系",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have a thing",
+        "ing": "having a thing",
+        "past": "had a thing",
+        "s3": "has a thing",
+        "pp": "had a thing"
+      }
+    },
+    {
+      "text": "have nothing on",
+      "pos": "verb",
+      "meaningEn": "To lack an advantage over, to not be in a better position than, to be nonsuperior to.",
+      "meaningZh": "缺乏优势,没有优势 比,没有优势, 没有优势, 没有优势, 没有优势。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have nothing on",
+        "ing": "having nothing on",
+        "past": "had nothing on",
+        "s3": "has nothing on",
+        "pp": "had nothing on"
+      }
+    },
+    {
+      "text": "have one's eye on",
+      "pos": "verb",
+      "meaningEn": "To watch.",
+      "meaningZh": "观看。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have one's eye on",
+        "ing": "having one's eye on",
+        "past": "had one's eye on",
+        "s3": "has one's eye on",
+        "pp": "had one's eye on"
+      }
+    },
+    {
+      "text": "have one's name on",
+      "pos": "verb",
+      "meaningEn": "To be reserved for someone.",
+      "meaningZh": "保留给某人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have one's name on",
+        "ing": "having one's name on",
+        "past": "had one's name on",
+        "s3": "has one's name on",
+        "pp": "had one's name on"
+      }
+    },
+    {
+      "text": "have one's way",
+      "pos": "verb",
+      "meaningEn": "To obtain the circumstances one wishes for; to do what one wishes to do, or to have others do what one wishes them to do.",
+      "meaningZh": "获得自己想要的环境;做自己想做的事;或让别人做自己想做的事。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have one's way",
+        "ing": "having one's way",
+        "past": "had one's way",
+        "s3": "has one's way",
+        "pp": "had one's way"
+      }
+    },
+    {
+      "text": "have someone going",
+      "pos": "verb",
+      "meaningEn": "To temporarily convince someone of a falsehood.",
+      "meaningZh": "暂时说服别人相信谎言",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have someone going",
+        "ing": "having someone going",
+        "past": "had someone going",
+        "s3": "has someone going",
+        "pp": "had someone going"
+      }
+    },
+    {
+      "text": "have a bird",
+      "pos": "verb",
+      "meaningEn": "To freak out; to be shocked or upset.",
+      "meaningZh": "惊慌失措 惊慌失措",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have a bird",
+        "ing": "having a bird",
+        "past": "had a bird",
+        "s3": "has a bird",
+        "pp": "had a bird"
+      }
+    },
+    {
+      "text": "have a cow",
+      "pos": "verb",
+      "meaningEn": "To get angry; have a fit.",
+      "meaningZh": "生气;发脾气。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have a cow",
+        "ing": "having a cow",
+        "past": "had a cow",
+        "s3": "has a cow",
+        "pp": "had a cow"
+      }
+    },
+    {
+      "text": "have a fine finger",
+      "pos": "verb",
+      "meaningEn": "To be exceptionally gifted at a task requiring delicate, expert manual dexterity.",
+      "meaningZh": "特别有天赋地完成一项需要精细精巧的专家手册的任务。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "have a fine finger",
+        "ing": "having a fine finger",
+        "past": "had a fine finger",
+        "s3": "has a fine finger",
+        "pp": "had a fine finger"
+      }
+    },
+    {
+      "text": "last dance",
+      "pos": "noun",
+      "meaningEn": "A last run, suggesting a sense of nostalgia.",
+      "meaningZh": "最后一次跑步 暗示着怀旧的感觉",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "last dance",
+        "past": "lasted dance",
+        "s3": "lasts dance",
+        "ing": "lasting dance",
+        "pp": "lasted dance"
+      }
+    },
+    {
+      "text": "last time",
+      "pos": "noun",
+      "meaningEn": "The ultimate occurrence.",
+      "meaningZh": "最终的发生",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "last time",
+        "past": "lasted time",
+        "s3": "lasts time",
+        "ing": "lasting time",
+        "pp": "lasted time"
+      }
+    },
+    {
+      "text": "last word",
+      "pos": "noun",
+      "meaningEn": "The finest, highest, or ultimate representative of some class of objects.",
+      "meaningZh": "最优秀 最高 或最终代表 某类物体。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "last word",
+        "past": "lasted word",
+        "s3": "lasts word",
+        "ing": "lasting word",
+        "pp": "lasted word"
+      }
+    },
+    {
+      "text": "last gasp",
+      "pos": "noun",
+      "meaningEn": "The final gasp or breath a person takes before death.",
+      "meaningZh": "最后的喘气或呼吸 一个人在死亡前采取。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "last gasp",
+        "past": "lasted gasp",
+        "s3": "lasts gasp",
+        "ing": "lasting gasp",
+        "pp": "lasted gasp"
+      }
+    },
+    {
+      "text": "last chance saloon",
+      "pos": "noun",
+      "meaningEn": "A saloon located at the end of a road or the outskirts of a town.",
+      "meaningZh": "位于公路尽头或镇郊外的酒吧。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "last chance saloon",
+        "past": "lasted chance saloon",
+        "s3": "lasts chance saloon",
+        "ing": "lasting chance saloon",
+        "pp": "lasted chance saloon"
+      }
+    },
+    {
+      "text": "last mile",
+      "pos": "noun",
+      "meaningEn": "The final stage of delivery of goods, etc., from a distribution centre to the consumer, often involving greater effort or expense.",
+      "meaningZh": "从销售中心向消费者交付货物等的最后阶段往往涉及更大的努力或费用。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "last mile",
+        "past": "lasted mile",
+        "s3": "lasts mile",
+        "ing": "lasting mile",
+        "pp": "lasted mile"
       }
     }
   ],
   "generator": {
     "version": "1.0.0",
-    "builtAt": "2026-11-03T09:27:13.166514Z",
+    "builtAt": "2026-11-03T09:37:20.747780Z",
     "lexicons": {
       "kaikki": "kaikki_en_mini.jsonl",
       "ecdict": "ecdict.csv"

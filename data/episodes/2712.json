@@ -64,123 +64,43 @@
   ],
   "distractors": [
     {
-      "text": "what next",
+      "text": "what say you",
       "pos": "phrase",
-      "meaningEn": "Used to express surprise or amazement.",
-      "meaningZh": "用来表达惊讶或惊讶。",
+      "meaningEn": "Sometimes followed by if: how about or what about ?",
+      "meaningZh": "有时接着是:关于还是关于?",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "what next"
+        "base": "what say you"
       }
     },
     {
-      "text": "what color is your bugatti",
+      "text": "what do you know",
       "pos": "phrase",
-      "meaningEn": "An expression intended to flaunt one’s own material possessions and simultaneously deride another person for not owning them.",
-      "meaningZh": "一种表达方式旨在炫耀自己的物质财产,同时嘲笑他人不拥有这些财产。",
+      "meaningEn": "What a surprise; guess what.",
+      "meaningZh": "真是个惊喜 你猜怎么着",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "what color is your bugatti"
+        "base": "what do you know"
       }
     },
     {
-      "text": "what is your name",
+      "text": "what do you mean",
       "pos": "phrase",
-      "meaningEn": "Used to ask the name of a person.",
-      "meaningZh": "曾经问一个人的名字。",
+      "meaningEn": "A request for clarification of an anterior statement or question.",
+      "meaningZh": "要求澄清其他说明或问题。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "what is your name"
+        "base": "what do you mean"
       }
     },
     {
-      "text": "what would jesus do",
+      "text": "what do you say",
       "pos": "phrase",
-      "meaningEn": "Expression intended to help a person facing a choice with moral, ethical or religious implications.",
-      "meaningZh": "表达方式旨在帮助面临具有道德、伦理或宗教影响的选择的人。",
+      "meaningEn": "Used to ask someone if they are willing to do something.",
+      "meaningZh": "曾经问某人是否愿意做点什么。",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "what would jesus do"
-      }
-    },
-    {
-      "text": "what else is new",
-      "pos": "phrase",
-      "meaningEn": "A rhetorical request for some real news, on hearing a report that was not news because it represents a continuing predictable and unsatisfactory situation.",
-      "meaningZh": "听到一个非新闻性的报道后,口头要求一些真实的新闻,因为这是一个持续可预见的和不能令人满意的局势。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what else is new"
-      }
-    },
-    {
-      "text": "what a lovely day",
-      "pos": "phrase",
-      "meaningEn": "The day is lovely.",
-      "meaningZh": "天气真美,你觉得怎么样?",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what a lovely day"
-      }
-    },
-    {
-      "text": "what you don't know can't hurt you",
-      "pos": "phrase",
-      "meaningEn": "If one does not know about a problem or a misdeed, one will not be able to render oneself unhappy by worrying about it.",
-      "meaningZh": "如果一个人不知道一个问题或一个错误的行为,那么一个人就不会因为担心而感到不高兴。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what you don't know can't hurt you"
-      }
-    },
-    {
-      "text": "what is their name",
-      "pos": "phrase",
-      "meaningEn": "Used to ask the name of a person whose gender is not known.",
-      "meaningZh": "用来问一个性别不详的人的名字。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what is their name"
-      }
-    },
-    {
-      "text": "what the flip",
-      "pos": "phrase",
-      "meaningEn": "what the fuck",
-      "meaningZh": "什么他妈的",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what the flip"
-      }
-    },
-    {
-      "text": "what colour is your bugatti",
-      "pos": "phrase",
-      "meaningEn": "Commonwealth and Ireland standard spelling of what color is your Bugatti.",
-      "meaningZh": "联邦和爱尔兰 标准拼写 什么颜色是你的布加蒂。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what colour is your bugatti"
-      }
-    },
-    {
-      "text": "what happens twice happens thrice",
-      "pos": "phrase",
-      "meaningEn": "An event that happens two times will happen three times.",
-      "meaningZh": "发生两次的事件 将发生三次",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what happens twice happens thrice"
-      }
-    },
-    {
-      "text": "what gives",
-      "pos": "phrase",
-      "meaningEn": "What is wrong? Why is this happening?",
-      "meaningZh": "怎么了 为什么会这样",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what gives"
+        "base": "what do you say"
       }
     },
     {
@@ -194,179 +114,29 @@
       }
     },
     {
-      "text": "what you see is what you get",
+      "text": "what price",
       "pos": "phrase",
-      "meaningEn": "The image corresponds to the reality.",
-      "meaningZh": "图像符合现实。",
+      "meaningEn": "What must be lost or sacrificed to gain ___?",
+      "meaningZh": "为了获得___必须失去或牺牲什么?",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "what you see is what you get"
+        "base": "what price"
       }
     },
     {
-      "text": "what am i looking at",
+      "text": "what a lovely day",
       "pos": "phrase",
-      "meaningEn": "Expresses confusion as to the significance of something that the speaker is being shown.",
-      "meaningZh": "对发言者所展示的东西的意义表示困惑。",
+      "meaningEn": "The day is lovely.",
+      "meaningZh": "天气真美,你觉得怎么样?",
       "meaningZhSource": "mt",
       "inflections": {
-        "base": "what am i looking at"
-      }
-    },
-    {
-      "text": "what o'clock is it",
-      "pos": "phrase",
-      "meaningEn": "what's the time?",
-      "meaningZh": "几点了?",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what o'clock is it"
-      }
-    },
-    {
-      "text": "what the crap",
-      "pos": "phrase",
-      "meaningEn": "An intensive form of what.",
-      "meaningZh": "一种密集形式的什么。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what the crap"
-      }
-    },
-    {
-      "text": "what are you like",
-      "pos": "phrase",
-      "meaningEn": "Expressing mock despair at somebody's outrageous behaviour.",
-      "meaningZh": "冷嘲热讽地对某人的残暴行为表示绝望。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what are you like"
-      }
-    },
-    {
-      "text": "what the deuce",
-      "pos": "phrase",
-      "meaningEn": "An intensive form of what.",
-      "meaningZh": "一种密集形式的什么。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what the deuce"
-      }
-    },
-    {
-      "text": "what the hell",
-      "pos": "phrase",
-      "meaningEn": "An intensive form of what.",
-      "meaningZh": "一种密集形式的什么。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what the hell"
-      }
-    },
-    {
-      "text": "what was someone smoking",
-      "pos": "phrase",
-      "meaningEn": "Used to express surprise about someone's uncharacteristic or wacky, offbeat past actions.",
-      "meaningZh": "曾经对某人的 异性化或古怪, 冷酷的过去行动表示惊讶。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what was someone smoking"
-      }
-    },
-    {
-      "text": "what has someone done",
-      "pos": "phrase",
-      "meaningEn": "A method of drawing attention to some changed aspect of a person or thing.",
-      "meaningZh": "一种提请人们注意某个人或某物某些改变方面的方法。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what has someone done"
-      }
-    },
-    {
-      "text": "what someone said",
-      "pos": "phrase",
-      "meaningEn": "Used to indicate agreement, as if one would have wanted to say what a previous speaker has said, without change or qualification.",
-      "meaningZh": "其用意是表示一致,似乎人们本来想说上一位发言者所说的话,而没有改变或限定。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what someone said"
-      }
-    },
-    {
-      "text": "what the eff",
-      "pos": "phrase",
-      "meaningEn": "An intensive form of what.",
-      "meaningZh": "一种密集形式的什么。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what the eff"
-      }
-    },
-    {
-      "text": "what it is",
-      "pos": "phrase",
-      "meaningEn": "A casual greeting.",
-      "meaningZh": "临时问候。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what it is"
-      }
-    },
-    {
-      "text": "what is your problem",
-      "pos": "phrase",
-      "meaningEn": "A rhetorical question posed to someone who is being difficult, rude, or unreasonable.",
-      "meaningZh": "向困难、粗鲁或不合理的人提出一个口头问题。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what is your problem"
-      }
-    },
-    {
-      "text": "what the fudge",
-      "pos": "phrase",
-      "meaningEn": "An intensive form of what.",
-      "meaningZh": "一种密集形式的什么。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what the fudge"
-      }
-    },
-    {
-      "text": "what do you do",
-      "pos": "phrase",
-      "meaningEn": "Inquires about the subject's current occupation.",
-      "meaningZh": "询问这个主题的当前占领情况。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what do you do"
-      }
-    },
-    {
-      "text": "what that mouth do",
-      "pos": "phrase",
-      "meaningEn": "Requests oral sex from the interlocutor.",
-      "meaningZh": "要求对话者口交。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what that mouth do"
-      }
-    },
-    {
-      "text": "what the helly",
-      "pos": "phrase",
-      "meaningEn": "An intensive form of what.",
-      "meaningZh": "一种密集形式的什么。",
-      "meaningZhSource": "mt",
-      "inflections": {
-        "base": "what the helly"
+        "base": "what a lovely day"
       }
     }
   ],
   "generator": {
     "version": "1.0.0",
-    "builtAt": "2026-11-03T09:27:08.692614Z",
+    "builtAt": "2026-11-03T09:37:15.800708Z",
     "lexicons": {
       "kaikki": "kaikki_en_mini.jsonl",
       "ecdict": "ecdict.csv"
