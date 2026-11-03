@@ -20,6 +20,10 @@ def main():
     parser.add_argument('--episode-number', type=int)
     parser.add_argument('--data-root', type=Path, help='Directory containing data/, or the data directory itself')
     parser.add_argument('--all', action='store_true', help='Test every prepared episode')
+    parser.add_argument('--audio-via-driver', action='store_true',
+                        help='Fetch the official megaphone.fm audio through the Playwright driver instead of the browser '
+                             '(for sandboxes whose browser egress breaks megaphone signed redirects). The <audio> src '
+                             'stays the official URL; bytes are passed through unmodified.')
     parser.add_argument('--allow-no-network', action='store_true', help='Allow unavailable official audio')
     args = parser.parse_args()
     tmp = tempfile.TemporaryDirectory() if args.data_root else None
@@ -54,6 +58,13 @@ def main():
                 episode = json.loads((data / row['file']).read_text())
                 context = browser.new_context(viewport={'width': 390, 'height': 844}, is_mobile=True, has_touch=True)
                 page = context.new_page()
+                if args.audio_via_driver:
+                    def via_driver(route):
+                        try:
+                            route.fulfill(response=route.fetch())
+                        except Exception:
+                            pass  # page/context closed while a long audio range was in flight
+                    page.route('https://traffic.megaphone.fm/**', via_driver)
                 try:
                     page.goto(base, wait_until='networkidle')
                     page.get_by_test_id('episode-row').first.wait_for()
