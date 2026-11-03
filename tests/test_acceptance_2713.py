@@ -1,4 +1,5 @@
 import json
+import os
 
 import pytest
 
@@ -13,6 +14,8 @@ from pipeline.paths import TRANSCRIPT_DIR
 def test_golden(samples, lexicon, source):
     path = samples / 'aee2713_whisper_small_en.json' if source == 'sample' else TRANSCRIPT_DIR / '2713.json'
     if not path.exists():
+        if source == 'real' and os.environ.get('AEE_REQUIRE_ACCEPTANCE'):
+            pytest.fail('AEE_REQUIRE_ACCEPTANCE is set but .cache/transcripts/2713.json is missing')
         pytest.skip(f'{source} transcript is not available')
     data = json.loads(path.read_text())
     candidates, ss = extract(data if isinstance(data, list) else data['segments'],

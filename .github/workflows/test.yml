@@ -32,4 +32,6 @@ jobs:
       - name: Transcribe AEE 2713 for the acceptance test
         run: python -m pipeline.transcribe 2713
       - name: Pipeline tests (incl. AC-1 acceptance on ep 2713)
-        run: python -m pytest -q tests/
+        env:
+          AEE_REQUIRE_ACCEPTANCE: '1'
+        run: python -m pytest -q -rs tests/

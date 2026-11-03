@@ -758,7 +758,7 @@
   ],
   "generator": {
     "version": "1.0.0",
-    "builtAt": "2026-11-03T09:25:34.421346Z",
+    "builtAt": "2026-11-03T09:27:17.861189Z",
     "lexicons": {
       "kaikki": "kaikki_en_mini.jsonl",
       "ecdict": "ecdict.csv"

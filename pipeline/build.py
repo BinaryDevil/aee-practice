@@ -9,6 +9,9 @@ from .lexicon import Lexicon
 from .mt import Translator
 from .paths import EPISODE_DIR, DATA_DIR, FEED_CACHE
 
+class _NoMT:
+    failed=False
+    def translate(self,_): return '-'  # first pass only needs the English gloss
 def now(): return datetime.datetime.now(datetime.timezone.utc).isoformat().replace('+00:00','Z')
 def write(path,data):
     path.parent.mkdir(parents=True,exist_ok=True); path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
@@ -39,6 +42,16 @@ def main(argv=None):
         segs=transcript if isinstance(transcript,list) else transcript['segments']
         post=fetch_blog(ep['number']); blog=parse_post(post,lex) if post else []
         candidates,ss=extract(segs,ep['title'],lex,ep.get('subtitle',''),blog)
+        # Sense hint: when two items are discussed in the same sentence ("hang on versus hold on"),
+        # the hosts are contrasting near-synonyms, so prefer senses that overlap the partner's gloss.
+        first={}
+        for c in candidates:
+            item=enrich(c,ss,lex,_NoMT())
+            if item: first[c['text']]=item['meaningEn']
+        for c in candidates:
+            if c.get('teacherNote'): continue
+            mine={i for i,*_ in c.get('occ',[])}
+            c['senseHint']=' '.join(first[o['text']] for o in candidates if o is not c and o['text'] in first and mine & {i for i,*_ in o.get('occ',[])})
         items=[]
         budget=int(sum(len(s.get('text','').split()) for s in segs)*0.12)
         for c in candidates:

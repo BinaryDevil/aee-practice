@@ -72,7 +72,7 @@ def enrich(candidate, ss, lexicon, mt):
     text=candidate['text']; occ=candidate.get('occ',[])
     indices={j for i,_,_ in occ for j in (range(max(0,i-2),min(len(ss),i+3)) if candidate['kind']=='expression' or candidate.get('focus') else [i])}
     context=candidate.get('teacherNote','')+' '+candidate.get('context','')+' '+' '.join(ss[i]['text'] for i in sorted(indices))
-    e,s,ec=choose(text,lexicon,context,candidate.get('pos'),note=candidate.get('teacherNote',''))
+    e,s,ec=choose(text,lexicon,context,candidate.get('pos'),note=candidate.get('teacherNote','')+' '+candidate.get('senseHint',''))
     gloss=clean_gloss(s.get('g','')) or clean_gloss(ec.get('definition','').split('\n')[0])
     if not valid_gloss(gloss): gloss=''
     source='kaikki' if s else 'ecdict'

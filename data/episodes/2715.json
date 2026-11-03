@@ -134,9 +134,9 @@
       "tags": [
         "idiomatic"
       ],
-      "meaningEn": "To retain an advantage.",
+      "meaningEn": "Wait a short while.",
       "meaningEnSource": "kaikki",
-      "meaningZh": "保留优势。",
+      "meaningZh": "等一阵子",
       "meaningZhSource": "mt",
       "meaningZhAlt": null,
       "teacherNote": null,
@@ -173,9 +173,17 @@
         "plural": "holds on"
       },
       "examples": [
-        "I'm holding on to my trump cards until I really need them."
+        "Hold on while I get my coat.",
+        "The departure was not unduly prolonged. In the road Mr. Love and the driver favoured the company with a brief chanty running. “Got it?—No, I ain't, 'old on,—Got it? Got it?—No, 'old on sir.”"
       ],
-      "synonyms": [],
+      "synonyms": [
+        "cool one's heels",
+        "hang on",
+        "abide",
+        "back that train up",
+        "bide",
+        "bide one's time"
+      ],
       "concept": false,
       "rank": 3
     },
@@ -691,7 +699,7 @@
   ],
   "generator": {
     "version": "1.0.0",
-    "builtAt": "2026-11-03T09:25:08.342963Z",
+    "builtAt": "2026-11-03T09:26:54.462397Z",
     "lexicons": {
       "kaikki": "kaikki_en_mini.jsonl",
       "ecdict": "ecdict.csv"
