@@ -1,0 +1,640 @@
+{
+  "schemaVersion": 1,
+  "number": 2716,
+  "guid": "d41b97f0-cab5-11f1-aac7-ff4501a63172",
+  "title": "This is Us Breaking Down English Grammar",
+  "subtitle": "Learn how to use this dramatic phrase in English",
+  "pubDate": "2026-11-04T06:00:00",
+  "durationSec": 1113,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE3455647051.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": "https://www.allearsenglish.com/breaking-down-english-grammar/",
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "give-someone-a-break",
+      "text": "give someone a break",
+      "display": "give someone a break",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 13,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To stop harassing or demanding from someone.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "停止骚扰或要求别人。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 808.94,
+          "end": 809.9,
+          "sentence": "Like give me a break.",
+          "sentenceZh": "让我喘口气吧",
+          "sentenceZhSource": "mt",
+          "answer": "give me a break",
+          "answerStart": 5,
+          "answerEnd": 20,
+          "answerForm": "other"
+        },
+        {
+          "start": 996.44,
+          "end": 996.86,
+          "sentence": "Give me a break.",
+          "sentenceZh": "饶了我吧",
+          "sentenceZhSource": "mt",
+          "answer": "Give me a break",
+          "answerStart": 0,
+          "answerEnd": 15,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "give someone a break",
+        "pp": "given someone a break",
+        "past": "gave someone a break",
+        "ing": "giving someone a break",
+        "s3": "gives someone a break"
+      },
+      "examples": [
+        "“Oh, give me a break, sport. You want to pick my brain but you're not going ^([sic]) give me anything in return? What's up with that?”"
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "break-down",
+      "text": "break down",
+      "display": "break down",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 13,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "intransitive"
+      ],
+      "meaningEn": "To stop functioning.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "停止运作。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 80.46,
+          "end": 82.68,
+          "sentence": "This is where your fluency is breaking down,",
+          "sentenceZh": "这就是你的流利 正在崩溃的地方",
+          "sentenceZhSource": "mt",
+          "answer": "breaking down",
+          "answerStart": 30,
+          "answerEnd": 43,
+          "answerForm": "ing"
+        }
+      ],
+      "inflections": {
+        "base": "break down",
+        "past": "broke down",
+        "pp": "broken down",
+        "ing": "breaking down",
+        "s3": "breaks down",
+        "plural": "breaks down"
+      },
+      "examples": [
+        "I am afraid my computer will break down if I try to run it at too high a speed.",
+        "\"We love our little diesel trains. They potter up and down. They break down. The C6 overhaul is only a temporary answer. By the time they are replaced, they will be 45 years old."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "cup-of-coffee",
+      "text": "cup of coffee",
+      "display": "cup of coffee",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 8,
+      "pos": "noun",
+      "ipa": null,
+      "tags": [
+        "slang"
+      ],
+      "meaningEn": "The situation where a minor league player comes up to the major league team for a short period of time.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "一个小联盟球员在短短的时间内来到主要联盟队的情况",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 665.21,
+          "end": 667.93,
+          "sentence": "Well, this is Mark after six cups of coffee.",
+          "sentenceZh": "这是马克 喝完六杯咖啡",
+          "sentenceZhSource": "mt",
+          "answer": "cups of coffee",
+          "answerStart": 29,
+          "answerEnd": 43,
+          "answerForm": "plural"
+        },
+        {
+          "start": 771.3,
+          "end": 773.4,
+          "sentence": "Well, this is me after three cups of coffee.",
+          "sentenceZh": "嗯,这是我三杯咖啡后。",
+          "sentenceZhSource": "mt",
+          "answer": "cups of coffee",
+          "answerStart": 29,
+          "answerEnd": 43,
+          "answerForm": "plural"
+        }
+      ],
+      "inflections": {
+        "base": "cup of coffee",
+        "plural": "cups of coffee",
+        "ing": "cupping of coffee",
+        "s3": "cups of coffee",
+        "past": "cupped of coffee",
+        "pp": "cupped of coffee"
+      },
+      "examples": [
+        "I was up for a cup of coffee once; those were the best six days of my career."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "do-one-s-best",
+      "text": "do one's best",
+      "display": "do one's best",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 8,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To do as best one can.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "尽我所能",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "尽全力",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 431.49,
+          "end": 435.61,
+          "sentence": "what you think of the show and we'll do our best to announce your name out loud on the show.",
+          "sentenceZh": "你对节目的看法 我们会尽力在节目上 大声宣布你的名字",
+          "sentenceZhSource": "mt",
+          "answer": "do our best",
+          "answerStart": 37,
+          "answerEnd": 48,
+          "answerForm": "other"
+        },
+        {
+          "start": 810.06,
+          "end": 811.3,
+          "sentence": "I'm doing my best, right?",
+          "sentenceZh": "我在尽力而为,对吧?",
+          "sentenceZhSource": "mt",
+          "answer": "doing my best",
+          "answerStart": 4,
+          "answerEnd": 17,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "do one's best",
+        "ing": "doing one's best",
+        "past": "did one's best",
+        "s3": "does one's best",
+        "pp": "done one's best"
+      },
+      "examples": [
+        "The engine was a diesel, No. D207, with a crew obviously out to do their best.",
+        "This is a sad time for all people. We have suffered a loss that cannot be weighed. For me, it is a deep personal tragedy. I know that the world shares the sorrow that Mrs. Kennedy and her family bear. I will do my best. That is all I can do. I ask for your help — and God's."
+      ],
+      "synonyms": [
+        "try one's best",
+        "do one's utmost",
+        "give it one's best shot"
+      ],
+      "concept": false,
+      "rank": 4
+    }
+  ],
+  "distractors": [
+    {
+      "text": "best friend",
+      "pos": "noun",
+      "meaningEn": "An especially close and trusted friend.",
+      "meaningZh": "一个特别亲密和信任的朋友",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "best friend",
+        "s3": "bests friend",
+        "pp": "bested friend",
+        "ing": "besting friend",
+        "past": "bested friend"
+      }
+    },
+    {
+      "text": "best boy",
+      "pos": "noun",
+      "meaningEn": "The first assistant to either the key grip or the gaffer.",
+      "meaningZh": "要么是钥匙把手的助手 要么就是口袋的助手",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "best boy",
+        "s3": "bests boy",
+        "pp": "bested boy",
+        "ing": "besting boy",
+        "past": "bested boy"
+      }
+    },
+    {
+      "text": "best man",
+      "pos": "noun",
+      "meaningEn": "The primary attendant to the groom in a wedding ceremony.",
+      "meaningZh": "新郎在婚礼上的主要服务员",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "best man",
+        "s3": "bests man",
+        "pp": "bested man",
+        "ing": "besting man",
+        "past": "bested man"
+      }
+    },
+    {
+      "text": "best evidence rule",
+      "pos": "noun",
+      "meaningEn": "A legal principle that holds an original copy of a document to be superior evidence.",
+      "meaningZh": "一项法律原则,将文件原件作为优先证据。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "best evidence rule",
+        "s3": "bests evidence rule",
+        "pp": "bested evidence rule",
+        "ing": "besting evidence rule",
+        "past": "bested evidence rule"
+      }
+    },
+    {
+      "text": "best practice",
+      "pos": "noun",
+      "meaningEn": "A well-defined procedure that is known to produce near-optimum results.",
+      "meaningZh": "一种明确界定的程序,据知可以产生接近最佳的结果。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "best practice",
+        "s3": "bests practice",
+        "pp": "bested practice",
+        "ing": "besting practice",
+        "past": "bested practice"
+      }
+    },
+    {
+      "text": "break up",
+      "pos": "verb",
+      "meaningEn": "To break or separate into pieces.",
+      "meaningZh": "分手；分開 /分开",
+      "meaningZhSource": "kaikki",
+      "inflections": {
+        "base": "break up",
+        "past": "broke up",
+        "pp": "broken up",
+        "ing": "breaking up",
+        "s3": "breaks up",
+        "plural": "breaks up"
+      }
+    },
+    {
+      "text": "break in",
+      "pos": "verb",
+      "meaningEn": "To enter a place by force or illicit means.",
+      "meaningZh": "以武力或非法手段进入某个地方。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break in",
+        "past": "broke in",
+        "pp": "broken in",
+        "ing": "breaking in",
+        "s3": "breaks in",
+        "plural": "breaks in"
+      }
+    },
+    {
+      "text": "break out",
+      "pos": "verb",
+      "meaningEn": "To escape, especially forcefully or defiantly.",
+      "meaningZh": "逃跑,特别强悍或叛逆。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break out",
+        "past": "broke out",
+        "pp": "broken out",
+        "ing": "breaking out",
+        "s3": "breaks out",
+        "plural": "breaks out"
+      }
+    },
+    {
+      "text": "break off",
+      "pos": "verb",
+      "meaningEn": "To remove a piece from a whole by breaking or snapping.",
+      "meaningZh": "通过断裂或断裂将一块碎片从整体上移开。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break off",
+        "past": "broke off",
+        "pp": "broken off",
+        "ing": "breaking off",
+        "s3": "breaks off",
+        "plural": "breaks off"
+      }
+    },
+    {
+      "text": "break the internet",
+      "pos": "verb",
+      "meaningEn": "To deliberately overwhelm a web server through a cyberattack such as a DDOS, such that the server goes offline or is in danger of doing so.",
+      "meaningZh": "通过DDOS等网络攻击故意压倒网络服务器,使服务器脱机或有这样做的危险。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break the internet",
+        "past": "broke the internet",
+        "pp": "broken the internet",
+        "ing": "breaking the internet",
+        "s3": "breaks the internet",
+        "plural": "breaks the internet"
+      }
+    },
+    {
+      "text": "break through",
+      "pos": "verb",
+      "meaningEn": "To gain popularity.",
+      "meaningZh": "获得受欢迎。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break through",
+        "past": "broke through",
+        "pp": "broken through",
+        "ing": "breaking through",
+        "s3": "breaks through",
+        "plural": "breaks through"
+      }
+    },
+    {
+      "text": "break ground",
+      "pos": "verb",
+      "meaningEn": "To begin digging in the earth at the start of a new construction, or, originally, for cultivation.",
+      "meaningZh": "开始在土里挖土 在新的建筑开始的时候 或最初用于耕种",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break ground",
+        "past": "broke ground",
+        "pp": "broken ground",
+        "ing": "breaking ground",
+        "s3": "breaks ground",
+        "plural": "breaks ground"
+      }
+    },
+    {
+      "text": "break into",
+      "pos": "verb",
+      "meaningEn": "To enter illegally or by force, especially in order to commit a crime.",
+      "meaningZh": "非法入境或强行入境,特别是为了犯罪。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break into",
+        "past": "broke into",
+        "pp": "broken into",
+        "ing": "breaking into",
+        "s3": "breaks into",
+        "plural": "breaks into"
+      }
+    },
+    {
+      "text": "break the ice",
+      "pos": "verb",
+      "meaningEn": "To start to get to know people to avoid social awkwardness and formality.",
+      "meaningZh": "开始了解人们 以避免社会尴尬和形式",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break the ice",
+        "past": "broke the ice",
+        "pp": "broken the ice",
+        "ing": "breaking the ice",
+        "s3": "breaks the ice",
+        "plural": "breaks the ice"
+      }
+    },
+    {
+      "text": "break from",
+      "pos": "verb",
+      "meaningEn": "To leave the cover of.",
+      "meaningZh": "留下掩护",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break from",
+        "past": "broke from",
+        "pp": "broken from",
+        "ing": "breaking from",
+        "s3": "breaks from",
+        "plural": "breaks from"
+      }
+    },
+    {
+      "text": "break the back of",
+      "pos": "verb",
+      "meaningEn": "To complete the greater part of or solve the most critical part of.",
+      "meaningZh": "完成大部分或解决其中最重要的部分。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break the back of",
+        "past": "broke the back of",
+        "pp": "broken the back of",
+        "ing": "breaking the back of",
+        "s3": "breaks the back of",
+        "plural": "breaks the back of"
+      }
+    },
+    {
+      "text": "break a lance",
+      "pos": "verb",
+      "meaningEn": "to take a stand, to contend [with for ‘to the benefit of’] [with in favour of ‘to the benefit of’] [with against ‘in opposition to’]",
+      "meaningZh": "* 采取立场,[为`利益 ' 进行争论][赞成`利益 ' [反对`反对 ' ]",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "break a lance",
+        "past": "broke a lance",
+        "pp": "broken a lance",
+        "ing": "breaking a lance",
+        "s3": "breaks a lance",
+        "plural": "breaks a lance"
+      }
+    },
+    {
+      "text": "coffee shop",
+      "pos": "noun",
+      "meaningEn": "A small café or restaurant typically selling light refreshments along with coffee-based drinks.",
+      "meaningZh": "一家小咖啡馆或餐馆通常销售轻便饮料和咖啡饮料。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee shop",
+        "plural": "coffees shop"
+      }
+    },
+    {
+      "text": "coffee bar",
+      "pos": "noun",
+      "meaningEn": "An establishment that sells coffee, a cafe. Food may also be served.",
+      "meaningZh": "出售咖啡、咖啡馆和食品的店铺,也可以提供食品。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee bar",
+        "plural": "coffees bar"
+      }
+    },
+    {
+      "text": "coffee cake",
+      "pos": "noun",
+      "meaningEn": "Any cake flavored with coffee.",
+      "meaningZh": "任何有咖啡味的蛋糕",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee cake",
+        "plural": "coffees cake"
+      }
+    },
+    {
+      "text": "coffee grinder",
+      "pos": "noun",
+      "meaningEn": "A device for pulverizing or powdering coffee beans so they can be brewed as coffee..",
+      "meaningZh": "一种粉碎咖啡豆或粉刷咖啡豆的装置,",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee grinder",
+        "plural": "coffees grinder"
+      }
+    },
+    {
+      "text": "coffee machine",
+      "pos": "noun",
+      "meaningEn": "A person who makes coffee.",
+      "meaningZh": "一个人做咖啡。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee machine",
+        "plural": "coffees machine"
+      }
+    },
+    {
+      "text": "coffee mill",
+      "pos": "noun",
+      "meaningEn": "A mill at which coffee beans are dried, roasted, and ground prior to sale.",
+      "meaningZh": "一家磨坊,咖啡豆在售前烘干、烤烤和铺地。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee mill",
+        "plural": "coffees mill"
+      }
+    },
+    {
+      "text": "coffee money",
+      "pos": "noun",
+      "meaningEn": "Loose change.",
+      "meaningZh": "松动改变。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee money",
+        "plural": "coffees money"
+      }
+    },
+    {
+      "text": "coffee table",
+      "pos": "noun",
+      "meaningEn": "A long, low table, often placed in front of a sofa or seating area in a living room.",
+      "meaningZh": "咖啡桌；茶几",
+      "meaningZhSource": "kaikki",
+      "inflections": {
+        "base": "coffee table",
+        "plural": "coffees table"
+      }
+    },
+    {
+      "text": "coffee tree",
+      "pos": "noun",
+      "meaningEn": "Any tree, such as of species Coffea arabica or Coffea canephora, which yields coffee beans.",
+      "meaningZh": "任何树,例如可生产咖啡豆的阿拉伯咖啡树或可咖啡咖啡甘磷树。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee tree",
+        "plural": "coffees tree"
+      }
+    },
+    {
+      "text": "coffee and cake",
+      "pos": "noun",
+      "meaningEn": "A trivial amount of money; peanuts.",
+      "meaningZh": "一小笔钱 花生",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee and cake",
+        "plural": "coffees and cake"
+      }
+    },
+    {
+      "text": "coffee bean",
+      "pos": "noun",
+      "meaningEn": "The seed of a tropical plant of the genus Coffea, that is prepared by drying, roasting and grinding for making the beverage coffee.",
+      "meaningZh": "以干燥、烤烤和研磨方式制成饮料咖啡。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee bean",
+        "plural": "coffees bean"
+      }
+    },
+    {
+      "text": "coffee berry",
+      "pos": "noun",
+      "meaningEn": "The red fruit of the coffee tree, which contains the bean.",
+      "meaningZh": "咖啡树的红果 含有豆子",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee berry",
+        "plural": "coffees berry"
+      }
+    },
+    {
+      "text": "coffee break",
+      "pos": "noun",
+      "meaningEn": "A rest period during the business day. So named because it is an opportunity to get coffee.",
+      "meaningZh": "工作日休息,所以命名,因为它是一个喝咖啡的机会。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "coffee break",
+        "plural": "coffees break"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-04T18:41:47.984204Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
