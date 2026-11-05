@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-11-04T18:41:53.516788Z",
+  "generatedAt": "2026-11-05T19:26:15.479695Z",
   "episodes": [
+    {
+      "number": 2717,
+      "title": "Are These English Phrases Condescending?",
+      "pubDate": "2026-11-05T06:00:00",
+      "durationSec": 1590
+    },
     {
       "number": 2716,
       "title": "This is Us Breaking Down English Grammar",
@@ -354,12 +360,6 @@
       "title": "English Grammar That Will Make Your Day",
       "pubDate": "2026-07-27T05:00:00",
       "durationSec": 927
-    },
-    {
-      "number": 2657,
-      "title": "What Happened When You Were About to Leave?",
-      "pubDate": "2026-07-23T05:00:00",
-      "durationSec": 1109
     }
   ]
 }

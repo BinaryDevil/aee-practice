@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T18:41:53.516375Z",
+  "generatedAt": "2026-11-05T19:26:15.479240Z",
   "episodes": [
+    {
+      "number": 2717,
+      "guid": "90ef2be4-cabb-11f1-9558-13c8c2a31f3b",
+      "title": "Are These English Phrases Condescending?",
+      "pubDate": "2026-11-05T06:00:00",
+      "durationSec": 1590,
+      "itemCount": 4,
+      "hasBlog": false,
+      "file": "episodes/2717.json"
+    },
     {
       "number": 2716,
       "guid": "d41b97f0-cab5-11f1-aac7-ff4501a63172",

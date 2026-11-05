@@ -1,0 +1,666 @@
+{
+  "schemaVersion": 1,
+  "number": 2717,
+  "guid": "90ef2be4-cabb-11f1-9558-13c8c2a31f3b",
+  "title": "Are These English Phrases Condescending?",
+  "subtitle": "Learn if these phrases are condescending",
+  "pubDate": "2026-11-05T06:00:00",
+  "durationSec": 1590,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE2580221597.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "big-deal",
+      "text": "big deal",
+      "display": "big deal",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 14,
+      "pos": "noun",
+      "ipa": "biɡ di:l",
+      "tags": [
+        "idiomatic",
+        "informal"
+      ],
+      "meaningEn": "Something very important or difficult; a matter of great concern; a considerable feat or achievement.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "一件非常重要或非常困难的事情;一个令人极为关切的问题;一个相当大的成就或成就。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "[美国俚语]名人；要人；要员",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 1074.8,
+          "end": 1078.76,
+          "sentence": "Number five is it's not that big of a deal or it's no big deal.",
+          "sentenceZh": "第五,这没什么大不了的 或者没什么大不了的",
+          "sentenceZhSource": "mt",
+          "answer": "big deal",
+          "answerStart": 54,
+          "answerEnd": 62,
+          "answerForm": "base"
+        },
+        {
+          "start": 1099.58,
+          "end": 1102.98,
+          "sentence": "especially if it is a big deal to them, right, to dismiss it with.",
+          "sentenceZh": "特别是对他们来说是大不了的事,对, 驳回是大不了的。",
+          "sentenceZhSource": "mt",
+          "answer": "big deal",
+          "answerStart": 22,
+          "answerEnd": 30,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "big deal"
+      },
+      "examples": [
+        "It's a big deal to him to get this promotion.",
+        "It's no big deal if you don't finish it today."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "talk-down",
+      "text": "talk down",
+      "display": "talk down",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 11,
+      "pos": "verb",
+      "ipa": "tɔ:k daun",
+      "tags": [
+        "idiomatic",
+        "transitive"
+      ],
+      "meaningEn": "To negotiate a lower price.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "谈判降低价格。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 378.39,
+          "end": 380.83,
+          "sentence": "So, why do you think people talk down to others?",
+          "sentenceZh": "你觉得人们为什么跟别人说话?",
+          "sentenceZhSource": "mt",
+          "answer": "talk down",
+          "answerStart": 28,
+          "answerEnd": 37,
+          "answerForm": "base"
+        },
+        {
+          "start": 386.91,
+          "end": 387.43,
+          "sentence": "To talk down.",
+          "sentenceZh": "低调说话",
+          "sentenceZhSource": "mt",
+          "answer": "talk down",
+          "answerStart": 3,
+          "answerEnd": 12,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "talk down",
+        "ing": "talking down",
+        "plural": "talks down",
+        "past": "talked down",
+        "pp": "talked down",
+        "s3": "talks down"
+      },
+      "examples": [
+        "If he offers a very high price, see if you can talk him down before you agree to anything."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "next-time",
+      "text": "next time",
+      "display": "next time",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 9,
+      "pos": "adv",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "In the future.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "未来",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 435.67,
+          "end": 437.03,
+          "sentence": "We'll see what happens next time I call her.",
+          "sentenceZh": "下次我打给她时我们会知道的",
+          "sentenceZhSource": "mt",
+          "answer": "next time",
+          "answerStart": 23,
+          "answerEnd": 32,
+          "answerForm": "base"
+        },
+        {
+          "start": 983.31,
+          "end": 986.23,
+          "sentence": "So you don't expect me to be condescending the next time.",
+          "sentenceZh": "所以你不指望我下次会高高在上",
+          "sentenceZhSource": "mt",
+          "answer": "next time",
+          "answerStart": 47,
+          "answerEnd": 56,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "next time"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "cute",
+      "text": "cute",
+      "display": "cute",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "adj",
+      "ipa": "/kjuːt/",
+      "tags": [],
+      "meaningEn": "Possessing physical features, behaviors, personality traits or other properties that are mainly attributed to infants and small or cuddly animals; e.g. fair, dainty, round, and soft physical features, disproportionately large eyes and head, playfulness, fragility, helplessness, curiosity or shyness, innocence, affectionate behavior.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "可爱的；聪明的；伶俐的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 565.61,
+          "end": 570.17,
+          "sentence": "The first one is, oh, how cute or that's sweet.",
+          "sentenceZh": "第一个是,哦,多么可爱或甜。",
+          "sentenceZhSource": "mt",
+          "answer": "cute",
+          "answerStart": 26,
+          "answerEnd": 30,
+          "answerForm": "base"
+        },
+        {
+          "start": 570.17,
+          "end": 570.99,
+          "sentence": "That's cute.",
+          "sentenceZh": "真可爱",
+          "sentenceZhSource": "mt",
+          "answer": "cute",
+          "answerStart": 7,
+          "answerEnd": 11,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "cute"
+      },
+      "examples": [
+        "Our reaction to cute attributes is understood as the way nature ensures mammals care for their young."
+      ],
+      "synonyms": [
+        "having features mainly attributed to infants and small",
+        "cuddly animals"
+      ],
+      "concept": false,
+      "rank": 4
+    }
+  ],
+  "distractors": [
+    {
+      "text": "cute as corn",
+      "pos": "adj",
+      "meaningEn": "Very cute; adorable.",
+      "meaningZh": "非常可爱 可爱",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "cute as corn"
+      }
+    },
+    {
+      "text": "deal in",
+      "pos": "verb",
+      "meaningEn": "To deal cards to someone entering a game; to enter someone into a game by dealing cards to that person.",
+      "meaningZh": "向进入游戏的人发牌;通过向某人发牌进入游戏。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal in",
+        "ing": "dealing in",
+        "pp": "dealt in",
+        "plural": "deals in",
+        "s3": "deals in",
+        "past": "dealt in"
+      }
+    },
+    {
+      "text": "deal a hand",
+      "pos": "verb",
+      "meaningEn": "To distribute a hand of cards at random to a player.",
+      "meaningZh": "随机向玩家分发一张牌。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal a hand",
+        "ing": "dealing a hand",
+        "pp": "dealt a hand",
+        "plural": "deals a hand",
+        "s3": "deals a hand",
+        "past": "dealt a hand"
+      }
+    },
+    {
+      "text": "deal out",
+      "pos": "verb",
+      "meaningEn": "not to deal cards to someone who is leaving a game.",
+      "meaningZh": "不向离开游戏的人发牌。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal out",
+        "ing": "dealing out",
+        "pp": "dealt out",
+        "plural": "deals out",
+        "s3": "deals out",
+        "past": "dealt out"
+      }
+    },
+    {
+      "text": "deal a bad hand",
+      "pos": "verb",
+      "meaningEn": "To assign unfavorable circumstances in life to someone.",
+      "meaningZh": "将生活中的不利情况分配给某人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal a bad hand",
+        "ing": "dealing a bad hand",
+        "pp": "dealt a bad hand",
+        "plural": "deals a bad hand",
+        "s3": "deals a bad hand",
+        "past": "dealt a bad hand"
+      }
+    },
+    {
+      "text": "deal a good hand",
+      "pos": "verb",
+      "meaningEn": "To assign favorable circumstances in life to someone.",
+      "meaningZh": "将生活中的有利条件 分配给某人",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal a good hand",
+        "ing": "dealing a good hand",
+        "pp": "dealt a good hand",
+        "plural": "deals a good hand",
+        "s3": "deals a good hand",
+        "past": "dealt a good hand"
+      }
+    },
+    {
+      "text": "deal into",
+      "pos": "verb",
+      "meaningEn": "To discard another player's winning tile, causing them to declare a win.",
+      "meaningZh": "丢弃另一个玩家赢得的牌局 让他们宣布获胜",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal into",
+        "ing": "dealing into",
+        "pp": "dealt into",
+        "plural": "deals into",
+        "s3": "deals into",
+        "past": "dealt into"
+      }
+    },
+    {
+      "text": "deal it out",
+      "pos": "verb",
+      "meaningEn": "To attack; to have it out.",
+      "meaningZh": "攻击; 把它拿出来。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal it out",
+        "ing": "dealing it out",
+        "pp": "dealt it out",
+        "plural": "deals it out",
+        "s3": "deals it out",
+        "past": "dealt it out"
+      }
+    },
+    {
+      "text": "deal to",
+      "pos": "verb",
+      "meaningEn": "To beat up; to destroy, attack or defeat.",
+      "meaningZh": "殴打、摧毁、攻击或击败。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "deal to",
+        "ing": "dealing to",
+        "pp": "dealt to",
+        "plural": "deals to",
+        "s3": "deals to",
+        "past": "dealt to"
+      }
+    },
+    {
+      "text": "down east",
+      "pos": "noun",
+      "meaningEn": "Northeastern New England and Canada's Maritime provinces, an area that corresponds to the historical French territory of Acadia.",
+      "meaningZh": "新英格兰东北部和加拿大的海洋省份,这个地区与法国历史上的阿卡迪亚领土相对应。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down east",
+        "plural": "downs east",
+        "ing": "downing east",
+        "past": "downed east",
+        "s3": "downs east",
+        "pp": "downed east"
+      }
+    },
+    {
+      "text": "down for the count",
+      "pos": "adj",
+      "meaningEn": "Decisively beaten; defeated; rendered irrelevant for the long term.",
+      "meaningZh": "被故意殴打、被击败、长期无关紧要。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down for the count",
+        "plural": "downs for the count",
+        "ing": "downing for the count",
+        "past": "downed for the count",
+        "s3": "downs for the count",
+        "pp": "downed for the count"
+      }
+    },
+    {
+      "text": "down line",
+      "pos": "noun",
+      "meaningEn": "A railway line on which trains travel away from a major terminus.",
+      "meaningZh": "一条铁路,火车从一个主要终点出发",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down line",
+        "plural": "downs line",
+        "ing": "downing line",
+        "past": "downed line",
+        "s3": "downs line",
+        "pp": "downed line"
+      }
+    },
+    {
+      "text": "down and out",
+      "pos": "adj",
+      "meaningEn": "In a condition of poverty or debility, especially as a result of experiencing a financial or personal setback.",
+      "meaningZh": "处于贫困或衰弱状态,特别是由于遭受财政或个人挫折。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down and out",
+        "plural": "downs and out",
+        "ing": "downing and out",
+        "past": "downed and out",
+        "s3": "downs and out",
+        "pp": "downed and out"
+      }
+    },
+    {
+      "text": "down at heel",
+      "pos": "adj",
+      "meaningEn": "In poor condition, especially due to having worn heels; worn-out, shabby.",
+      "meaningZh": "条件差,特别是因为穿高跟鞋、破旧、破旧、破旧。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down at heel",
+        "plural": "downs at heel",
+        "ing": "downing at heel",
+        "past": "downed at heel",
+        "s3": "downs at heel",
+        "pp": "downed at heel"
+      }
+    },
+    {
+      "text": "down bad",
+      "pos": "adj",
+      "meaningEn": "In a difficult situation, despondent.",
+      "meaningZh": "在一个困难的形势下,沮丧的绝望。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down bad",
+        "plural": "downs bad",
+        "ing": "downing bad",
+        "past": "downed bad",
+        "s3": "downs bad",
+        "pp": "downed bad"
+      }
+    },
+    {
+      "text": "down below",
+      "pos": "noun",
+      "meaningEn": "Hell.",
+      "meaningZh": "地狱。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down below",
+        "plural": "downs below",
+        "ing": "downing below",
+        "past": "downed below",
+        "s3": "downs below",
+        "pp": "downed below"
+      }
+    },
+    {
+      "text": "down payment",
+      "pos": "noun",
+      "meaningEn": "A payment representing a fraction of the price of something being purchased, made to secure the right to continue making payments towards that purchase.",
+      "meaningZh": "一笔付款相当于所购物品价格的一小部分,是为保障继续支付该购买物品的权利而支付的款项。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down payment",
+        "plural": "downs payment",
+        "ing": "downing payment",
+        "past": "downed payment",
+        "s3": "downs payment",
+        "pp": "downed payment"
+      }
+    },
+    {
+      "text": "down south",
+      "pos": "adv",
+      "meaningEn": "In or to the southern part of an area, country, etc.",
+      "meaningZh": "在一个地区、国家等的南部或以南。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "down south",
+        "plural": "downs south",
+        "ing": "downing south",
+        "past": "downed south",
+        "s3": "downs south",
+        "pp": "downed south"
+      }
+    },
+    {
+      "text": "next door",
+      "pos": "adv",
+      "meaningEn": "In an adjacent building, room or place.",
+      "meaningZh": "在邻近的建筑物、房间或地方。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "next door"
+      }
+    },
+    {
+      "text": "next of kin",
+      "pos": "noun",
+      "meaningEn": "Closest blood relative, heir to inheritance.",
+      "meaningZh": "近亲血亲 继承遗产的继承人",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "next of kin"
+      }
+    },
+    {
+      "text": "next friend",
+      "pos": "noun",
+      "meaningEn": "A person who represents another person who is under disability or otherwise unable to maintain a suit on their own behalf, and who does not have a legal guardian.",
+      "meaningZh": "代表另一残疾人或因其他原因无法代表自己维持诉讼的人,且没有法定监护人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "next friend"
+      }
+    },
+    {
+      "text": "next to last",
+      "pos": "adj",
+      "meaningEn": "Penultimate, one before the end of a series, placed immediately before the end in a sequence.",
+      "meaningZh": "倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数倒数。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "next to last"
+      }
+    },
+    {
+      "text": "talk out",
+      "pos": "verb",
+      "meaningEn": "To resolve by talking about it.",
+      "meaningZh": "通过谈论它来下定决心",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk out",
+        "ing": "talking out",
+        "plural": "talks out",
+        "past": "talked out",
+        "pp": "talked out",
+        "s3": "talks out"
+      }
+    },
+    {
+      "text": "talk over",
+      "pos": "verb",
+      "meaningEn": "To discuss; to converse about a matter or issue.",
+      "meaningZh": "讨论;讨论一个事项或问题。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk over",
+        "ing": "talking over",
+        "plural": "talks over",
+        "past": "talked over",
+        "pp": "talked over",
+        "s3": "talks over"
+      }
+    },
+    {
+      "text": "talk up",
+      "pos": "verb",
+      "meaningEn": "To talk about to make it seem as good as possible or to draw positive attention to it.",
+      "meaningZh": "谈论如何尽可能地让它看起来好起来,或引起人们对它的积极关注。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk up",
+        "ing": "talking up",
+        "plural": "talks up",
+        "past": "talked up",
+        "pp": "talked up",
+        "s3": "talks up"
+      }
+    },
+    {
+      "text": "talk at",
+      "pos": "verb",
+      "meaningEn": "To speak with without truly listening to their response or interacting meaningfully.",
+      "meaningZh": "在不真正听取他们的反应或进行有意义的互动的情况下发言。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk at",
+        "ing": "talking at",
+        "plural": "talks at",
+        "past": "talked at",
+        "pp": "talked at",
+        "s3": "talks at"
+      }
+    },
+    {
+      "text": "talk back",
+      "pos": "verb",
+      "meaningEn": "To reply impertinently or rudely; to answer in a cheeky or rude manner.",
+      "meaningZh": "粗鲁或粗鲁地回答; 粗鲁或粗鲁地回答。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk back",
+        "ing": "talking back",
+        "plural": "talks back",
+        "past": "talked back",
+        "pp": "talked back",
+        "s3": "talks back"
+      }
+    },
+    {
+      "text": "talk cock",
+      "pos": "verb",
+      "meaningEn": "To talk nonsense.",
+      "meaningZh": "胡说八道",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk cock",
+        "ing": "talking cock",
+        "plural": "talks cock",
+        "past": "talked cock",
+        "pp": "talked cock",
+        "s3": "talks cock"
+      }
+    },
+    {
+      "text": "talk like a book",
+      "pos": "verb",
+      "meaningEn": "To talk pedantically, or using excessively difficult or literary words.",
+      "meaningZh": "以生动的语气说话,或使用过于困难的或文学的语言。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk like a book",
+        "ing": "talking like a book",
+        "plural": "talks like a book",
+        "past": "talked like a book",
+        "pp": "talked like a book",
+        "s3": "talks like a book"
+      }
+    },
+    {
+      "text": "talk sense",
+      "pos": "verb",
+      "meaningEn": "To say something true or meaningful to the listener, especially in contrast to nonsense.",
+      "meaningZh": "对听众说点真话或有意义的话,尤其是与无稽之谈相反。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "talk sense",
+        "ing": "talking sense",
+        "plural": "talks sense",
+        "past": "talked sense",
+        "pp": "talked sense",
+        "s3": "talks sense"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-05T19:26:09.751573Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
