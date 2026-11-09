@@ -1,0 +1,506 @@
+{
+  "schemaVersion": 1,
+  "number": 2718,
+  "guid": "13444ac0-d11a-11f1-8231-374595115eb7",
+  "title": "Dicey English Vocabulary for Precarious Situations",
+  "subtitle": "",
+  "pubDate": "2026-11-09T06:00:00",
+  "durationSec": 1137,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE3258258693.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "let-oneself-go",
+      "text": "let oneself go",
+      "display": "let oneself go",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To relax and enjoy oneself without restraint.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "不受约束地放松和享受自己",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "放松",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 303.8,
+          "end": 307.84,
+          "sentence": "But let's go into the first one that Saddam asked about,",
+          "sentenceZh": "让我们来谈谈萨达姆问的第一件事,",
+          "sentenceZhSource": "mt",
+          "answer": "let's go",
+          "answerStart": 4,
+          "answerEnd": 12,
+          "answerForm": "other"
+        },
+        {
+          "start": 852.04,
+          "end": 854.3,
+          "sentence": "Anyways, let's go back through this role play.",
+          "sentenceZh": "无论如何,让我们回到这个角色扮演。",
+          "sentenceZhSource": "mt",
+          "answer": "let's go",
+          "answerStart": 9,
+          "answerEnd": 17,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "let oneself go",
+        "ing": "letting oneself go",
+        "pp": "let oneself go",
+        "past": "let oneself go",
+        "s3": "lets oneself go"
+      },
+      "examples": [
+        "Fill your lungs up, and let it out slowly. Let it out slowly and relax as you exhale. […] Just let yourself go, (name), and relax."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "risky",
+      "text": "risky",
+      "display": "risky",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "adj",
+      "ipa": "/ˈɹɪski/",
+      "tags": [],
+      "meaningEn": "Dangerous; involving risks.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "危险的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 229.72,
+          "end": 233.08,
+          "sentence": "Sketchy, risky, fraught with danger, dicey and precarious.",
+          "sentenceZh": "危险,危险,充满危险,危险,危险,危险",
+          "sentenceZhSource": "mt",
+          "answer": "risky",
+          "answerStart": 9,
+          "answerEnd": 14,
+          "answerForm": "base"
+        },
+        {
+          "start": 400.54,
+          "end": 401.76,
+          "sentence": "What about risky?",
+          "sentenceZh": "那冒险呢?",
+          "sentenceZhSource": "mt",
+          "answer": "risky",
+          "answerStart": 11,
+          "answerEnd": 16,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "risky"
+      },
+      "examples": [
+        "Near-synonyms: hazardous, dangerous, perilous, unsafe, daredevil",
+        "Investing in this start-up company could be risky."
+      ],
+      "synonyms": [
+        "risksome",
+        "chancy",
+        "venturesome",
+        "touch-and-go",
+        "adventurous",
+        "hazardous"
+      ],
+      "concept": false,
+      "rank": 2
+    }
+  ],
+  "distractors": [
+    {
+      "text": "able",
+      "pos": "adj",
+      "meaningEn": "Having the necessary powers or the needed resources to accomplish a task.",
+      "meaningZh": "能干的；能够的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "able"
+      }
+    },
+    {
+      "text": "accelerate",
+      "pos": "verb",
+      "meaningEn": "To cause to move faster; to quicken the motion of; to add to the speed of.",
+      "meaningZh": "加速；促进",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accelerate",
+        "past": "accelerated",
+        "pp": "accelerated",
+        "ing": "accelerating",
+        "s3": "accelerates"
+      }
+    },
+    {
+      "text": "accessible",
+      "pos": "adj",
+      "meaningEn": "Easy of access or approach.",
+      "meaningZh": "易接近的；可进入的；可使用的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accessible"
+      }
+    },
+    {
+      "text": "according",
+      "pos": "adj",
+      "meaningEn": "Agreeing; in agreement or harmony; harmonious.",
+      "meaningZh": "相符的；根据...而定的；相应地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "according"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "aesthetic",
+      "pos": "adj",
+      "meaningEn": "Concerned with beauty, artistic effect, or appearance.",
+      "meaningZh": "美学的；审美的；有美感的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aesthetic"
+      }
+    },
+    {
+      "text": "agree",
+      "pos": "verb",
+      "meaningEn": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.",
+      "meaningZh": "同意；赞成；应允",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agree",
+        "pp": "agreed",
+        "past": "agreed",
+        "s3": "agrees",
+        "ing": "agreeing"
+      }
+    },
+    {
+      "text": "alike",
+      "pos": "adj",
+      "meaningEn": "Having resemblance or similitude; similar; without difference.",
+      "meaningZh": "相似的；同样的；一样",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "alike"
+      }
+    },
+    {
+      "text": "alleged",
+      "pos": "adj",
+      "meaningEn": "Asserted, but not proved.",
+      "meaningZh": "被断言的；所谓的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "alleged",
+        "past": "alleged",
+        "pp": "alleged"
+      }
+    },
+    {
+      "text": "allow",
+      "pos": "verb",
+      "meaningEn": "To let one have as a suitable share of something.",
+      "meaningZh": "允许；同意给予；承认",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allow",
+        "pp": "allowed",
+        "ing": "allowing",
+        "s3": "allows",
+        "past": "allowed"
+      }
+    },
+    {
+      "text": "ambitious",
+      "pos": "adj",
+      "meaningEn": "Having or showing ambition; wanting a lot of power, honor, respect, superiority, or other distinction.",
+      "meaningZh": "有野心的；抱负不凡的；雄心勃勃的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ambitious"
+      }
+    },
+    {
+      "text": "anonymous",
+      "pos": "adj",
+      "meaningEn": "Lacking a name; not named, for example an animal not assigned to any species.",
+      "meaningZh": "姓氏不详的；无名的；无特色的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "anonymous"
+      }
+    },
+    {
+      "text": "appear",
+      "pos": "verb",
+      "meaningEn": "To come or be in sight; to be in view; to become visible.",
+      "meaningZh": "出现；显得；来到",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "appear",
+        "past": "appeared",
+        "s3": "appears",
+        "ing": "appearing",
+        "pp": "appeared"
+      }
+    },
+    {
+      "text": "articulate",
+      "pos": "verb",
+      "meaningEn": "To make clear or effective.",
+      "meaningZh": "发音清晰的；口才好的；明白地说",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "articulate",
+        "pp": "articulated",
+        "ing": "articulating",
+        "s3": "articulates",
+        "past": "articulated"
+      }
+    },
+    {
+      "text": "artificial",
+      "pos": "adj",
+      "meaningEn": "Man-made; made by humans; of artifice.",
+      "meaningZh": "人造的；假的；非原地产的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "artificial",
+        "plural": "artificials"
+      }
+    },
+    {
+      "text": "ask",
+      "pos": "verb",
+      "meaningEn": "To request.",
+      "meaningZh": "问；要求；问",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ask",
+        "past": "asked",
+        "pp": "asked",
+        "ing": "asking",
+        "s3": "asks"
+      }
+    },
+    {
+      "text": "associated",
+      "pos": "adj",
+      "meaningEn": "Connected with something or another person.",
+      "meaningZh": "联合的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "associated",
+        "pp": "associated",
+        "past": "associated"
+      }
+    },
+    {
+      "text": "authorize",
+      "pos": "verb",
+      "meaningEn": "To grant the permission or power necessary to do; to permit; to sanction or consent to.",
+      "meaningZh": "授权；批准；委托",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "authorize",
+        "pp": "authorized",
+        "ing": "authorizing",
+        "past": "authorized",
+        "s3": "authorizes"
+      }
+    },
+    {
+      "text": "automatic",
+      "pos": "adj",
+      "meaningEn": "Capable of operating without external control or intervention.",
+      "meaningZh": "自动手枪；自动机械；自动的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "automatic",
+        "plural": "automatics"
+      }
+    },
+    {
+      "text": "automobile",
+      "pos": "adj",
+      "meaningEn": "Self-moving; self-propelled.",
+      "meaningZh": "汽车",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "automobile",
+        "plural": "automobiles"
+      }
+    },
+    {
+      "text": "available",
+      "pos": "adj",
+      "meaningEn": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+      "meaningZh": "可利用的；可获得的；有效的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "available"
+      }
+    },
+    {
+      "text": "awake",
+      "pos": "adj",
+      "meaningEn": "Not asleep; conscious.",
+      "meaningZh": "醒着的；唤醒；唤起",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "awake",
+        "past": "awoke",
+        "pp": "awoken",
+        "s3": "awakes",
+        "ing": "awaking"
+      }
+    },
+    {
+      "text": "awkward",
+      "pos": "adj",
+      "meaningEn": "Lacking dexterity in the use of the hands or of tools.",
+      "meaningZh": "笨拙的；棘手的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "awkward"
+      }
+    },
+    {
+      "text": "back",
+      "pos": "adj",
+      "meaningEn": "At or near the rear.",
+      "meaningZh": "后面的；使后退；支持",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "back",
+        "pp": "backed",
+        "plural": "backs",
+        "past": "backed",
+        "ing": "backing",
+        "s3": "backs"
+      }
+    },
+    {
+      "text": "bad",
+      "pos": "adj",
+      "meaningEn": "Of low quality.",
+      "meaningZh": "坏的；坏；坏地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "bad"
+      }
+    },
+    {
+      "text": "balanced",
+      "pos": "adj",
+      "meaningEn": "Containing elements in appropriate proportion; proportionately weighted on all dimensions and therefore unlikely to tip over.",
+      "meaningZh": "公平的；平衡的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "balanced",
+        "pp": "balanced",
+        "past": "balanced"
+      }
+    },
+    {
+      "text": "be",
+      "pos": "verb",
+      "meaningEn": "Used with past participles of verbs to form the passive voice.",
+      "meaningZh": "是；表示；在",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "be",
+        "past": "was",
+        "s3": "is",
+        "pp": "been",
+        "ing": "being"
+      }
+    },
+    {
+      "text": "become",
+      "pos": "verb",
+      "meaningEn": "begin to be; turn into.",
+      "meaningZh": "变成；变得；适合",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "become",
+        "past": "became",
+        "pp": "become",
+        "s3": "becomes",
+        "ing": "becoming"
+      }
+    },
+    {
+      "text": "begin",
+      "pos": "verb",
+      "meaningEn": "To start, to initiate or take the first step into something.",
+      "meaningZh": "开始",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "begin",
+        "past": "began",
+        "ing": "beginning",
+        "pp": "begun",
+        "s3": "begins"
+      }
+    },
+    {
+      "text": "believe",
+      "pos": "verb",
+      "meaningEn": "To accept as true, particularly without absolute certainty.",
+      "meaningZh": "相信",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "believe",
+        "past": "believed",
+        "s3": "believes",
+        "pp": "believed",
+        "ing": "believing"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-09T21:30:25.491873Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
