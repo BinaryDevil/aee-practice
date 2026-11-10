@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T21:30:30.724526Z",
+  "generatedAt": "2026-11-10T18:43:53.409498Z",
   "episodes": [
+    {
+      "number": 2719,
+      "guid": "ebd9a0f6-d11a-11f1-b232-9fc3a1041e89",
+      "title": "How Tanning Culture is Changing in the U.S.",
+      "pubDate": "2026-11-10T06:00:00",
+      "durationSec": 1240,
+      "itemCount": 1,
+      "hasBlog": false,
+      "file": "episodes/2719.json"
+    },
     {
       "number": 2718,
       "guid": "13444ac0-d11a-11f1-8231-374595115eb7",

@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-11-09T21:30:30.725054Z",
+  "generatedAt": "2026-11-10T18:43:53.410016Z",
   "episodes": [
+    {
+      "number": 2719,
+      "title": "How Tanning Culture is Changing in the U.S.",
+      "pubDate": "2026-11-10T06:00:00",
+      "durationSec": 1240
+    },
     {
       "number": 2718,
       "title": "Dicey English Vocabulary for Precarious Situations",
@@ -354,12 +360,6 @@
       "title": "Stop Dropping Names! Connect Your Listeners to the Story",
       "pubDate": "2026-07-29T05:00:00",
       "durationSec": 1242
-    },
-    {
-      "number": 2659,
-      "title": "Don’t Be Thrown Off By This Vocabulary",
-      "pubDate": "2026-07-28T05:00:00",
-      "durationSec": 1087
     }
   ]
 }

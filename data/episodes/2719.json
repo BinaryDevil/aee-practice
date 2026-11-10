@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "number": 2719,
+  "guid": "ebd9a0f6-d11a-11f1-b232-9fc3a1041e89",
+  "title": "How Tanning Culture is Changing in the U.S.",
+  "subtitle": "",
+  "pubDate": "2026-11-10T06:00:00",
+  "durationSec": 1240,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE4909828738.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "skin-color",
+      "text": "skin color",
+      "display": "skin color",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 20,
+      "pos": "noun",
+      "ipa": "skin ˈkʌlə",
+      "tags": [],
+      "meaningEn": "The color of human skin.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "人类皮肤的颜色",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "肤色",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 617.29,
+          "end": 619.69,
+          "sentence": "And it's all it also depends on a person's skin color",
+          "sentenceZh": "也取决于一个人的肤色",
+          "sentenceZhSource": "mt",
+          "answer": "skin color",
+          "answerStart": 43,
+          "answerEnd": 53,
+          "answerForm": "base"
+        },
+        {
+          "start": 619.69,
+          "end": 624.31,
+          "sentence": "because a lot of people are like extremely happy with their skin color as it is.",
+          "sentenceZh": "因为很多人对肤色非常满意",
+          "sentenceZhSource": "mt",
+          "answer": "skin color",
+          "answerStart": 60,
+          "answerEnd": 70,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "skin color",
+        "plural": "skins color",
+        "past": "skinned color",
+        "ing": "skinning color",
+        "pp": "skinned color",
+        "s3": "skins color"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    }
+  ],
+  "distractors": [
+    {
+      "text": "color by number",
+      "pos": "noun",
+      "meaningEn": "A simple coloring exercise, intended especially for children, consisting of a line drawing that divides the artwork into distinct spaces, the intended color of each indicated by a number and referenced from a key.",
+      "meaningZh": "一个专门为儿童设计的简单彩色练习,由一条线条组成,将艺术作品分为不同的空间、用数字表示的每个作品的预定颜色,并从一个密钥中引用。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color by number",
+        "plural": "colors by number",
+        "ing": "coloring by number",
+        "past": "colored by number",
+        "s3": "colors by number",
+        "pp": "colored by number"
+      }
+    },
+    {
+      "text": "color blindness",
+      "pos": "noun",
+      "meaningEn": "Any of several medical conditions in which the physical ability to see colors is impaired, especially achromatopsia or Daltonism.",
+      "meaningZh": "任何几种医学条件,其中一种是看彩色的体能受损,特别是食堂或道尔顿主义。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color blindness",
+        "plural": "colors blindness",
+        "ing": "coloring blindness",
+        "past": "colored blindness",
+        "s3": "colors blindness",
+        "pp": "colored blindness"
+      }
+    },
+    {
+      "text": "color center",
+      "pos": "noun",
+      "meaningEn": "A network primarily centered around Area V4 in the fusiform gyrus within the ventral occipital lobe, crucial for processing color perception and color constancy.",
+      "meaningZh": "一个网络,主要以V4区域为中心,位于通风口脊椎叶内的烟气状陀螺中,对处理颜色感知和颜色耐久性至关重要。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color center",
+        "plural": "colors center",
+        "ing": "coloring center",
+        "past": "colored center",
+        "s3": "colors center",
+        "pp": "colored center"
+      }
+    },
+    {
+      "text": "color code",
+      "pos": "noun",
+      "meaningEn": "Any system where colours are used to categorize elements of sets.",
+      "meaningZh": "使用颜色对各组元素进行分类的任何系统 。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color code",
+        "plural": "colors code",
+        "ing": "coloring code",
+        "past": "colored code",
+        "s3": "colors code",
+        "pp": "colored code"
+      }
+    },
+    {
+      "text": "color coordinate",
+      "pos": "noun",
+      "meaningEn": "Each value in a set of coordinates representing the position of a color in a color space.",
+      "meaningZh": "一组坐标中的每个值,代表颜色空间中的颜色位置。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color coordinate",
+        "plural": "colors coordinate",
+        "ing": "coloring coordinate",
+        "past": "colored coordinate",
+        "s3": "colors coordinate",
+        "pp": "colored coordinate"
+      }
+    },
+    {
+      "text": "color bar",
+      "pos": "noun",
+      "meaningEn": "The segregation of people of different colour or race, especially any barrier to black people participating in activities with white people.",
+      "meaningZh": "对不同肤色或种族的人实行隔离,特别是对黑人参加白人活动设置任何障碍。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color bar",
+        "plural": "colors bar",
+        "ing": "coloring bar",
+        "past": "colored bar",
+        "s3": "colors bar",
+        "pp": "colored bar"
+      }
+    },
+    {
+      "text": "color force",
+      "pos": "noun",
+      "meaningEn": "A fundamental force that is associated with the strong nuclear force, created by the associated bosons known as gluons, between quarks and other subatomic particles, by way of the colour charge",
+      "meaningZh": "一种与强大的核力量相关联的基本力量,这种力量是由由被称为格伦的相伴的巨人、夸克与其他亚原子颗粒之间,通过彩色电荷产生的。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color force",
+        "plural": "colors force",
+        "ing": "coloring force",
+        "past": "colored force",
+        "s3": "colors force",
+        "pp": "colored force"
+      }
+    },
+    {
+      "text": "color guard",
+      "pos": "noun",
+      "meaningEn": "A uniformed group, especially of soldiers, police officers, Scouts, or school representatives, who present their institution's flag on ceremonial occasions.",
+      "meaningZh": "一个穿制服的团体,特别是士兵、警官、童子军或学校代表,在仪式上展示其机构的旗帜。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "color guard",
+        "plural": "colors guard",
+        "ing": "coloring guard",
+        "past": "colored guard",
+        "s3": "colors guard",
+        "pp": "colored guard"
+      }
+    },
+    {
+      "text": "skin diving",
+      "pos": "noun",
+      "meaningEn": "Swimming underwater without a diving suit.",
+      "meaningZh": "没有潜水衣在水下游泳",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "skin diving",
+        "plural": "skins diving",
+        "past": "skinned diving",
+        "ing": "skinning diving",
+        "pp": "skinned diving",
+        "s3": "skins diving"
+      }
+    },
+    {
+      "text": "skin graft",
+      "pos": "noun",
+      "meaningEn": "An operation to graft a piece of skin, moving it from one place to another; a dermoplasty.",
+      "meaningZh": "移植一块皮肤,从一个地方移到另一个地方的操作;一个除温器。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "skin graft",
+        "plural": "skins graft",
+        "past": "skinned graft",
+        "ing": "skinning graft",
+        "pp": "skinned graft",
+        "s3": "skins graft"
+      }
+    },
+    {
+      "text": "skin job",
+      "pos": "noun",
+      "meaningEn": "A robot or android with humanoid flesh and skin.",
+      "meaningZh": "机器人或机器人 或有人形肉和皮肤的机器人",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "skin job",
+        "plural": "skins job",
+        "past": "skinned job",
+        "ing": "skinning job",
+        "pp": "skinned job",
+        "s3": "skins job"
+      }
+    },
+    {
+      "text": "skin merchant",
+      "pos": "noun",
+      "meaningEn": "One who trades in skin-based products like furs and leather.",
+      "meaningZh": "以皮革为原料,如皮草和皮革的人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "skin merchant",
+        "plural": "skins merchant",
+        "past": "skinned merchant",
+        "ing": "skinning merchant",
+        "pp": "skinned merchant",
+        "s3": "skins merchant"
+      }
+    },
+    {
+      "text": "skin and blister",
+      "pos": "noun",
+      "meaningEn": "A sister.",
+      "meaningZh": "一个姐姐",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "skin and blister",
+        "plural": "skins and blister",
+        "past": "skinned and blister",
+        "ing": "skinning and blister",
+        "pp": "skinned and blister",
+        "s3": "skins and blister"
+      }
+    },
+    {
+      "text": "skin cancer",
+      "pos": "noun",
+      "meaningEn": "A malignant growth on the skin, such as melanoma.",
+      "meaningZh": "皮肤恶性生长,如黑皮瘤。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "skin cancer",
+        "plural": "skins cancer",
+        "past": "skinned cancer",
+        "ing": "skinning cancer",
+        "pp": "skinned cancer",
+        "s3": "skins cancer"
+      }
+    },
+    {
+      "text": "skin cell",
+      "pos": "noun",
+      "meaningEn": "A specialized cell that constitutes the skin, primarily located in the epidermis.",
+      "meaningZh": "构成皮肤的专门细胞,主要位于皮皮下。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "skin cell",
+        "plural": "skins cell",
+        "past": "skinned cell",
+        "ing": "skinning cell",
+        "pp": "skinned cell",
+        "s3": "skins cell"
+      }
+    },
+    {
+      "text": "ability",
+      "pos": "noun",
+      "meaningEn": "The quality or state of being able; capacity to do or of doing something; having the necessary power.",
+      "meaningZh": "能力；才干",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ability",
+        "plural": "abilities"
+      }
+    },
+    {
+      "text": "access",
+      "pos": "noun",
+      "meaningEn": "A way or means of approaching or entering; an entrance; a passage.",
+      "meaningZh": "通路；入口；接近",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "access",
+        "pp": "accessed",
+        "ing": "accessing",
+        "s3": "accesses",
+        "plural": "accesses",
+        "past": "accessed"
+      }
+    },
+    {
+      "text": "account",
+      "pos": "noun",
+      "meaningEn": "A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review.",
+      "meaningZh": "报告；解释；估价",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "account",
+        "plural": "accounts",
+        "pp": "accounted",
+        "ing": "accounting",
+        "s3": "accounts",
+        "past": "accounted"
+      }
+    },
+    {
+      "text": "act",
+      "pos": "noun",
+      "meaningEn": "An instance of a certain standardized college admissions test in the United States, originally called the American College Test.",
+      "meaningZh": "行动；行为；幕",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "act",
+        "ing": "acting",
+        "plural": "acts",
+        "past": "acted",
+        "pp": "acted",
+        "s3": "acts"
+      }
+    },
+    {
+      "text": "activity",
+      "pos": "noun",
+      "meaningEn": "The state or quality of being active; activeness.",
+      "meaningZh": "活动；行动；活跃",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "activity",
+        "plural": "activities"
+      }
+    },
+    {
+      "text": "actor",
+      "pos": "noun",
+      "meaningEn": "Someone or something that takes part in some action; a doer, an agent.",
+      "meaningZh": "男演员；行动者",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "actor",
+        "plural": "actors"
+      }
+    },
+    {
+      "text": "address",
+      "pos": "noun",
+      "meaningEn": "A manner of speaking or writing to another; language, style.",
+      "meaningZh": "住址；演说；举止",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "address",
+        "pp": "addressed",
+        "ing": "addressing",
+        "plural": "addresses",
+        "past": "addressed",
+        "s3": "addresses"
+      }
+    },
+    {
+      "text": "administration",
+      "pos": "noun",
+      "meaningEn": "The act of administering; government of public affairs; the service rendered, or duties assumed, in conducting affairs; the conducting of any office or employment; direction.",
+      "meaningZh": "行政；管理；政府机关",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "administration",
+        "plural": "administrations"
+      }
+    },
+    {
+      "text": "adult",
+      "pos": "noun",
+      "meaningEn": "An animal that is full-grown.",
+      "meaningZh": "成人；成虫；成年的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adult",
+        "plural": "adults"
+      }
+    },
+    {
+      "text": "advantage",
+      "pos": "noun",
+      "meaningEn": "Any condition, circumstance, opportunity or means, particularly favorable or chance to success, or to any desired end.",
+      "meaningZh": "优点；便利；好处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "advantage",
+        "plural": "advantages",
+        "pp": "advantaged",
+        "ing": "advantaging",
+        "past": "advantaged",
+        "s3": "advantages"
+      }
+    },
+    {
+      "text": "affair",
+      "pos": "noun",
+      "meaningEn": "Something which is done or is to be done; business of any kind, commercial, professional, or public.",
+      "meaningZh": "事件；事务；恋爱事件",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "affair",
+        "plural": "affairs"
+      }
+    },
+    {
+      "text": "afternoon",
+      "pos": "noun",
+      "meaningEn": "The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.",
+      "meaningZh": "午后；下午",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "afternoon",
+        "plural": "afternoons"
+      }
+    },
+    {
+      "text": "agency",
+      "pos": "noun",
+      "meaningEn": "The capacity, condition, or state of acting or of exerting power.",
+      "meaningZh": "代理机构；经销商；中介",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agency",
+        "plural": "agencies"
+      }
+    },
+    {
+      "text": "agent",
+      "pos": "noun",
+      "meaningEn": "One who exerts power, or has the power to act.",
+      "meaningZh": "代理商；政府代表；动原",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agent",
+        "plural": "agents"
+      }
+    },
+    {
+      "text": "agreement",
+      "pos": "noun",
+      "meaningEn": "An understanding between entities to follow a specific course of conduct.",
+      "meaningZh": "同意；合约；协议",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agreement",
+        "plural": "agreements"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-10T18:43:47.841607Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
