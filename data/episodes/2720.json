@@ -1,0 +1,700 @@
+{
+  "schemaVersion": 1,
+  "number": 2720,
+  "guid": "0a7cf9c2-d11b-11f1-a28a-d79820cd68d1",
+  "title": "Are You Spiteful? How to Discuss Revenge in English",
+  "subtitle": "Learn how to talk about this topic in English",
+  "pubDate": "2026-11-11T06:00:00",
+  "durationSec": 1148,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE8451433385.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "in-spite-of",
+      "text": "in spite of",
+      "display": "in spite of",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "prep",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "Despite, irrespective of, notwithstanding.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "尽管如此,尽管如此,尽管如此。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "不管",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 771.97,
+          "end": 773.87,
+          "sentence": "We'll say in spite of this, in spite of that.",
+          "sentenceZh": "尽管如此,我们还是会说,尽管如此。",
+          "sentenceZhSource": "mt",
+          "answer": "in spite of",
+          "answerStart": 10,
+          "answerEnd": 21,
+          "answerForm": "base"
+        },
+        {
+          "start": 771.97,
+          "end": 773.87,
+          "sentence": "We'll say in spite of this, in spite of that.",
+          "sentenceZh": "尽管如此,我们还是会说,尽管如此。",
+          "sentenceZhSource": "mt",
+          "answer": "in spite of",
+          "answerStart": 28,
+          "answerEnd": 39,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "in spite of"
+      },
+      "examples": [
+        "No evening I had passed at Bly had the portentous quality of this one; in spite of which—and in spite also of the deeper depths of consternation that had opened beneath my feet—there was literally, in the ebbing actual, an extraordinarily sweet sadness.",
+        "The railway is still vital to Jordan's export trade, but in spite of the poor quality of the road, diesel lorries are gradually robbing it of freight traffic, and anyone who can afford to fly does so rather than face the long desert journey by rail."
+      ],
+      "synonyms": [
+        "maugre",
+        "regardless of",
+        "despite",
+        "with",
+        "for all",
+        "irrespective of"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "do-out",
+      "text": "do out",
+      "display": "do out",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "colloquial",
+        "transitive"
+      ],
+      "meaningEn": "To decorate, tidy, or clean.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "装饰、整洁或干净",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 53.08,
+          "end": 55.38,
+          "sentence": "Have you ever done something out of spite?",
+          "sentenceZh": "你曾经做过什么 出于怨恨?",
+          "sentenceZhSource": "mt",
+          "answer": "done something out",
+          "answerStart": 14,
+          "answerEnd": 32,
+          "answerForm": "other"
+        },
+        {
+          "start": 168.99,
+          "end": 171.95,
+          "sentence": "So, Aubrey, have you ever done something out of spite?",
+          "sentenceZh": "奥布里,你做过什么 出自怨恨的事吗?",
+          "sentenceZhSource": "mt",
+          "answer": "done something out",
+          "answerStart": 26,
+          "answerEnd": 44,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "do out",
+        "ing": "doing out",
+        "past": "did out",
+        "s3": "does out",
+        "pp": "done out"
+      },
+      "examples": [
+        "After two days' absence, with the easy casuistry of her circumstances, the lady had decided that he was not returning and had proceeded to \"do out\" the room for the next tenant."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "out-of",
+      "text": "out of",
+      "display": "out of",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "prep",
+      "ipa": "/ˈaʊt əv/",
+      "tags": [],
+      "meaningEn": "From the inside to the outside of.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "从里面到外面。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "在...外；离开...；从...里面",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 53.08,
+          "end": 55.38,
+          "sentence": "Have you ever done something out of spite?",
+          "sentenceZh": "你曾经做过什么 出于怨恨?",
+          "sentenceZhSource": "mt",
+          "answer": "out of",
+          "answerStart": 29,
+          "answerEnd": 35,
+          "answerForm": "base"
+        },
+        {
+          "start": 162.61,
+          "end": 164.55,
+          "sentence": "Anything different, anything out of the ordinary is kind of fun.",
+          "sentenceZh": "任何不同的东西 任何不寻常的东西都很有趣",
+          "sentenceZhSource": "mt",
+          "answer": "out of",
+          "answerStart": 29,
+          "answerEnd": 35,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "out of",
+        "ing": "outing of",
+        "past": "outed of",
+        "s3": "outs of",
+        "pp": "outed of"
+      },
+      "examples": [
+        "The audience came out of the theater.",
+        "The cat jumped out of the basket."
+      ],
+      "synonyms": [
+        "exterior to",
+        "external to (2, 3)",
+        "outside of (2, 3)",
+        "without"
+      ],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "let-oneself-go",
+      "text": "let oneself go",
+      "display": "let oneself go",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To relax and enjoy oneself without restraint.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "不受约束地放松和享受自己",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "放松",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 586.35,
+          "end": 589.61,
+          "sentence": "the mature thing would be to let it go or work it out.",
+          "sentenceZh": "成熟的事物是 让它去或解决它。",
+          "sentenceZhSource": "mt",
+          "answer": "let it go",
+          "answerStart": 29,
+          "answerEnd": 38,
+          "answerForm": "other"
+        },
+        {
+          "start": 656.43,
+          "end": 658.19,
+          "sentence": "Let's go into spiteful next.",
+          "sentenceZh": "下一场是恶作剧",
+          "sentenceZhSource": "mt",
+          "answer": "Let's go",
+          "answerStart": 0,
+          "answerEnd": 8,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "let oneself go",
+        "ing": "letting oneself go",
+        "pp": "let oneself go",
+        "past": "let oneself go",
+        "s3": "lets oneself go"
+      },
+      "examples": [
+        "Fill your lungs up, and let it out slowly. Let it out slowly and relax as you exhale. […] Just let yourself go, (name), and relax."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 4
+    },
+    {
+      "id": "kind-of-like",
+      "text": "kind of like",
+      "display": "kind of like",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "adv",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "vaguely similar to",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "类似",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 706.49,
+          "end": 713.95,
+          "sentence": "…I feel like when someone is extremely spiteful as an adult, they're kind of like a like a stunted growth situation.",
+          "sentenceZh": "...我觉得当某人作为成年人 极为憎恶的时候, 他们就像一个发育迟缓的状态。",
+          "sentenceZhSource": "mt",
+          "answer": "kind of like",
+          "answerStart": 69,
+          "answerEnd": 81,
+          "answerForm": "base"
+        },
+        {
+          "start": 1014.8,
+          "end": 1017.66,
+          "sentence": "It's kind of like, obviously, I just said they did it to spite him.",
+          "sentenceZh": "有点像,很明显, 我只是说,他们这样做是为了 憎恨他。",
+          "sentenceZhSource": "mt",
+          "answer": "kind of like",
+          "answerStart": 5,
+          "answerEnd": 17,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "kind of like",
+        "plural": "kinds of like"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 5
+    },
+    {
+      "id": "vindictive",
+      "text": "vindictive",
+      "display": "vindictive",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "adj",
+      "ipa": "/vɪnˈdɪk.tɪv/",
+      "tags": [],
+      "meaningEn": "Having a tendency to seek revenge when wronged, vengeful.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "有报仇心的；怀恨的；惩罚的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 597.17,
+          "end": 601.51,
+          "sentence": "…a bonus word for today that we should throw out there is the word vindictive vindictive.",
+          "sentenceZh": "...今天的奖赏词 我们应该扔出去 有报复性的报复性词。",
+          "sentenceZhSource": "mt",
+          "answer": "vindictive",
+          "answerStart": 67,
+          "answerEnd": 77,
+          "answerForm": "base"
+        },
+        {
+          "start": 597.17,
+          "end": 601.51,
+          "sentence": "…word for today that we should throw out there is the word vindictive vindictive.",
+          "sentenceZh": "...今天的词 我们应该扔出去 有词 报复性的报复性。",
+          "sentenceZhSource": "mt",
+          "answer": "vindictive",
+          "answerStart": 70,
+          "answerEnd": 80,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "vindictive"
+      },
+      "examples": [
+        "Lord Avonleigh was an angry rather than a vindictive man. Vindictiveness requires more energy of character than he possessed. Indeed, it may be questioned whether he would of himself have taken the violent measures of the preceding evening.",
+        "The vindictive mockery in her voice made his brain quiver."
+      ],
+      "synonyms": [
+        "vengeful",
+        "revengeful",
+        "nasty",
+        "avengeful",
+        "pluckcrow"
+      ],
+      "concept": false,
+      "rank": 6
+    }
+  ],
+  "distractors": [
+    {
+      "text": "like that",
+      "pos": "adj",
+      "meaningEn": "Gay; homosexual.",
+      "meaningZh": "同性恋;同性恋。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "like that",
+        "past": "liked that",
+        "s3": "likes that",
+        "pp": "liked that",
+        "plural": "likes that",
+        "ing": "liking that"
+      }
+    },
+    {
+      "text": "like no other",
+      "pos": "adj",
+      "meaningEn": "Very special.",
+      "meaningZh": "非常特别。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "like no other",
+        "past": "liked no other",
+        "s3": "likes no other",
+        "pp": "liked no other",
+        "plural": "likes no other",
+        "ing": "liking no other"
+      }
+    },
+    {
+      "text": "abbreviated",
+      "pos": "adj",
+      "meaningEn": "Shortened; made briefer.",
+      "meaningZh": "缩短;缩短。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "abbreviated",
+        "pp": "abbreviated"
+      }
+    },
+    {
+      "text": "able",
+      "pos": "adj",
+      "meaningEn": "Having the necessary powers or the needed resources to accomplish a task.",
+      "meaningZh": "能干的；能够的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "able"
+      }
+    },
+    {
+      "text": "about",
+      "pos": "prep",
+      "meaningEn": "In a circle around; all round; on every side of; on the outside of; around.",
+      "meaningZh": "在...周围；大约；有关",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "about"
+      }
+    },
+    {
+      "text": "abut",
+      "pos": "verb",
+      "meaningEn": "To touch by means of a mutual border, edge or end; to border on; to lie adjacent; to be contiguous",
+      "meaningZh": "邻接；毗邻",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "abut",
+        "ing": "abutting",
+        "s3": "abuts",
+        "past": "abutted",
+        "pp": "abutted"
+      }
+    },
+    {
+      "text": "abysmal",
+      "pos": "adj",
+      "meaningEn": "Extremely bad; terrible.",
+      "meaningZh": "深不可测的；无底的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "abysmal"
+      }
+    },
+    {
+      "text": "accede",
+      "pos": "verb",
+      "meaningEn": "To agree or assent [with to ‘a proposal, a request’]; to give way.",
+      "meaningZh": "同意；正式加入；就任",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accede",
+        "past": "acceded",
+        "pp": "acceded",
+        "ing": "acceding",
+        "s3": "accedes"
+      }
+    },
+    {
+      "text": "according",
+      "pos": "adj",
+      "meaningEn": "Agreeing; in agreement or harmony; harmonious.",
+      "meaningZh": "相符的；根据...而定的；相应地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "according"
+      }
+    },
+    {
+      "text": "acrid",
+      "pos": "adj",
+      "meaningEn": "Sharp and harsh, or bitter and not to the taste.",
+      "meaningZh": "苦味的；辛辣的；讥讽的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "acrid"
+      }
+    },
+    {
+      "text": "across",
+      "pos": "prep",
+      "meaningEn": "To, toward, or from the far side of.",
+      "meaningZh": "越过；穿过；与...相交叉",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "across"
+      }
+    },
+    {
+      "text": "actually",
+      "pos": "adv",
+      "meaningEn": "In act or in fact; really; in truth; positively.",
+      "meaningZh": "事实上；竟然；如今",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "actually"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "admirably",
+      "pos": "adv",
+      "meaningEn": "In a way worthy of admiration.",
+      "meaningZh": "极好地；美好地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "admirably"
+      }
+    },
+    {
+      "text": "advisable",
+      "pos": "adj",
+      "meaningEn": "Worthy of being recommended; desirable.",
+      "meaningZh": "适当的；明智的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "advisable"
+      }
+    },
+    {
+      "text": "after",
+      "pos": "adv",
+      "meaningEn": "Behind; later in time; following.",
+      "meaningZh": "在...之后；由于；在...之后",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "after"
+      }
+    },
+    {
+      "text": "again",
+      "pos": "adv",
+      "meaningEn": "Another time: indicating a repeat of an action.",
+      "meaningZh": "再一次；又；到原处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "again"
+      }
+    },
+    {
+      "text": "against",
+      "pos": "prep",
+      "meaningEn": "In a contrary direction to.",
+      "meaningZh": "反对；对着；倚靠",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "against"
+      }
+    },
+    {
+      "text": "aggrieved",
+      "pos": "adj",
+      "meaningEn": "Angry or resentful due to unjust treatment.",
+      "meaningZh": "受委屈的；权利受到不法侵害的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aggrieved",
+        "pp": "aggrieved",
+        "past": "aggrieved"
+      }
+    },
+    {
+      "text": "agree",
+      "pos": "verb",
+      "meaningEn": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.",
+      "meaningZh": "同意；赞成；应允",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agree",
+        "pp": "agreed",
+        "past": "agreed",
+        "s3": "agrees",
+        "ing": "agreeing"
+      }
+    },
+    {
+      "text": "aimlessly",
+      "pos": "adv",
+      "meaningEn": "Without an aim, purpose or direction; in an aimless manner.",
+      "meaningZh": "漫无目的地；无目标地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aimlessly"
+      }
+    },
+    {
+      "text": "alarmingly",
+      "pos": "adv",
+      "meaningEn": "In an alarming way, frighteningly.",
+      "meaningZh": "让人担忧地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "alarmingly"
+      }
+    },
+    {
+      "text": "allow",
+      "pos": "verb",
+      "meaningEn": "To let one have as a suitable share of something.",
+      "meaningZh": "允许；同意给予；承认",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allow",
+        "pp": "allowed",
+        "ing": "allowing",
+        "s3": "allows",
+        "past": "allowed"
+      }
+    },
+    {
+      "text": "almost",
+      "pos": "adv",
+      "meaningEn": "Very close to, but not quite.",
+      "meaningZh": "几乎；差不多",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "almost"
+      }
+    },
+    {
+      "text": "along",
+      "pos": "prep",
+      "meaningEn": "By the length of; in a line with the length of; lengthwise next to.",
+      "meaningZh": "平行地；向前；沿着",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "along"
+      }
+    },
+    {
+      "text": "already",
+      "pos": "adv",
+      "meaningEn": "Prior to some specified time, either past, present, or future; by this time; previously.",
+      "meaningZh": "已经；早已",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "already"
+      }
+    },
+    {
+      "text": "also",
+      "pos": "adv",
+      "meaningEn": "In addition; besides; as well; further; too.",
+      "meaningZh": "也；并且；同样地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "also"
+      }
+    },
+    {
+      "text": "always",
+      "pos": "adv",
+      "meaningEn": "At all times; throughout all time; since the beginning.",
+      "meaningZh": "总是；始终",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "always"
+      }
+    },
+    {
+      "text": "amok",
+      "pos": "adv",
+      "meaningEn": "Out of control, especially when armed and dangerous.",
+      "meaningZh": "乱砍乱杀；杀气腾腾地横冲直撞",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "amok"
+      }
+    },
+    {
+      "text": "among",
+      "pos": "prep",
+      "meaningEn": "Of a person or thing: in the midst of and surrounded by.",
+      "meaningZh": "在...之中",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "among"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-11T18:46:24.847123Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T18:43:53.409498Z",
+  "generatedAt": "2026-11-11T18:46:30.724843Z",
   "episodes": [
+    {
+      "number": 2720,
+      "guid": "0a7cf9c2-d11b-11f1-a28a-d79820cd68d1",
+      "title": "Are You Spiteful? How to Discuss Revenge in English",
+      "pubDate": "2026-11-11T06:00:00",
+      "durationSec": 1148,
+      "itemCount": 6,
+      "hasBlog": false,
+      "file": "episodes/2720.json"
+    },
     {
       "number": 2719,
       "guid": "ebd9a0f6-d11a-11f1-b232-9fc3a1041e89",
