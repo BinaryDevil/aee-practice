@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "number": 2721,
+  "guid": "29d8dc28-d11b-11f1-8184-332a0f26691a",
+  "title": "Fancy Schmancy Phrases with Ben Grossblatt from Everybody ESL",
+  "subtitle": "Learn new slang with our guest",
+  "pubDate": "2026-11-12T06:00:00",
+  "durationSec": 1041,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE4343005544.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": "https://www.allearsenglish.com/ben-grossblatt-from-everybody-esl/",
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "fancy-schmancy",
+      "text": "fancy-schmancy",
+      "display": "fancy-schmancy",
+      "kind": "word",
+      "origin": "blog",
+      "score": 100,
+      "pos": "adj",
+      "ipa": "'fænsi,ʃmænsi",
+      "tags": [
+        "derogatory",
+        "informal"
+      ],
+      "meaningEn": "Fancy, especially in a contrived or pretentious fashion.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "[俚语]花哨的；华丽精致的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": "This is one of the most common expressions using the “schm-” construction. “Fancy-schmancy” is a playful way to describe something that’s fancy, elegant, or perhaps more sophisticated than expected.",
+      "occurrences": [],
+      "inflections": {
+        "base": "fancy-schmancy"
+      },
+      "examples": [
+        "Ooh, fancy-schmancy! Look at your outfit!",
+        "This place is a bit fancy-schmancy, so maybe wear a jacket."
+      ],
+      "synonyms": [
+        "schmancy"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "who-cares",
+      "text": "who cares",
+      "display": "who cares",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 9,
+      "pos": "phrase",
+      "ipa": null,
+      "tags": [
+        "colloquial"
+      ],
+      "meaningEn": "A reply to an unimportant or irrelevant statement, indicating indifference on the part of the speaker.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "誰在乎 /谁在乎；誰關心啊 /谁关心啊",
+      "meaningZhSource": "kaikki",
+      "meaningZhAlt": "谁在意（歌名）",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 465.81,
+          "end": 468.61,
+          "sentence": "work is not important, who cares about work?",
+          "sentenceZh": "工作不重要,谁在乎工作?",
+          "sentenceZhSource": "mt",
+          "answer": "who cares",
+          "answerStart": 23,
+          "answerEnd": 32,
+          "answerForm": "base"
+        },
+        {
+          "start": 739.34,
+          "end": 739.84,
+          "sentence": "Exactly, who cares?",
+          "sentenceZh": "没错 谁在乎呢?",
+          "sentenceZhSource": "mt",
+          "answer": "who cares",
+          "answerStart": 9,
+          "answerEnd": 18,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "who cares"
+      },
+      "examples": [],
+      "synonyms": [
+        "so what",
+        "whatever",
+        "who gives",
+        "who gives a damn",
+        "who gives a fuck",
+        "who gives a shit",
+        "whoopdee doo",
+        "whoopee do"
+      ],
+      "concept": false,
+      "rank": 2
+    }
+  ],
+  "distractors": [
+    {
+      "text": "able",
+      "pos": "adj",
+      "meaningEn": "Having the necessary powers or the needed resources to accomplish a task.",
+      "meaningZh": "能干的；能够的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "able"
+      }
+    },
+    {
+      "text": "according",
+      "pos": "adj",
+      "meaningEn": "Agreeing; in agreement or harmony; harmonious.",
+      "meaningZh": "相符的；根据...而定的；相应地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "according"
+      }
+    },
+    {
+      "text": "back",
+      "pos": "adj",
+      "meaningEn": "At or near the rear.",
+      "meaningZh": "后面的；使后退；支持",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "back",
+        "pp": "backed",
+        "plural": "backs",
+        "past": "backed",
+        "ing": "backing",
+        "s3": "backs"
+      }
+    },
+    {
+      "text": "bad",
+      "pos": "adj",
+      "meaningEn": "Of low quality.",
+      "meaningZh": "坏的；坏；坏地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "bad"
+      }
+    },
+    {
+      "text": "big",
+      "pos": "adj",
+      "meaningEn": "Of great size, large.",
+      "meaningZh": "大的；重要的；大量地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "big"
+      }
+    },
+    {
+      "text": "black",
+      "pos": "adj",
+      "meaningEn": "Absorbing all light and reflecting none; dark and hueless.",
+      "meaningZh": "黑色；黑颜料；黑色的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "black",
+        "plural": "blacks",
+        "past": "blacked",
+        "pp": "blacked",
+        "ing": "blacking",
+        "s3": "blacks"
+      }
+    },
+    {
+      "text": "different",
+      "pos": "adj",
+      "meaningEn": "Not the same; exhibiting a difference.",
+      "meaningZh": "不同的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "different"
+      }
+    },
+    {
+      "text": "early",
+      "pos": "adj",
+      "meaningEn": "At a time in advance of the usual or expected event.",
+      "meaningZh": "早的；早熟的；很早",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "early"
+      }
+    },
+    {
+      "text": "economic",
+      "pos": "adj",
+      "meaningEn": "Pertaining to an economy.",
+      "meaningZh": "经济上的；实用的；节省的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "economic"
+      }
+    },
+    {
+      "text": "else",
+      "pos": "adj",
+      "meaningEn": "Other; in addition to previously mentioned items.",
+      "meaningZh": "别的；其他的；另外",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "else"
+      }
+    },
+    {
+      "text": "even",
+      "pos": "adj",
+      "meaningEn": "Flat and level.",
+      "meaningZh": "平坦的；相等的；连贯的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "even",
+        "ing": "evening",
+        "past": "evened",
+        "s3": "evens",
+        "pp": "evened"
+      }
+    },
+    {
+      "text": "ever",
+      "pos": "adj",
+      "meaningEn": "Occurring at any time, occurring even but once during a timespan.",
+      "meaningZh": "曾经；究竟；永远",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ever"
+      }
+    },
+    {
+      "text": "far",
+      "pos": "adj",
+      "meaningEn": "Distant; remote in space.",
+      "meaningZh": "远的；久远的；遥远的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "far"
+      }
+    },
+    {
+      "text": "federal",
+      "pos": "adj",
+      "meaningEn": "Pertaining to a league or treaty; derived from an agreement or covenant between parties, especially between nations.",
+      "meaningZh": "联邦的；联合的；同盟的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "federal"
+      }
+    },
+    {
+      "text": "first",
+      "pos": "adj",
+      "meaningEn": "Preceding all others of a series or kind; the ordinal of one; earliest.",
+      "meaningZh": "首先；第一；优先",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "first"
+      }
+    },
+    {
+      "text": "former",
+      "pos": "adj",
+      "meaningEn": "Previous.",
+      "meaningZh": "从前的；前者的；起形成作用的人(或物)",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "former",
+        "plural": "formers"
+      }
+    },
+    {
+      "text": "free",
+      "pos": "adj",
+      "meaningEn": "Unconstrained.",
+      "meaningZh": "自由的；享受政治权力的；允许的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "free",
+        "pp": "freed",
+        "ing": "freeing",
+        "past": "freed",
+        "s3": "frees"
+      }
+    },
+    {
+      "text": "full",
+      "pos": "adj",
+      "meaningEn": "Containing the maximum possible amount that can fit in the space available.",
+      "meaningZh": "全部；完整；充满的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "full"
+      }
+    },
+    {
+      "text": "good",
+      "pos": "adj",
+      "meaningEn": "Acting in the interest of what is beneficial, ethical, or moral.",
+      "meaningZh": "善行；好处；利益",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "good"
+      }
+    },
+    {
+      "text": "hard",
+      "pos": "adj",
+      "meaningEn": "Solid and firm.",
+      "meaningZh": "坚硬的；硬的；难的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "hard"
+      }
+    },
+    {
+      "text": "high",
+      "pos": "adj",
+      "meaningEn": "Very elevated; extending or being far above a base; tall; lofty.",
+      "meaningZh": "高度；高处；高的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "high",
+        "plural": "highs"
+      }
+    },
+    {
+      "text": "human",
+      "pos": "adj",
+      "meaningEn": "Of or belonging to the species Homo sapiens or its closest relatives.",
+      "meaningZh": "人；人类；人类的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "human",
+        "plural": "humans"
+      }
+    },
+    {
+      "text": "important",
+      "pos": "adj",
+      "meaningEn": "Having relevant and crucial value; having import.",
+      "meaningZh": "重要的；有地位的；大量的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "important"
+      }
+    },
+    {
+      "text": "international",
+      "pos": "adj",
+      "meaningEn": "Between or among nations.",
+      "meaningZh": "国际的；国别设定",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "international",
+        "plural": "internationals"
+      }
+    },
+    {
+      "text": "just",
+      "pos": "adj",
+      "meaningEn": "Factually right, correct; factual.",
+      "meaningZh": "正直的；合理的；正确的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "just"
+      }
+    },
+    {
+      "text": "large",
+      "pos": "adj",
+      "meaningEn": "Of considerable or relatively great size or extent.",
+      "meaningZh": "大的；大量的；宽大的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "large"
+      }
+    },
+    {
+      "text": "last",
+      "pos": "adj",
+      "meaningEn": "Final, ultimate, coming after all others of its kind.",
+      "meaningZh": "最后的；末尾的；最近的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "last",
+        "past": "lasted",
+        "s3": "lasts",
+        "ing": "lasting",
+        "pp": "lasted"
+      }
+    },
+    {
+      "text": "late",
+      "pos": "adj",
+      "meaningEn": "Near the end of a period of time.",
+      "meaningZh": "迟的；晚的；已故的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "late"
+      }
+    },
+    {
+      "text": "least",
+      "pos": "adj",
+      "meaningEn": "Chiefly used with abstract nouns: less than all others in extent or size; littlest, smallest.",
+      "meaningZh": "最少；最小；最小限度",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "least"
+      }
+    },
+    {
+      "text": "level",
+      "pos": "adj",
+      "meaningEn": "The same height at all places; parallel to a flat ground.",
+      "meaningZh": "水平；水准；平地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "level",
+        "plural": "levels",
+        "pp": "levelled",
+        "past": "levelled",
+        "ing": "levelling",
+        "s3": "levels"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-12T18:57:22.419984Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

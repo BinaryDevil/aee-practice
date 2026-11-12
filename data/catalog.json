@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-11-11T18:46:30.725413Z",
+  "generatedAt": "2026-11-12T18:57:26.912579Z",
   "episodes": [
+    {
+      "number": 2721,
+      "title": "Fancy Schmancy Phrases with Ben Grossblatt from Everybody ESL",
+      "pubDate": "2026-11-12T06:00:00",
+      "durationSec": 1041
+    },
     {
       "number": 2720,
       "title": "Are You Spiteful? How to Discuss Revenge in English",
@@ -354,12 +360,6 @@
       "title": "When You Know, You Know! How to Express Your Intuition in English",
       "pubDate": "2026-08-03T05:00:00",
       "durationSec": 1364
-    },
-    {
-      "number": 2661,
-      "title": "Splash Into Summer Part 1: Are You a Beach Bum?",
-      "pubDate": "2026-07-30T05:00:00",
-      "durationSec": 1271
     }
   ]
 }
