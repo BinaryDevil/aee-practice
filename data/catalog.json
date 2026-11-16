@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-11-15T17:43:32.114920Z",
+  "generatedAt": "2026-11-16T21:04:46.229437Z",
   "episodes": [
+    {
+      "number": 2722,
+      "title": "We Wager You’ll Love This Episode!",
+      "pubDate": "2026-11-16T06:00:00",
+      "durationSec": 947
+    },
     {
       "number": 2721,
       "title": "Fancy Schmancy Phrases with Ben Grossblatt from Everybody ESL",
@@ -354,12 +360,6 @@
       "title": "4 Ways to Use Sarcasm Like a Pro",
       "pubDate": "2026-08-04T05:00:00",
       "durationSec": 1371
-    },
-    {
-      "number": 2662,
-      "title": "When You Know, You Know! How to Express Your Intuition in English",
-      "pubDate": "2026-08-03T05:00:00",
-      "durationSec": 1364
     }
   ]
 }

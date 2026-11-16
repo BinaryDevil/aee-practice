@@ -1,0 +1,554 @@
+{
+  "schemaVersion": 1,
+  "number": 2722,
+  "guid": "229ab000-d272-11f1-9512-874a12fcd5d5",
+  "title": "We Wager You’ll Love This Episode!",
+  "subtitle": "",
+  "pubDate": "2026-11-16T06:00:00",
+  "durationSec": 947,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE1111210925.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "just-saying",
+      "text": "just saying",
+      "display": "just saying",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 13,
+      "pos": "adv",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "Used to deflect responsibility for a hurtful remark.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "用来转移对伤害性言论的责任",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "说完观点后用来表示不打算为其辩护或提供理由的口头语",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 430.74,
+          "end": 434.38,
+          "sentence": "You're just saying I would I would wager if we were wagering.",
+          "sentenceZh": "你只是说我敢打赌,如果我们打赌。",
+          "sentenceZhSource": "mt",
+          "answer": "just saying",
+          "answerStart": 7,
+          "answerEnd": 18,
+          "answerForm": "base"
+        },
+        {
+          "start": 434.54,
+          "end": 436.32,
+          "sentence": "You're just saying I think it's likely.",
+          "sentenceZh": "你只是说我想这是可能的",
+          "sentenceZhSource": "mt",
+          "answer": "just saying",
+          "answerStart": 7,
+          "answerEnd": 18,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "just saying"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "in-the-bag",
+      "text": "in the bag",
+      "display": "in the bag",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 10,
+      "pos": "prep_phrase",
+      "ipa": null,
+      "tags": [
+        "idiomatic",
+        "slang"
+      ],
+      "meaningEn": "Of a desirable thing, certain or extremely likely to occur.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "某种可取的事情,某些或极有可能发生。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "稳操胜券的；十拿九稳的；喝醉了的",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 582.51,
+          "end": 583.59,
+          "sentence": "I've got this in the bag.",
+          "sentenceZh": "我包里有这个",
+          "sentenceZhSource": "mt",
+          "answer": "in the bag",
+          "answerStart": 14,
+          "answerEnd": 24,
+          "answerForm": "base"
+        },
+        {
+          "start": 779.17,
+          "end": 781.91,
+          "sentence": "And then a little bonus here, I say, I've got this in the bag,",
+          "sentenceZh": "还有一点奖金,我说,包里有这个",
+          "sentenceZhSource": "mt",
+          "answer": "in the bag",
+          "answerStart": 51,
+          "answerEnd": 61,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "in the bag"
+      },
+      "examples": [
+        "Near-synonyms: assured, cinched, guaranteed, on ice, inevitable",
+        "3-0 up with 5 minutes to go...we've got the win in the bag."
+      ],
+      "synonyms": [
+        "assured",
+        "cinched",
+        "guaranteed",
+        "on ice",
+        "inevitable"
+      ],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "on-one-s-game",
+      "text": "on one's game",
+      "display": "on one's game",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 9,
+      "pos": "prep_phrase",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "Performing as well as one can.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "表演和能表演的一样",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 268.36,
+          "end": 273.72,
+          "sentence": "So for example, he placed a $50 wager on the game or Aubrey, what would be another example?",
+          "sentenceZh": "比如,他在比赛上赌50美元 或者奥布里,另一个例子是什么?",
+          "sentenceZhSource": "mt",
+          "answer": "on the game",
+          "answerStart": 38,
+          "answerEnd": 49,
+          "answerForm": "other"
+        },
+        {
+          "start": 258.62,
+          "end": 266.74,
+          "sentence": "It means the same as a bet, just the money or stake risked on a game, a race or anything with an unpredictable outcome, right?",
+          "sentenceZh": "意思和赌注一样, 赌博,赌钱或赌注, 赌博,比赛或任何有 无法预测的结果,对不对?",
+          "sentenceZhSource": "mt",
+          "answer": "on a game",
+          "answerStart": 59,
+          "answerEnd": 68,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "on one's game"
+      },
+      "examples": [],
+      "synonyms": [
+        "at the top of one's game"
+      ],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "want-to-bet",
+      "text": "want to bet",
+      "display": "want to bet",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "phrase",
+      "ipa": null,
+      "tags": [
+        "colloquial"
+      ],
+      "meaningEn": "Are you sure? Do you really think so?.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "你确定 你真的这么认为吗",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 281.96,
+          "end": 286.72,
+          "sentence": "…like most people in general in a casual sense, you might just say, want to bet on it, right?",
+          "sentenceZh": "...就像一般人一般 随便说说, 你可能只是说, 想赌它,对不对?",
+          "sentenceZhSource": "mt",
+          "answer": "want to bet",
+          "answerStart": 68,
+          "answerEnd": 79,
+          "answerForm": "base"
+        },
+        {
+          "start": 293.7,
+          "end": 294.22,
+          "sentence": "Want to bet on it?",
+          "sentenceZh": "想打赌吗?",
+          "sentenceZhSource": "mt",
+          "answer": "Want to bet",
+          "answerStart": 0,
+          "answerEnd": 11,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "want to bet",
+        "past": "wanted to bet",
+        "s3": "wants to bet",
+        "pp": "wanted to bet",
+        "ing": "wanting to bet"
+      },
+      "examples": [
+        "“You want to bet?” Workman bunched his lips. He inhaled through his nose, the nostrils flaring as he studied Vaughn. Then he conceded the argument."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 4
+    }
+  ],
+  "distractors": [
+    {
+      "text": "game over",
+      "pos": "phrase",
+      "meaningEn": "A message signaling that the game has ended, usually because the player failed but sometimes following successful completion of the game.",
+      "meaningZh": "显示游戏结束的信息, 通常是因为玩家失败, 但有时是在游戏成功结束后结束 。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "game over",
+        "plural": "games over",
+        "ing": "gaming over",
+        "past": "gamed over",
+        "s3": "games over",
+        "pp": "gamed over"
+      }
+    },
+    {
+      "text": "just so",
+      "pos": "adv",
+      "meaningEn": "In the precise manner indicated.",
+      "meaningZh": "准确无误地说明。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just so"
+      }
+    },
+    {
+      "text": "just in case",
+      "pos": "adv",
+      "meaningEn": "To provide for a possible event as a precaution.",
+      "meaningZh": "规定可能的事件作为预防措施。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just in case"
+      }
+    },
+    {
+      "text": "just now",
+      "pos": "adv",
+      "meaningEn": "Very close to the present moment; just a moment ago.",
+      "meaningZh": "离现在非常近;就在刚才。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just now"
+      }
+    },
+    {
+      "text": "just as well",
+      "pos": "adv",
+      "meaningEn": "Used to say that an occurrence, or situation, is not only fortunate, but that on the contrary, it could have been a lot worse; or that something that might at first seem bad is actually good because it could have been worse.",
+      "meaningZh": "人们常说,发生或情况不仅是幸运的,相反,情况可能更糟;或者说,最初可能看起来不好的东西实际上好,因为它本来可能更糟。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just as well"
+      }
+    },
+    {
+      "text": "just like that",
+      "pos": "adv",
+      "meaningEn": "In that manner.",
+      "meaningZh": "那样。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just like that"
+      }
+    },
+    {
+      "text": "just about",
+      "pos": "adv",
+      "meaningEn": "Approximately, very nearly.",
+      "meaningZh": "大约,非常接近。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just about"
+      }
+    },
+    {
+      "text": "just in time",
+      "pos": "adv",
+      "meaningEn": "At the last possible moment; just before or within the assigned time.",
+      "meaningZh": "在最后可能的时刻;在规定的时间之前或之内。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just in time"
+      }
+    },
+    {
+      "text": "just my luck",
+      "pos": "phrase",
+      "meaningEn": "Expressing exasperation when something particularly unfortunate happens to oneself, especially when it seems like such occurrences are typical.",
+      "meaningZh": "当某些特别不幸的事情发生在自己身上时,特别是当这种事情似乎很典型时,表示愤怒。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "just my luck"
+      }
+    },
+    {
+      "text": "actually",
+      "pos": "adv",
+      "meaningEn": "In act or in fact; really; in truth; positively.",
+      "meaningZh": "事实上；竟然；如今",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "actually"
+      }
+    },
+    {
+      "text": "after",
+      "pos": "adv",
+      "meaningEn": "Behind; later in time; following.",
+      "meaningZh": "在...之后；由于；在...之后",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "after"
+      }
+    },
+    {
+      "text": "again",
+      "pos": "adv",
+      "meaningEn": "Another time: indicating a repeat of an action.",
+      "meaningZh": "再一次；又；到原处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "again"
+      }
+    },
+    {
+      "text": "almost",
+      "pos": "adv",
+      "meaningEn": "Very close to, but not quite.",
+      "meaningZh": "几乎；差不多",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "almost"
+      }
+    },
+    {
+      "text": "already",
+      "pos": "adv",
+      "meaningEn": "Prior to some specified time, either past, present, or future; by this time; previously.",
+      "meaningZh": "已经；早已",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "already"
+      }
+    },
+    {
+      "text": "also",
+      "pos": "adv",
+      "meaningEn": "In addition; besides; as well; further; too.",
+      "meaningZh": "也；并且；同样地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "also"
+      }
+    },
+    {
+      "text": "always",
+      "pos": "adv",
+      "meaningEn": "At all times; throughout all time; since the beginning.",
+      "meaningZh": "总是；始终",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "always"
+      }
+    },
+    {
+      "text": "any",
+      "pos": "adv",
+      "meaningEn": "To even the slightest extent; at all.",
+      "meaningZh": "任何的；任何",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "any"
+      }
+    },
+    {
+      "text": "as",
+      "pos": "adv",
+      "meaningEn": "To such an extent or degree; to the same extent or degree.",
+      "meaningZh": "同样地；例如；做为",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "as"
+      }
+    },
+    {
+      "text": "away",
+      "pos": "adv",
+      "meaningEn": "From a place, hence.",
+      "meaningZh": "离去",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "away"
+      }
+    },
+    {
+      "text": "down",
+      "pos": "adv",
+      "meaningEn": "From a higher position to a lower one; downwards.",
+      "meaningZh": "向下的；下；下去",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "down",
+        "plural": "downs",
+        "ing": "downing",
+        "past": "downed",
+        "s3": "downs",
+        "pp": "downed"
+      }
+    },
+    {
+      "text": "especially",
+      "pos": "adv",
+      "meaningEn": "In a special manner; specially.",
+      "meaningZh": "尤其；特别；格外",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "especially"
+      }
+    },
+    {
+      "text": "finally",
+      "pos": "adv",
+      "meaningEn": "At the end or conclusion; ultimately.",
+      "meaningZh": "最后；终于",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "finally"
+      }
+    },
+    {
+      "text": "here",
+      "pos": "adv",
+      "meaningEn": "In, on, or at this place; compare there.",
+      "meaningZh": "在这里；此时；这里",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "here"
+      }
+    },
+    {
+      "text": "how",
+      "pos": "adv",
+      "meaningEn": "To what degree or extent.",
+      "meaningZh": "如何；怎样；多少",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "how"
+      }
+    },
+    {
+      "text": "however",
+      "pos": "adv",
+      "meaningEn": "Nevertheless; yet, still; in spite of that.",
+      "meaningZh": "然而；无论如何；究竟怎样",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "however"
+      }
+    },
+    {
+      "text": "maybe",
+      "pos": "adv",
+      "meaningEn": "Perhaps, possibly.",
+      "meaningZh": "也许；大概；可能性",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "maybe"
+      }
+    },
+    {
+      "text": "more",
+      "pos": "adv",
+      "meaningEn": "To a greater degree or extent.",
+      "meaningZh": "更多；多的；程度较大的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "more"
+      }
+    },
+    {
+      "text": "most",
+      "pos": "adv",
+      "meaningEn": "Forms the superlative of many adjectives.",
+      "meaningZh": "最多；最大；大多数的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "most"
+      }
+    },
+    {
+      "text": "never",
+      "pos": "adv",
+      "meaningEn": "At no time; on no occasion; in no circumstance.",
+      "meaningZh": "从不；决不；不曾",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "never"
+      }
+    },
+    {
+      "text": "not",
+      "pos": "adv",
+      "meaningEn": "Negates the meaning of the modified verb.",
+      "meaningZh": "不；非；未",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "not"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-16T21:04:42.145332Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
