@@ -1,0 +1,644 @@
+{
+  "schemaVersion": 1,
+  "number": 2723,
+  "guid": "df5bf762-d272-11f1-a94f-677e44598e80",
+  "title": "Puzzling Prepositions Part 1: On or With?",
+  "subtitle": "Finally get better at prepositions",
+  "pubDate": "2026-11-17T06:00:00",
+  "durationSec": 965,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE1573000811.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "in-someone-s-pocket",
+      "text": "in someone's pocket",
+      "display": "in someone's pocket",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "adj",
+      "ipa": null,
+      "tags": [
+        "derogatory",
+        "idiomatic"
+      ],
+      "meaningEn": "Receiving money from, and under the influence of, a person or group of people, with the expectation that a favor or advantage will be proffered in return.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "从某个人或一群人那里接受钱财,并在这些人或一群人的影响下接受钱财,期望以好处或优势换取回报。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 158.58,
+          "end": 160.92,
+          "sentence": "If I'm asking if they have it in their pocket",
+          "sentenceZh": "如果我问他们是不是在口袋里",
+          "sentenceZhSource": "mt",
+          "answer": "in their pocket",
+          "answerStart": 30,
+          "answerEnd": 45,
+          "answerForm": "other"
+        },
+        {
+          "start": 241.82,
+          "end": 245.2,
+          "sentence": "When we're talking about something we could have in our pocket or in a purse,",
+          "sentenceZh": "当我们谈论的东西 我们可以有 在我们的口袋或钱包,",
+          "sentenceZhSource": "mt",
+          "answer": "in our pocket",
+          "answerStart": 49,
+          "answerEnd": 62,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "in someone's pocket"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "credit-card",
+      "text": "credit card",
+      "display": "credit card",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 10,
+      "pos": "noun",
+      "ipa": "/ˈkɹɛdɪt ˌkɑɹd/",
+      "tags": [],
+      "meaningEn": "A plastic card, usually with a magnetic strip or an embedded microchip, connected to a credit account and used to buy goods or services.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "塑料卡,通常带有磁条或嵌入微芯片,与信贷账户相连,用于购买货物或服务。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 690.2,
+          "end": 693.02,
+          "sentence": "I only have my credit card on me and I think this place only takes",
+          "sentenceZh": "我身上只有我的信用卡 我想这个地方只有",
+          "sentenceZhSource": "mt",
+          "answer": "credit card",
+          "answerStart": 15,
+          "answerEnd": 26,
+          "answerForm": "base"
+        },
+        {
+          "start": 745.46,
+          "end": 746.0,
+          "sentence": "credit cards?",
+          "sentenceZh": "信用卡吗?",
+          "sentenceZhSource": "mt",
+          "answer": "credit cards",
+          "answerStart": 0,
+          "answerEnd": 12,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "credit card",
+        "pp": "credited card",
+        "plural": "credits card",
+        "s3": "credits card",
+        "ing": "crediting card",
+        "past": "credited card"
+      },
+      "examples": [
+        "Can you pay by credit card in that store? - Sure, actually I've used my credit card this very morning.",
+        "Finance is seldom romantic. But the idea of peer-to-peer lending comes close. This is an industry that brings together individual savers and lenders on online platforms.[…]Banks and credit-card firms are kept out of the picture. Talk to enough people in the field and someone is bound to mention the “democratisation of finance”."
+      ],
+      "synonyms": [
+        "chargecard"
+      ],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "purse",
+      "text": "purse",
+      "display": "purse",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "noun",
+      "ipa": "/pɜːs/",
+      "tags": [],
+      "meaningEn": "A small bag for carrying money.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "钱包；小钱袋；金钱",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 160.92,
+          "end": 162.74,
+          "sentence": "or in their purse with them right now,",
+          "sentenceZh": "或在他们的钱包 他们与他们在一起,现在,",
+          "sentenceZhSource": "mt",
+          "answer": "purse",
+          "answerStart": 12,
+          "answerEnd": 17,
+          "answerForm": "base"
+        },
+        {
+          "start": 241.82,
+          "end": 245.2,
+          "sentence": "…we're talking about something we could have in our pocket or in a purse,",
+          "sentenceZh": "...我们正在谈论的东西 我们可以有 在我们的口袋或钱包,",
+          "sentenceZhSource": "mt",
+          "answer": "purse",
+          "answerStart": 67,
+          "answerEnd": 72,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "purse",
+        "past": "pursed",
+        "plural": "purses",
+        "pp": "pursed",
+        "ing": "pursing",
+        "s3": "purses"
+      },
+      "examples": [
+        "And then muſt many a man occupie as farre as his purſe would reache, and ſtretche out his legges accordynge to the length of his couerlet."
+      ],
+      "synonyms": [
+        "pocketbook",
+        "coin purse",
+        "change purse"
+      ],
+      "concept": false,
+      "rank": 3
+    }
+  ],
+  "distractors": [
+    {
+      "text": "card file",
+      "pos": "noun",
+      "meaningEn": "A file system using index cards stored in a box or drawer for organizing information alphabetically or systematically.",
+      "meaningZh": "使用存储在方框或抽屉中的索引卡以按字母顺序或系统编排信息的文件系统。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card file",
+        "plural": "cards file",
+        "past": "carded file",
+        "ing": "carding file",
+        "s3": "cards file",
+        "pp": "carded file"
+      }
+    },
+    {
+      "text": "card reader",
+      "pos": "noun",
+      "meaningEn": "A data input device that reads data from a card-shaped storage medium.",
+      "meaningZh": "数据输入设备, 从卡片形状存储介质读取数据 。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card reader",
+        "plural": "cards reader",
+        "past": "carded reader",
+        "ing": "carding reader",
+        "s3": "cards reader",
+        "pp": "carded reader"
+      }
+    },
+    {
+      "text": "card table",
+      "pos": "noun",
+      "meaningEn": "A small table that can be folded away.",
+      "meaningZh": "一张可以折叠的小桌子",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card table",
+        "plural": "cards table",
+        "past": "carded table",
+        "ing": "carding table",
+        "s3": "cards table",
+        "pp": "carded table"
+      }
+    },
+    {
+      "text": "card catalog",
+      "pos": "noun",
+      "meaningEn": "A collection of cards, arranged alphabetically or numerically, listing and describing materials, such as books and periodicals in a library's collections or the stock and equipment of some businesses.",
+      "meaningZh": "按字母顺序或数字排列的一张卡片收藏品,列出和描述各种材料,如图书馆收藏的书籍和期刊,或一些企业的库存和设备。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card catalog",
+        "plural": "cards catalog",
+        "past": "carded catalog",
+        "ing": "carding catalog",
+        "s3": "cards catalog",
+        "pp": "carded catalog"
+      }
+    },
+    {
+      "text": "card game",
+      "pos": "noun",
+      "meaningEn": "Any of the many games played with playing cards.",
+      "meaningZh": "用扑克牌玩过的许多游戏中的任何一个。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card game",
+        "plural": "cards game",
+        "past": "carded game",
+        "ing": "carding game",
+        "s3": "cards game",
+        "pp": "carded game"
+      }
+    },
+    {
+      "text": "card index",
+      "pos": "noun",
+      "meaningEn": "Any index formed with index cards, as was common in many businesses before the microcomputer revolution.",
+      "meaningZh": "以索引卡形成的任何指数,在微电脑革命之前许多企业中都很常见。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card index",
+        "plural": "cards index",
+        "past": "carded index",
+        "ing": "carding index",
+        "s3": "cards index",
+        "pp": "carded index"
+      }
+    },
+    {
+      "text": "card punch",
+      "pos": "noun",
+      "meaningEn": "A machine that punches holes in a punch card",
+      "meaningZh": "一台在拳击卡上打孔的机器",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card punch",
+        "plural": "cards punch",
+        "past": "carded punch",
+        "ing": "carding punch",
+        "s3": "cards punch",
+        "pp": "carded punch"
+      }
+    },
+    {
+      "text": "card tart",
+      "pos": "noun",
+      "meaningEn": "A rate tart.",
+      "meaningZh": "速率低",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card tart",
+        "plural": "cards tart",
+        "past": "carded tart",
+        "ing": "carding tart",
+        "s3": "cards tart",
+        "pp": "carded tart"
+      }
+    },
+    {
+      "text": "card trick",
+      "pos": "noun",
+      "meaningEn": "Any magic trick involving playing cards.",
+      "meaningZh": "任何玩牌的魔术",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "card trick",
+        "plural": "cards trick",
+        "past": "carded trick",
+        "ing": "carding trick",
+        "s3": "cards trick",
+        "pp": "carded trick"
+      }
+    },
+    {
+      "text": "credit balance",
+      "pos": "noun",
+      "meaningEn": "The amount by which credits exceed debits.",
+      "meaningZh": "信贷额超过借方的数额。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit balance",
+        "pp": "credited balance",
+        "plural": "credits balance",
+        "s3": "credits balance",
+        "ing": "crediting balance",
+        "past": "credited balance"
+      }
+    },
+    {
+      "text": "credit card slot",
+      "pos": "noun",
+      "meaningEn": "A slot in a card reader in which a credit or debit card is inserted or swiped.",
+      "meaningZh": "在读卡器中插入或偷取信用卡或借记卡的空位。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit card slot",
+        "pp": "credited card slot",
+        "plural": "credits card slot",
+        "s3": "credits card slot",
+        "ing": "crediting card slot",
+        "past": "credited card slot"
+      }
+    },
+    {
+      "text": "credit line",
+      "pos": "noun",
+      "meaningEn": "A line of printed text attached to written material, an image, illustration, or the like, which identifies the author, photographer, or other source.",
+      "meaningZh": "书面材料、图象、插图或类似材料所附一行印刷文本,标明作者、摄影师或其他来源。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit line",
+        "pp": "credited line",
+        "plural": "credits line",
+        "s3": "credits line",
+        "ing": "crediting line",
+        "past": "credited line"
+      }
+    },
+    {
+      "text": "credit account",
+      "pos": "noun",
+      "meaningEn": "A type of credit facility provided by a bank or store, to which goods and services purchased can be charged, allowing the customer to defer payment until a later date.",
+      "meaningZh": "银行或商店提供一种信贷便利,可以收取购买货物和服务的费用,使客户能够推迟付款。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit account",
+        "pp": "credited account",
+        "plural": "credits account",
+        "s3": "credits account",
+        "ing": "crediting account",
+        "past": "credited account"
+      }
+    },
+    {
+      "text": "credit bureau",
+      "pos": "noun",
+      "meaningEn": "data collection agency that gathers account information from various creditors and provides that information to responsible agencies",
+      "meaningZh": "收集不同债权人账户信息并向负责机构提供此种信息的数据收集机构",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit bureau",
+        "pp": "credited bureau",
+        "plural": "credits bureau",
+        "s3": "credits bureau",
+        "ing": "crediting bureau",
+        "past": "credited bureau"
+      }
+    },
+    {
+      "text": "credit crunch",
+      "pos": "noun",
+      "meaningEn": "A period of economic crisis in which credit and investment capital are difficult to obtain.",
+      "meaningZh": "一个难以获得信贷和投资资本的经济危机时期。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit crunch",
+        "pp": "credited crunch",
+        "plural": "credits crunch",
+        "s3": "credits crunch",
+        "ing": "crediting crunch",
+        "past": "credited crunch"
+      }
+    },
+    {
+      "text": "credit facility",
+      "pos": "noun",
+      "meaningEn": "A financial agreement under which a creditor agrees to make an amount of credit available to a borrower, which may be borrowed on demand or once certain conditions have been met.",
+      "meaningZh": "一项金融协议,根据该协议,债权人同意向借款人提供一定数量的信贷,贷款可按要求或满足某些条件后借出。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit facility",
+        "pp": "credited facility",
+        "plural": "credits facility",
+        "s3": "credits facility",
+        "ing": "crediting facility",
+        "past": "credited facility"
+      }
+    },
+    {
+      "text": "credit hour",
+      "pos": "noun",
+      "meaningEn": "A course credit based on the number of contact hours per week in class, for one given term or semester.",
+      "meaningZh": "课程学分,根据班级中某一学期或学期每周接触时数计算。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit hour",
+        "pp": "credited hour",
+        "plural": "credits hour",
+        "s3": "credits hour",
+        "ing": "crediting hour",
+        "past": "credited hour"
+      }
+    },
+    {
+      "text": "credit institution",
+      "pos": "noun",
+      "meaningEn": "the enterprise whose primary activity is banking and credit provision",
+      "meaningZh": "主要活动是提供银行和信贷的企业",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit institution",
+        "pp": "credited institution",
+        "plural": "credits institution",
+        "s3": "credits institution",
+        "ing": "crediting institution",
+        "past": "credited institution"
+      }
+    },
+    {
+      "text": "credit life insurance",
+      "pos": "noun",
+      "meaningEn": "A type of credit insurance sold by a lender to pay off an outstanding loan balance if the borrower dies.",
+      "meaningZh": "一种信贷保险,由放款人出售,以偿付借款人死亡时的未偿贷款余额。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit life insurance",
+        "pp": "credited life insurance",
+        "plural": "credits life insurance",
+        "s3": "credits life insurance",
+        "ing": "crediting life insurance",
+        "past": "credited life insurance"
+      }
+    },
+    {
+      "text": "credit limit",
+      "pos": "noun",
+      "meaningEn": "The maximum amount of credit that a financial institution or other lender will extend to a debtor for a particular line of credit.",
+      "meaningZh": "金融机构或其他放款人为某一特定信贷额度向债务人提供的最高信贷额。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit limit",
+        "pp": "credited limit",
+        "plural": "credits limit",
+        "s3": "credits limit",
+        "ing": "crediting limit",
+        "past": "credited limit"
+      }
+    },
+    {
+      "text": "credit management",
+      "pos": "noun",
+      "meaningEn": "The process of granting credit, setting the terms on which it is granted, recovering this credit when it is due, and ensuring compliance with company credit policy.",
+      "meaningZh": "发放信贷的程序、确定发放信贷的条件、收回到期的信贷以及确保遵守公司信贷政策。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit management",
+        "pp": "credited management",
+        "plural": "credits management",
+        "s3": "credits management",
+        "ing": "crediting management",
+        "past": "credited management"
+      }
+    },
+    {
+      "text": "credit manager",
+      "pos": "noun",
+      "meaningEn": "A person employed by an organization to manage the credit department and make decisions concerning credit limits, acceptable levels of risk, terms of payment and enforcement actions with their customers.",
+      "meaningZh": "一个组织雇用的人负责管理信贷部门,并就信贷限额、可接受的风险水平、付款条件和与其客户的执法行动作出决定。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "credit manager",
+        "pp": "credited manager",
+        "plural": "credits manager",
+        "s3": "credits manager",
+        "ing": "crediting manager",
+        "past": "credited manager"
+      }
+    },
+    {
+      "text": "pocket dial",
+      "pos": "noun",
+      "meaningEn": "A situation in which one's cellphone makes a call from one's pocket when its buttons are inadvertently pressed.",
+      "meaningZh": "一个人的手机被无意中按下按钮时 从口袋里打来电话的情况。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket dial",
+        "plural": "pockets dial",
+        "ing": "pocketing dial",
+        "past": "pocketed dial",
+        "s3": "pockets dial",
+        "pp": "pocketed dial"
+      }
+    },
+    {
+      "text": "pocket change",
+      "pos": "noun",
+      "meaningEn": "Coins of little value kept in one's pocket or bag, ready for small purchases.",
+      "meaningZh": "装在口袋或袋里价值微乎其微的硬币 准备小量购买",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket change",
+        "plural": "pockets change",
+        "ing": "pocketing change",
+        "past": "pocketed change",
+        "s3": "pockets change",
+        "pp": "pocketed change"
+      }
+    },
+    {
+      "text": "pocket money",
+      "pos": "noun",
+      "meaningEn": "A small sum of money given to a child, by a parent or guardian; an allowance",
+      "meaningZh": "父母或监护人给孩子的一小笔小笔钱;",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket money",
+        "plural": "pockets money",
+        "ing": "pocketing money",
+        "past": "pocketed money",
+        "s3": "pockets money",
+        "pp": "pocketed money"
+      }
+    },
+    {
+      "text": "pocket mouse",
+      "pos": "noun",
+      "meaningEn": "Perognathus species",
+      "meaningZh": "白腺动物物种",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket mouse",
+        "plural": "pockets mouse",
+        "ing": "pocketing mouse",
+        "past": "pocketed mouse",
+        "s3": "pockets mouse",
+        "pp": "pocketed mouse"
+      }
+    },
+    {
+      "text": "pocket piece",
+      "pos": "noun",
+      "meaningEn": "Something carried in the pocket for good luck, especially a coin.",
+      "meaningZh": "一些东西在口袋里带 好运,特别是一枚硬币。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket piece",
+        "plural": "pockets piece",
+        "ing": "pocketing piece",
+        "past": "pocketed piece",
+        "s3": "pockets piece",
+        "pp": "pocketed piece"
+      }
+    },
+    {
+      "text": "pocket protector",
+      "pos": "noun",
+      "meaningEn": "A sheath, usually of plastic, designed to fit in a shirt pocket and hold pens and other small implements, preventing them from tearing or staining the shirt.",
+      "meaningZh": "通常用塑料制成的包件,用于装在衬衣口袋中,持有笔和其他小工具,防止它们撕破或染上衬衣。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket protector",
+        "plural": "pockets protector",
+        "ing": "pocketing protector",
+        "past": "pocketed protector",
+        "s3": "pockets protector",
+        "pp": "pocketed protector"
+      }
+    },
+    {
+      "text": "pocket veto",
+      "pos": "noun",
+      "meaningEn": "Any similar process by which an executive prevents a bill from becoming law by failing to sign it, but without expressly vetoing it.",
+      "meaningZh": "任何类似的程序,如果行政部门不签署法案,但没有明确否决法案,从而阻止法案成为法律。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket veto",
+        "plural": "pockets veto",
+        "ing": "pocketing veto",
+        "past": "pocketed veto",
+        "s3": "pockets veto",
+        "pp": "pocketed veto"
+      }
+    },
+    {
+      "text": "pocket battleship",
+      "pos": "noun",
+      "meaningEn": "Any of a class of German cruisers, having guns normally found on a battleship, operated during World War II; a battlecruiser.",
+      "meaningZh": "任何一类德国巡洋舰 通常在二战期间的战舰上 发现枪械 作战坦克",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "pocket battleship",
+        "plural": "pockets battleship",
+        "ing": "pocketing battleship",
+        "past": "pocketed battleship",
+        "s3": "pockets battleship",
+        "pp": "pocketed battleship"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-17T19:53:22.277204Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
