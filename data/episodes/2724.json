@@ -1,0 +1,795 @@
+{
+  "schemaVersion": 1,
+  "number": 2724,
+  "guid": "aacbdd90-d273-11f1-a59a-936273d70622",
+  "title": "Don’t Crash Out Over English Slang",
+  "subtitle": "Learn some new and modern English slang",
+  "pubDate": "2026-11-18T06:00:00",
+  "durationSec": 1057,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE2378645383.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "crash-out",
+      "text": "crash out",
+      "display": "crash out",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 37,
+      "pos": "noun",
+      "ipa": null,
+      "tags": [],
+      "meaningEn": "A reckless individual, often with nothing to lose; a person prone to crashing out.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "鲁莽的人,往往无损无损;容易崩溃的人。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 164.26,
+          "end": 166.5,
+          "sentence": "this fun new slang to crash out,",
+          "sentenceZh": "这个有趣的新语 崩溃了,",
+          "sentenceZhSource": "mt",
+          "answer": "crash out",
+          "answerStart": 22,
+          "answerEnd": 31,
+          "answerForm": "base"
+        },
+        {
+          "start": 172.92,
+          "end": 174.52,
+          "sentence": "if you see someone crash out in public,",
+          "sentenceZh": "如果你看到有人在公共场合坠机",
+          "sentenceZhSource": "mt",
+          "answer": "crash out",
+          "answerStart": 19,
+          "answerEnd": 28,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "crash out",
+        "past": "crashed out",
+        "ing": "crashing out",
+        "pp": "crashed out",
+        "plural": "crashes out",
+        "s3": "crashes out"
+      },
+      "examples": [
+        "The combination of excessive social media, lack of sleep, and unhealthy caffeine use creates plenty of crash outs.",
+        "Niggas really be crash outs wit no motion biggest life asset be a pistol that shit crazy"
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "lose-it",
+      "text": "lose it",
+      "display": "lose it",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "informal"
+      ],
+      "meaningEn": "To become explosively angry; to lose one's temper.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "发爆炸性愤怒 发脾气",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 334.28,
+          "end": 335.68,
+          "sentence": "Well, you could say to lose it, right?",
+          "sentenceZh": "好吧,你可以说 失去它,对不对?",
+          "sentenceZhSource": "mt",
+          "answer": "lose it",
+          "answerStart": 23,
+          "answerEnd": 30,
+          "answerForm": "base"
+        },
+        {
+          "start": 339.08,
+          "end": 341.16,
+          "sentence": "I almost lost it when my friend canceled on me",
+          "sentenceZh": "我差点失去它 当我朋友取消了我",
+          "sentenceZhSource": "mt",
+          "answer": "lost it",
+          "answerStart": 9,
+          "answerEnd": 16,
+          "answerForm": "pp"
+        }
+      ],
+      "inflections": {
+        "base": "lose it",
+        "pp": "lost it",
+        "past": "lost it",
+        "ing": "losing it",
+        "s3": "loses it"
+      },
+      "examples": [
+        "When my dad found out I had failed the exams, he just lost it."
+      ],
+      "synonyms": [
+        "blow one's top",
+        "crash out",
+        "flip out",
+        "flip shit",
+        "go ape",
+        "go apeshit"
+      ],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "be-someone-s-to-lose",
+      "text": "be someone's to lose",
+      "display": "be someone's to lose",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 20,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To be anticipated to be won by someone.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "期待被某人赢",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 359.34,
+          "end": 361.0,
+          "sentence": "I felt like I was going to lose it.",
+          "sentenceZh": "我觉得我快要失去它了",
+          "sentenceZhSource": "mt",
+          "answer": "was going to lose",
+          "answerStart": 14,
+          "answerEnd": 31,
+          "answerForm": "other"
+        },
+        {
+          "start": 377.8,
+          "end": 379.28,
+          "sentence": "I think it's really similar to lose it, right?",
+          "sentenceZh": "我觉得失去它真的很相似,对吧?",
+          "sentenceZhSource": "mt",
+          "answer": "'s really similar to lose",
+          "answerStart": 10,
+          "answerEnd": 35,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "be someone's to lose",
+        "past": "was someone's to lose",
+        "s3": "is someone's to lose",
+        "pp": "been someone's to lose",
+        "ing": "being someone's to lose"
+      },
+      "examples": [
+        "Widely considered the favorite, the election is his to lose, but an upset is still possible if a scandal emerges.",
+        "The debate continues around England's goalkeeping position with Everton's Jordan Pickford out injured but he has been Southgate's favoured keeper for some time so it still seems to be his position to lose if he is fit."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "freak-out",
+      "text": "freak out",
+      "display": "freak out",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 13,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "informal",
+        "intransitive"
+      ],
+      "meaningEn": "To react with extreme anger or fear, to the extent that one loses one's composure or behaves irrationally.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "以极端的愤怒或恐惧作出反应,以致失去冷静或不理性的行为。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "(使)极度兴奋；焦虑不安",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 374.0,
+          "end": 374.7,
+          "sentence": "What about freak out?",
+          "sentenceZh": "吓坏了吗?",
+          "sentenceZhSource": "mt",
+          "answer": "freak out",
+          "answerStart": 11,
+          "answerEnd": 20,
+          "answerForm": "base"
+        },
+        {
+          "start": 379.78,
+          "end": 380.66,
+          "sentence": "Don't freak out.",
+          "sentenceZh": "别发疯",
+          "sentenceZhSource": "mt",
+          "answer": "freak out",
+          "answerStart": 6,
+          "answerEnd": 15,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "freak out",
+        "plural": "freaks out",
+        "ing": "freaking out",
+        "past": "freaked out",
+        "s3": "freaks out",
+        "pp": "freaked out"
+      },
+      "examples": [
+        "When Peter saw the nail poking up through his foot, he freaked out and started hyperventilating.",
+        "Jimmy'll come in off the road, you won't be there, he'll freak out and call you a hundred thousand times..."
+      ],
+      "synonyms": [
+        "set one's hair on fire",
+        "flip out",
+        "flip shit",
+        "flip one's shit"
+      ],
+      "concept": false,
+      "rank": 4
+    },
+    {
+      "id": "get-oneself-together",
+      "text": "get oneself together",
+      "display": "get oneself together",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 11,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "To dress and prepare oneself for an event",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "打扮和准备参加活动",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 620.18,
+          "end": 622.14,
+          "sentence": "I'm seriously gonna lose it if they get back together.",
+          "sentenceZh": "如果他们再在一起,我一定会失去它",
+          "sentenceZhSource": "mt",
+          "answer": "get back together",
+          "answerStart": 36,
+          "answerEnd": 53,
+          "answerForm": "other"
+        },
+        {
+          "start": 755.14,
+          "end": 756.52,
+          "sentence": "if they get back together.",
+          "sentenceZh": "如果他们重新在一起。",
+          "sentenceZhSource": "mt",
+          "answer": "get back together",
+          "answerStart": 8,
+          "answerEnd": 25,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "get oneself together",
+        "pp": "got oneself together",
+        "past": "got oneself together",
+        "ing": "getting oneself together",
+        "s3": "gets oneself together"
+      },
+      "examples": [
+        "I need to get myself together before we leave."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 5
+    },
+    {
+      "id": "meltdown",
+      "text": "meltdown",
+      "display": "meltdown",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "noun",
+      "ipa": "/ˈmɛltdaʊn/",
+      "tags": [],
+      "meaningEn": "An act or process of melting.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "熔化的行为或过程。",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 50.87,
+          "end": 53.05,
+          "sentence": "Have you ever witnessed someone having a meltdown?",
+          "sentenceZh": "你见过有人崩溃吗?",
+          "sentenceZhSource": "mt",
+          "answer": "meltdown",
+          "answerStart": 41,
+          "answerEnd": 49,
+          "answerForm": "base"
+        },
+        {
+          "start": 120.58,
+          "end": 122.92,
+          "sentence": "Aubrey, have you ever seen someone have a meltdown in public?",
+          "sentenceZh": "奥布里,你有没有见过 有人在公共场合崩溃?",
+          "sentenceZhSource": "mt",
+          "answer": "meltdown",
+          "answerStart": 42,
+          "answerEnd": 50,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "meltdown"
+      },
+      "examples": [],
+      "synonyms": [],
+      "concept": false,
+      "rank": 6
+    }
+  ],
+  "distractors": [
+    {
+      "text": "crash dive",
+      "pos": "noun",
+      "meaningEn": "An emergency maneuver by a submarine in which it suddenly descends, especially to considerable depth, usually in order to escape an attack or avoid a collision.",
+      "meaningZh": "潜艇的紧急演习,突然沉降,特别是沉入相当深的深度,通常是为了躲避攻击或避免碰撞。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash dive",
+        "past": "crashed dive",
+        "ing": "crashing dive",
+        "pp": "crashed dive",
+        "plural": "crashes dive",
+        "s3": "crashes dive"
+      }
+    },
+    {
+      "text": "crash pad",
+      "pos": "noun",
+      "meaningEn": "Any place used for temporary lodging, especially without payment or permission.",
+      "meaningZh": "任何用于临时住宿的地方,特别是没有付款或许可的地方。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash pad",
+        "past": "crashed pad",
+        "ing": "crashing pad",
+        "pp": "crashed pad",
+        "plural": "crashes pad",
+        "s3": "crashes pad"
+      }
+    },
+    {
+      "text": "crash and burn",
+      "pos": "verb",
+      "meaningEn": "To fail utterly.",
+      "meaningZh": "完全失败。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash and burn",
+        "past": "crashed and burn",
+        "ing": "crashing and burn",
+        "pp": "crashed and burn",
+        "plural": "crashes and burn",
+        "s3": "crashes and burn"
+      }
+    },
+    {
+      "text": "crash in",
+      "pos": "verb",
+      "meaningEn": "To appear uninvited at a party or other event.",
+      "meaningZh": "未经邀请出席某一缔约方或其他活动。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash in",
+        "past": "crashed in",
+        "ing": "crashing in",
+        "pp": "crashed in",
+        "plural": "crashes in",
+        "s3": "crashes in"
+      }
+    },
+    {
+      "text": "crash test",
+      "pos": "noun",
+      "meaningEn": "A test of crashworthiness, usually involving the controlled crashing of a vehicle with dummies in place of human passengers.",
+      "meaningZh": "失事性测试,通常涉及用假名代替乘客的车辆有控制地坠毁。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash test",
+        "past": "crashed test",
+        "ing": "crashing test",
+        "pp": "crashed test",
+        "plural": "crashes test",
+        "s3": "crashes test"
+      }
+    },
+    {
+      "text": "crash to desktop",
+      "pos": "noun",
+      "meaningEn": "An event where a software program running on a computer with an operating system that features a graphical desktop unexpectedly terminates without showing any error or halting of the system, and instead returns the user to the desktop.",
+      "meaningZh": "一个在操作系统计算机上运行的软件程序意外终止而没有显示系统的任何错误或停止,而是将用户返回到桌面。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash to desktop",
+        "past": "crashed to desktop",
+        "ing": "crashing to desktop",
+        "pp": "crashed to desktop",
+        "plural": "crashes to desktop",
+        "s3": "crashes to desktop"
+      }
+    },
+    {
+      "text": "crash barrier",
+      "pos": "noun",
+      "meaningEn": "A strengthened barrier installed on the sides of a road to keep vehicles on the carriageway and reduce the risk and/or impact of crashes.",
+      "meaningZh": "在公路两侧设置强化障碍,使车辆停在车道上,减少撞车的风险和/或影响。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash barrier",
+        "past": "crashed barrier",
+        "ing": "crashing barrier",
+        "pp": "crashed barrier",
+        "plural": "crashes barrier",
+        "s3": "crashes barrier"
+      }
+    },
+    {
+      "text": "crash boat",
+      "pos": "noun",
+      "meaningEn": "A wooden speedboat used to rescue the crew of downed aircraft, chiefly in World War Two.",
+      "meaningZh": "一艘木制快艇 用来营救被击沉的飞机的机组人员 主要是二战时",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash boat",
+        "past": "crashed boat",
+        "ing": "crashing boat",
+        "pp": "crashed boat",
+        "plural": "crashes boat",
+        "s3": "crashes boat"
+      }
+    },
+    {
+      "text": "crash cart",
+      "pos": "noun",
+      "meaningEn": "A portable set of trays, drawers and shelves containing equipment and medication used in a medical emergency",
+      "meaningZh": "一套便携式托盘、抽屉和货架,装有医疗紧急情况下使用的设备和药品",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash cart",
+        "past": "crashed cart",
+        "ing": "crashing cart",
+        "pp": "crashed cart",
+        "plural": "crashes cart",
+        "s3": "crashes cart"
+      }
+    },
+    {
+      "text": "crash course",
+      "pos": "noun",
+      "meaningEn": "A quick, intense course of learning, especially one which is informal or hurried.",
+      "meaningZh": "快速、密集的学习,特别是非正式或匆忙的学习。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash course",
+        "past": "crashed course",
+        "ing": "crashing course",
+        "pp": "crashed course",
+        "plural": "crashes course",
+        "s3": "crashes course"
+      }
+    },
+    {
+      "text": "crash diet",
+      "pos": "noun",
+      "meaningEn": "A diet that is extreme in its nutritional deprivations, typically severely restricting calorie intake in order to achieve rapid weight loss.",
+      "meaningZh": "饮食是营养匮乏的极端,通常严重限制卡路里摄入量,以便迅速减肥。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash diet",
+        "past": "crashed diet",
+        "ing": "crashing diet",
+        "pp": "crashed diet",
+        "plural": "crashes diet",
+        "s3": "crashes diet"
+      }
+    },
+    {
+      "text": "crash gearbox",
+      "pos": "noun",
+      "meaningEn": "A transmission with a sliding mesh, used in older vehicles; gear changes are often accompanied by loud noises.",
+      "meaningZh": "用滑动网格传送,用于老旧车辆;换换换换换换换换换换换换,往往响起噪音。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "crash gearbox",
+        "past": "crashed gearbox",
+        "ing": "crashing gearbox",
+        "pp": "crashed gearbox",
+        "plural": "crashes gearbox",
+        "s3": "crashes gearbox"
+      }
+    },
+    {
+      "text": "freak show",
+      "pos": "noun",
+      "meaningEn": "An intentionally shocking exhibition of people with unusual characteristics, and which may include people who are gigantic, dwarfish, intersex, physically deformed or who have other extraordinary diseases, conditions and talents.",
+      "meaningZh": "故意令人震惊地展示具有不寻常特征的人,其中可能包括巨型、矮人、双性、身体畸形或患有其他特殊疾病、条件和才能的人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "freak show",
+        "plural": "freaks show",
+        "ing": "freaking show",
+        "past": "freaked show",
+        "s3": "freaks show",
+        "pp": "freaked show"
+      }
+    },
+    {
+      "text": "freak accident",
+      "pos": "noun",
+      "meaningEn": "An incident, especially one that is harmful, occurring under highly unusual and unlikely circumstances.",
+      "meaningZh": "在非常不寻常和不可能发生的情况下发生的事件,特别是有害事件。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "freak accident",
+        "plural": "freaks accident",
+        "ing": "freaking accident",
+        "past": "freaked accident",
+        "s3": "freaks accident",
+        "pp": "freaked accident"
+      }
+    },
+    {
+      "text": "freak flag",
+      "pos": "noun",
+      "meaningEn": "Unconventional or unrestrained behavior; extreme, nonconformist views; the side of one's personality which harbors a tendency toward such behavior or such views.",
+      "meaningZh": "非常规或不受限制的行为;极端的、不符合同的观点;个人人格的一面,隐藏着对这种行为或这种观点的倾向。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "freak flag",
+        "plural": "freaks flag",
+        "ing": "freaking flag",
+        "past": "freaked flag",
+        "s3": "freaks flag",
+        "pp": "freaked flag"
+      }
+    },
+    {
+      "text": "lose the plot",
+      "pos": "verb",
+      "meaningEn": "To cease to behave in a consistent or rational manner.",
+      "meaningZh": "停止一贯或理性地行事。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose the plot",
+        "pp": "lost the plot",
+        "past": "lost the plot",
+        "ing": "losing the plot",
+        "s3": "loses the plot"
+      }
+    },
+    {
+      "text": "lose time",
+      "pos": "verb",
+      "meaningEn": "To run slow and not keep accurate time.",
+      "meaningZh": "慢跑,不保持准确的时间。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose time",
+        "pp": "lost time",
+        "past": "lost time",
+        "ing": "losing time",
+        "s3": "loses time"
+      }
+    },
+    {
+      "text": "lose caste",
+      "pos": "verb",
+      "meaningEn": "To lose one's status as a member of one's caste of birth.",
+      "meaningZh": "失去自己出生种姓成员的身份",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose caste",
+        "pp": "lost caste",
+        "past": "lost caste",
+        "ing": "losing caste",
+        "s3": "loses caste"
+      }
+    },
+    {
+      "text": "lose one's bottle",
+      "pos": "verb",
+      "meaningEn": "To lose courage and determination.",
+      "meaningZh": "失去勇气和决心。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose one's bottle",
+        "pp": "lost one's bottle",
+        "past": "lost one's bottle",
+        "ing": "losing one's bottle",
+        "s3": "loses one's bottle"
+      }
+    },
+    {
+      "text": "lose one's heart",
+      "pos": "verb",
+      "meaningEn": "To lose one's zeal or enthusiasm for something.",
+      "meaningZh": "失去一个人的热情 或热情的东西。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose one's heart",
+        "pp": "lost one's heart",
+        "past": "lost one's heart",
+        "ing": "losing one's heart",
+        "s3": "loses one's heart"
+      }
+    },
+    {
+      "text": "lose one's way",
+      "pos": "verb",
+      "meaningEn": "To become lost; to lose one's bearings, or idea of where one is.",
+      "meaningZh": "失去方向 失去方向 或知道方向",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose one's way",
+        "pp": "lost one's way",
+        "past": "lost one's way",
+        "ing": "losing one's way",
+        "s3": "loses one's way"
+      }
+    },
+    {
+      "text": "lose out",
+      "pos": "verb",
+      "meaningEn": "To be at a disadvantage.",
+      "meaningZh": "錯過 /错过",
+      "meaningZhSource": "kaikki",
+      "inflections": {
+        "base": "lose out",
+        "pp": "lost out",
+        "past": "lost out",
+        "ing": "losing out",
+        "s3": "loses out"
+      }
+    },
+    {
+      "text": "lose sight of",
+      "pos": "verb",
+      "meaningEn": "To fail to remember; to overlook or neglect.",
+      "meaningZh": "不记住;忽视或忽视。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose sight of",
+        "pp": "lost sight of",
+        "past": "lost sight of",
+        "ing": "losing sight of",
+        "s3": "loses sight of"
+      }
+    },
+    {
+      "text": "lose touch",
+      "pos": "verb",
+      "meaningEn": "To lose contact.",
+      "meaningZh": "失去联系",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose touch",
+        "pp": "lost touch",
+        "past": "lost touch",
+        "ing": "losing touch",
+        "s3": "loses touch"
+      }
+    },
+    {
+      "text": "lose control",
+      "pos": "verb",
+      "meaningEn": "To become unable to control one's emotions or actions; to abandon rationality or reason.",
+      "meaningZh": "无法控制自己的情绪或行动;放弃理性或理性。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose control",
+        "pp": "lost control",
+        "past": "lost control",
+        "ing": "losing control",
+        "s3": "loses control"
+      }
+    },
+    {
+      "text": "lose count",
+      "pos": "verb",
+      "meaningEn": "To forget the number of times that something has happened; to lose the tally.",
+      "meaningZh": "忘记发生事情的次数;失去计数。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "lose count",
+        "pp": "lost count",
+        "past": "lost count",
+        "ing": "losing count",
+        "s3": "loses count"
+      }
+    },
+    {
+      "text": "aberration",
+      "pos": "noun",
+      "meaningEn": "The act of wandering; deviation from truth, moral rectitude; abnormal; divergence from the straight, correct, proper, normal, or from the natural state.",
+      "meaningZh": "离开正路；偏离；畸变",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aberration",
+        "plural": "aberrations"
+      }
+    },
+    {
+      "text": "ability",
+      "pos": "noun",
+      "meaningEn": "The quality or state of being able; capacity to do or of doing something; having the necessary power.",
+      "meaningZh": "能力；才干",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ability",
+        "plural": "abilities"
+      }
+    },
+    {
+      "text": "abort",
+      "pos": "noun",
+      "meaningEn": "An early termination of a mission, action, or procedure in relation to missiles or spacecraft; the craft making such a mission.",
+      "meaningZh": "流产；中途失败；使流产",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "abort",
+        "pp": "aborted",
+        "past": "aborted",
+        "ing": "aborting",
+        "s3": "aborts"
+      }
+    },
+    {
+      "text": "abrupt",
+      "pos": "noun",
+      "meaningEn": "Something which is abrupt; an abyss.",
+      "meaningZh": "突然的；唐突的；陡峭的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "abrupt"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-18T19:43:44.866036Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
