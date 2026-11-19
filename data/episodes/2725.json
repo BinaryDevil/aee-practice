@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "number": 2725,
+  "guid": "79db8fcc-d274-11f1-96ec-931cfdec9aef",
+  "title": "Kiss Your Sarcasm Struggles Goodbye!",
+  "subtitle": "Learn how to use sarcasm in English",
+  "pubDate": "2026-11-19T06:00:00",
+  "durationSec": 1290,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE5072602419.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/fluencyscore",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "recipe-for-disaster",
+      "text": "recipe for disaster",
+      "display": "recipe for disaster",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "noun",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "A plan that sounds as though it will end disastrously.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "计划听起来似乎会 灾难性地结束。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 1076.41,
+          "end": 1078.69,
+          "sentence": "Yeah, it's almost like we took recipe for disaster",
+          "sentenceZh": "是啊,这几乎就像我们采取 灾难的食谱",
+          "sentenceZhSource": "mt",
+          "answer": "recipe for disaster",
+          "answerStart": 31,
+          "answerEnd": 50,
+          "answerForm": "base"
+        },
+        {
+          "start": 1062.67,
+          "end": 1066.89,
+          "sentence": "We might say that sounds like a recipe for disaster and it means",
+          "sentenceZh": "我们可以说这听起来像是灾难的秘方 意思是",
+          "sentenceZhSource": "mt",
+          "answer": "recipe for disaster",
+          "answerStart": 32,
+          "answerEnd": 51,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "recipe for disaster",
+        "plural": "recipes for disaster"
+      },
+      "examples": [
+        "You and Larry living together sounds like a recipe for disaster."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "sarcastic",
+      "text": "sarcastic",
+      "display": "sarcastic",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "adj",
+      "ipa": "/sɑːˈkæs.tɪk/",
+      "tags": [],
+      "meaningEn": "Containing sarcasm.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "讽刺的；讥讽的",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 184.78,
+          "end": 190.72,
+          "sentence": "…but also about varying your tone to make it clear that you're being sarcastic, right?",
+          "sentenceZh": "而且还要改变你的语气 来表明你在讽刺 对吧?",
+          "sentenceZhSource": "mt",
+          "answer": "sarcastic",
+          "answerStart": 69,
+          "answerEnd": 78,
+          "answerForm": "base"
+        },
+        {
+          "start": 241.68,
+          "end": 246.36,
+          "sentence": "And I got a question about the sarcastic jokes in daily communication.",
+          "sentenceZh": "我有一个问题 关于每日交流中的讽刺笑话。",
+          "sentenceZhSource": "mt",
+          "answer": "sarcastic",
+          "answerStart": 31,
+          "answerEnd": 40,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "sarcastic"
+      },
+      "examples": [
+        "a sarcastic quip",
+        "the teacher's sarcastic tone"
+      ],
+      "synonyms": [
+        "cynical",
+        "sarky",
+        "snarky"
+      ],
+      "concept": false,
+      "rank": 2
+    }
+  ],
+  "distractors": [
+    {
+      "text": "disaster area",
+      "pos": "noun",
+      "meaningEn": "An area that has been the site of a natural disaster that receives an official designation entitling residents and organizations within that area to receive relief and benefits.",
+      "meaningZh": "该地区是自然灾害发生地,收到正式指定,使该地区居民和组织有权获得救济和福利。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "disaster area",
+        "plural": "disasters area"
+      }
+    },
+    {
+      "text": "absence",
+      "pos": "noun",
+      "meaningEn": "A state of being away or withdrawn from a place or from companionship",
+      "meaningZh": "缺席；缺乏；没有",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "absence",
+        "plural": "absences"
+      }
+    },
+    {
+      "text": "absentee",
+      "pos": "noun",
+      "meaningEn": "A person who is absent from his or her employment, school, post, duty, etc.",
+      "meaningZh": "缺席者；不在者",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "absentee",
+        "plural": "absentees"
+      }
+    },
+    {
+      "text": "accomplice",
+      "pos": "noun",
+      "meaningEn": "An associate in the commission of a crime; a participator in an offense, whether a principal or an accessory.",
+      "meaningZh": "共犯；同谋",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accomplice",
+        "plural": "accomplices"
+      }
+    },
+    {
+      "text": "accurate",
+      "pos": "adj",
+      "meaningEn": "Telling the truth or giving a true result; exact; not defective or faulty.",
+      "meaningZh": "正确的；精确的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accurate"
+      }
+    },
+    {
+      "text": "accuser",
+      "pos": "noun",
+      "meaningEn": "One who accuses; one who brings a charge of crime or fault.",
+      "meaningZh": "控诉者；指责者",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accuser",
+        "plural": "accusers"
+      }
+    },
+    {
+      "text": "ace",
+      "pos": "noun",
+      "meaningEn": "A playing card showing a single pip, typically the highest or lowest ranking card in a game.",
+      "meaningZh": "幺点；好手；少许",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ace",
+        "plural": "aces",
+        "ing": "acing",
+        "past": "aced",
+        "s3": "aces",
+        "pp": "aced"
+      }
+    },
+    {
+      "text": "achievement",
+      "pos": "noun",
+      "meaningEn": "The act of achieving or performing; a successful performance; accomplishment.",
+      "meaningZh": "完成；成就；功业",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "achievement",
+        "plural": "achievements"
+      }
+    },
+    {
+      "text": "acknowledgement",
+      "pos": "noun",
+      "meaningEn": "The act of acknowledging",
+      "meaningZh": "承认；确认；感谢",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "acknowledgement",
+        "plural": "acknowledgements"
+      }
+    },
+    {
+      "text": "acreage",
+      "pos": "noun",
+      "meaningEn": "Size, as measured in acres.",
+      "meaningZh": "英亩数；土地面积",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "acreage",
+        "plural": "acreages"
+      }
+    },
+    {
+      "text": "acronym",
+      "pos": "noun",
+      "meaningEn": "Generally such abbreviations, including those pronounced as individual letters.",
+      "meaningZh": "首字母缩拼词；首字母组合词",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "acronym",
+        "plural": "acronyms",
+        "past": "acronymed"
+      }
+    },
+    {
+      "text": "acrylic",
+      "pos": "adj",
+      "meaningEn": "Derived from acrylic acid or acrylonitrile.",
+      "meaningZh": "丙烯酸的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "acrylic",
+        "plural": "acrylics"
+      }
+    },
+    {
+      "text": "activation",
+      "pos": "noun",
+      "meaningEn": "Making active and effective; bringing into a state of activity.",
+      "meaningZh": "活化；激活",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "activation"
+      }
+    },
+    {
+      "text": "activist",
+      "pos": "noun",
+      "meaningEn": "One who is politically active in the role of a citizen; especially, one who campaigns for change.",
+      "meaningZh": "激进主义分子",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "activist",
+        "plural": "activists"
+      }
+    },
+    {
+      "text": "addition",
+      "pos": "noun",
+      "meaningEn": "The act of adding anything.",
+      "meaningZh": "加法；增加的人(或物)",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "addition",
+        "plural": "additions"
+      }
+    },
+    {
+      "text": "adherent",
+      "pos": "adj",
+      "meaningEn": "Adhesive, sticking to something.",
+      "meaningZh": "信徒；追随者；附着的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adherent",
+        "plural": "adherents"
+      }
+    },
+    {
+      "text": "administrator",
+      "pos": "noun",
+      "meaningEn": "One who administers affairs; one who directs, manages, executes, or dispenses, whether in civil, judicial, political, or ecclesiastical affairs; a manager.",
+      "meaningZh": "管理人；行政官",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "administrator",
+        "plural": "administrators"
+      }
+    },
+    {
+      "text": "adorable",
+      "pos": "adj",
+      "meaningEn": "Befitting of being adored; cute or loveable.",
+      "meaningZh": "可崇拜的；值得敬慕的；可爱的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adorable"
+      }
+    },
+    {
+      "text": "advanced",
+      "pos": "adj",
+      "meaningEn": "At or close to the state of the art.",
+      "meaningZh": "在前的；高级的；先进的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "advanced",
+        "past": "advanced",
+        "pp": "advanced"
+      }
+    },
+    {
+      "text": "adventure",
+      "pos": "noun",
+      "meaningEn": "A feeling of desire for new and exciting things.",
+      "meaningZh": "冒险；冒险经历；冒险",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adventure",
+        "plural": "adventures",
+        "ing": "adventuring",
+        "past": "adventured",
+        "s3": "adventures",
+        "pp": "adventured"
+      }
+    },
+    {
+      "text": "adventurer",
+      "pos": "noun",
+      "meaningEn": "One who enjoys adventures.",
+      "meaningZh": "冒险家；投机者",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adventurer",
+        "plural": "adventurers"
+      }
+    },
+    {
+      "text": "advertising",
+      "pos": "noun",
+      "meaningEn": "Communication whose purpose is to influence potential customers about products and services.",
+      "meaningZh": "广告业；广告；广告的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "advertising",
+        "ing": "advertising"
+      }
+    },
+    {
+      "text": "adviser",
+      "pos": "noun",
+      "meaningEn": "One who advises.",
+      "meaningZh": "顾问；劝告者；指导教师",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adviser",
+        "plural": "advisers"
+      }
+    },
+    {
+      "text": "advocate",
+      "pos": "noun",
+      "meaningEn": "Someone whose job is to speak for someone's case in a court of law; a counsel.",
+      "meaningZh": "提倡者；拥护者；主张",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "advocate",
+        "pp": "advocated",
+        "plural": "advocates",
+        "ing": "advocating",
+        "past": "advocated",
+        "s3": "advocates"
+      }
+    },
+    {
+      "text": "afar",
+      "pos": "noun",
+      "meaningEn": "A member of the people who speak this language and reside in these regions.",
+      "meaningZh": "由远处；遥远地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "afar",
+        "plural": "afars"
+      }
+    },
+    {
+      "text": "agenda",
+      "pos": "noun",
+      "meaningEn": "A temporally organized plan for matters to be attended to.",
+      "meaningZh": "议程；日常工作事项",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agenda",
+        "plural": "agendas"
+      }
+    },
+    {
+      "text": "aggregate",
+      "pos": "noun",
+      "meaningEn": "A mass, assemblage, or sum of particulars; something consisting of elements but considered as a whole.",
+      "meaningZh": "合计；总计；聚集体",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aggregate",
+        "plural": "aggregates",
+        "pp": "aggregated",
+        "ing": "aggregating",
+        "s3": "aggregates",
+        "past": "aggregated"
+      }
+    },
+    {
+      "text": "aggressive",
+      "pos": "adj",
+      "meaningEn": "Characterized by aggression; highly combative; prone to behave in a way that involves attacking or arguing.",
+      "meaningZh": "侵略的；挑畔的；进取的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aggressive"
+      }
+    },
+    {
+      "text": "aggressor",
+      "pos": "noun",
+      "meaningEn": "The person or country that first attacks or makes an aggression; that begins hostility or a quarrel; an assailant.",
+      "meaningZh": "侵略者；挑畔者",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aggressor",
+        "plural": "aggressors"
+      }
+    },
+    {
+      "text": "agitated",
+      "pos": "adj",
+      "meaningEn": "Angry, annoyed, bothered or worked up.",
+      "meaningZh": "(表现出)不安/焦虑的；(被)激烈辩论的；(被)热烈讨论的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agitated",
+        "pp": "agitated"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-19T19:32:37.119144Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

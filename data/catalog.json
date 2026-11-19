@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-11-18T19:43:49.080742Z",
+  "generatedAt": "2026-11-19T19:32:42.747546Z",
   "episodes": [
+    {
+      "number": 2725,
+      "title": "Kiss Your Sarcasm Struggles Goodbye!",
+      "pubDate": "2026-11-19T06:00:00",
+      "durationSec": 1290
+    },
     {
       "number": 2724,
       "title": "Don’t Crash Out Over English Slang",
@@ -354,12 +360,6 @@
       "title": "After This Amazing Episode, You Owe Us One!",
       "pubDate": "2026-08-10T05:00:00",
       "durationSec": 1010
-    },
-    {
-      "number": 2665,
-      "title": "Splash Into Summer Part 2: Time for a Road Trip!",
-      "pubDate": "2026-08-06T05:00:00",
-      "durationSec": 1477
     }
   ]
 }
