@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 1,
+  "number": 2726,
+  "guid": "78966272-d7f6-11f1-88ee-83fc3e921bce",
+  "title": "What to Say When You Didn’t Get the Joke",
+  "subtitle": "Find out how to deal with tricky social situations in English",
+  "pubDate": "2026-11-23T06:00:00",
+  "durationSec": 1189,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE9506246639.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/roadmap",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "inside-joke",
+      "text": "inside joke",
+      "display": "inside joke",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 16,
+      "pos": "noun",
+      "ipa": "/ˈɪnsaɪd ˌd͡ʒəʊk/",
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "A joke that is understood or meant to be understood only by certain people who are aware of the details.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "一个只有某些了解细节的人才能理解或有意理解的笑话。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 159.06,
+          "end": 162.26,
+          "sentence": "I feel like if it's in English, it's usually an inside joke, right?",
+          "sentenceZh": "我觉得如果用英语的话 通常是内部笑话,对吧?",
+          "sentenceZhSource": "mt",
+          "answer": "inside joke",
+          "answerStart": 48,
+          "answerEnd": 59,
+          "answerForm": "base"
+        },
+        {
+          "start": 186.68,
+          "end": 190.98,
+          "sentence": "With the inside joke thing, honestly, I think that's just a faux pas on whoever's",
+          "sentenceZh": "和里面的笑话,说实话, 我认为这只是一个faux pas对谁的",
+          "sentenceZhSource": "mt",
+          "answer": "inside joke",
+          "answerStart": 9,
+          "answerEnd": 20,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "inside joke",
+        "plural": "insides joke"
+      },
+      "examples": [
+        "After the incident with the potato peeler, references to potatoes became an inside joke among the witnesses."
+      ],
+      "synonyms": [
+        "in-joke",
+        "private joke"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "play-on-words",
+      "text": "play on words",
+      "display": "play on words",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 9,
+      "pos": "noun",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "A pun, or similar humorous use of language such as a double entendre.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "或类似幽默地使用语言如双关语。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 174.5,
+          "end": 179.58,
+          "sentence": "It'll be like something cultural or a play on words that I didn't quite catch.",
+          "sentenceZh": "它会像一些文化 或一出戏剧 语言,我没有 完全赶上。",
+          "sentenceZhSource": "mt",
+          "answer": "play on words",
+          "answerStart": 38,
+          "answerEnd": 51,
+          "answerForm": "base"
+        },
+        {
+          "start": 406.98,
+          "end": 408.68,
+          "sentence": "There are so many plays on words.",
+          "sentenceZh": "有这么多的文字游戏。",
+          "sentenceZhSource": "mt",
+          "answer": "plays on words",
+          "answerStart": 18,
+          "answerEnd": 32,
+          "answerForm": "s3"
+        }
+      ],
+      "inflections": {
+        "base": "play on words",
+        "ing": "playing on words",
+        "past": "played on words",
+        "pp": "played on words",
+        "s3": "plays on words",
+        "plural": "plays on words"
+      },
+      "examples": [
+        "1794, Mr. Malone's Edition of Shakſpeare's Works, in The Monthly Review Or Literary Journal Enlarged [2nd Series], Volume 13, R. Griffiths, page 265,\nMr. Steevens alſo, influenced we ſuppoſe by the authority of Dr. Farmer, ſeems by the way in which he regulates the line in his new edition, to think that Shakſpeare here meaned no more than a play on words.",
+        "1897, Jas. W. Tupper, English Drama: Das Wortspiel bei Shakspere, von Leopold Wurth, A. Marshall Elliott (managing editor), Modern Language Notes, Volume XII, page 171,\nThere are two general classes under which all the examples are grouped: plays on words which are due to a double meaning, and the plays merely on sound (die Laut- oder Klaugspiele). The term for the latter group Dr. Wurth gives as puns, punnings."
+      ],
+      "synonyms": [
+        "paronomasia"
+      ],
+      "concept": false,
+      "rank": 2
+    }
+  ],
+  "distractors": [
+    {
+      "text": "inside edge",
+      "pos": "noun",
+      "meaningEn": "The edge of a bat closest to the body of the batsman.",
+      "meaningZh": "蝙蝠的边缘最接近蝙蝠侠的身体",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside edge",
+        "plural": "insides edge"
+      }
+    },
+    {
+      "text": "inside baseball",
+      "pos": "noun",
+      "meaningEn": "Technical matters concerning baseball generally not apparent or of interest to spectators.",
+      "meaningZh": "有关棒球的技术事项一般不明显,或观众不感兴趣。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside baseball",
+        "plural": "insides baseball"
+      }
+    },
+    {
+      "text": "inside lane",
+      "pos": "noun",
+      "meaningEn": "The slow lane.",
+      "meaningZh": "慢车道",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside lane",
+        "plural": "insides lane"
+      }
+    },
+    {
+      "text": "inside track",
+      "pos": "noun",
+      "meaningEn": "The lane or track nearest to the interior.",
+      "meaningZh": "离内地最近的车道或车道",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside track",
+        "plural": "insides track"
+      }
+    },
+    {
+      "text": "inside address",
+      "pos": "noun",
+      "meaningEn": "The delivery address of an addressee, written on the page of a letter.",
+      "meaningZh": "收件人的送货地址,写在信页上。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside address",
+        "plural": "insides address"
+      }
+    },
+    {
+      "text": "inside information",
+      "pos": "noun",
+      "meaningEn": "Information obtained by or from a person in a position of trust that affects the price of publicly traded securities.",
+      "meaningZh": "受托人或从受托人获得的影响到上市证券价格的信息。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside information",
+        "plural": "insides information"
+      }
+    },
+    {
+      "text": "inside job",
+      "pos": "noun",
+      "meaningEn": "A crime or other illicit action committed by or with the assistance of someone either having a relationship with a victim or entrusted with access to the victim's affairs and premises.",
+      "meaningZh": "由与受害人有关系的人或受委托接触受害人事务和场所的人所实施或在其协助下实施的犯罪或其他非法行为。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside job",
+        "plural": "insides job"
+      }
+    },
+    {
+      "text": "inside leg",
+      "pos": "noun",
+      "meaningEn": "A clothing measurement for trousers/pants, taken from crotch to ankle.",
+      "meaningZh": "裤子/裤子的衣物测量,从拐角到脚踝。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside leg",
+        "plural": "insides leg"
+      }
+    },
+    {
+      "text": "inside loop",
+      "pos": "noun",
+      "meaningEn": "An aerobatic maneuver in which a vertical circle is entered from straight and erect level flight, with a positive pitching movement used at all points in the loop to draw the circle.",
+      "meaningZh": "从直直直和直立水平飞行输入垂直圆形的有氧操控,在循环中所有点使用积极的投球运动来绘制圆形。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside loop",
+        "plural": "insides loop"
+      }
+    },
+    {
+      "text": "inside man",
+      "pos": "noun",
+      "meaningEn": "A person paid to endorse a product while pretending to be impartial.",
+      "meaningZh": "一个人付钱认可产品,而假装公正。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside man",
+        "plural": "insides man"
+      }
+    },
+    {
+      "text": "inside scoop",
+      "pos": "noun",
+      "meaningEn": "The newest, exclusive, or even confidential information on someone or something, especially when it is not typically well-known or accessible to the general public.",
+      "meaningZh": "关于某人或某物的最新、排他性或甚至机密性信息,特别是当它通常不为公众所知晓或无法获得时。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "inside scoop",
+        "plural": "insides scoop"
+      }
+    },
+    {
+      "text": "play house",
+      "pos": "noun",
+      "meaningEn": "A dollhouse.",
+      "meaningZh": "一个娃娃屋。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "play house",
+        "ing": "playing house",
+        "past": "played house",
+        "pp": "played house",
+        "s3": "plays house",
+        "plural": "plays house"
+      }
+    },
+    {
+      "text": "play doctor",
+      "pos": "noun",
+      "meaningEn": "A professional who is called in to revise a play written by someone else.",
+      "meaningZh": "一个被叫来修改别人写的剧本的专业人士",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "play doctor",
+        "ing": "playing doctor",
+        "past": "played doctor",
+        "pp": "played doctor",
+        "s3": "plays doctor",
+        "plural": "plays doctor"
+      }
+    },
+    {
+      "text": "ability",
+      "pos": "noun",
+      "meaningEn": "The quality or state of being able; capacity to do or of doing something; having the necessary power.",
+      "meaningZh": "能力；才干",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ability",
+        "plural": "abilities"
+      }
+    },
+    {
+      "text": "access",
+      "pos": "noun",
+      "meaningEn": "A way or means of approaching or entering; an entrance; a passage.",
+      "meaningZh": "通路；入口；接近",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "access",
+        "pp": "accessed",
+        "ing": "accessing",
+        "s3": "accesses",
+        "plural": "accesses",
+        "past": "accessed"
+      }
+    },
+    {
+      "text": "account",
+      "pos": "noun",
+      "meaningEn": "A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review.",
+      "meaningZh": "报告；解释；估价",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "account",
+        "plural": "accounts",
+        "pp": "accounted",
+        "ing": "accounting",
+        "s3": "accounts",
+        "past": "accounted"
+      }
+    },
+    {
+      "text": "act",
+      "pos": "noun",
+      "meaningEn": "An instance of a certain standardized college admissions test in the United States, originally called the American College Test.",
+      "meaningZh": "行动；行为；幕",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "act",
+        "ing": "acting",
+        "plural": "acts",
+        "past": "acted",
+        "pp": "acted",
+        "s3": "acts"
+      }
+    },
+    {
+      "text": "action",
+      "pos": "noun",
+      "meaningEn": "The effort of performing or doing something.",
+      "meaningZh": "行动；活动；动作",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "action",
+        "plural": "actions",
+        "ing": "actioning",
+        "past": "actioned",
+        "s3": "actions"
+      }
+    },
+    {
+      "text": "activity",
+      "pos": "noun",
+      "meaningEn": "The state or quality of being active; activeness.",
+      "meaningZh": "活动；行动；活跃",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "activity",
+        "plural": "activities"
+      }
+    },
+    {
+      "text": "address",
+      "pos": "noun",
+      "meaningEn": "A manner of speaking or writing to another; language, style.",
+      "meaningZh": "住址；演说；举止",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "address",
+        "pp": "addressed",
+        "ing": "addressing",
+        "plural": "addresses",
+        "past": "addressed",
+        "s3": "addresses"
+      }
+    },
+    {
+      "text": "administration",
+      "pos": "noun",
+      "meaningEn": "The act of administering; government of public affairs; the service rendered, or duties assumed, in conducting affairs; the conducting of any office or employment; direction.",
+      "meaningZh": "行政；管理；政府机关",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "administration",
+        "plural": "administrations"
+      }
+    },
+    {
+      "text": "adult",
+      "pos": "noun",
+      "meaningEn": "An animal that is full-grown.",
+      "meaningZh": "成人；成虫；成年的",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "adult",
+        "plural": "adults"
+      }
+    },
+    {
+      "text": "advantage",
+      "pos": "noun",
+      "meaningEn": "Any condition, circumstance, opportunity or means, particularly favorable or chance to success, or to any desired end.",
+      "meaningZh": "优点；便利；好处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "advantage",
+        "plural": "advantages",
+        "pp": "advantaged",
+        "ing": "advantaging",
+        "past": "advantaged",
+        "s3": "advantages"
+      }
+    },
+    {
+      "text": "affair",
+      "pos": "noun",
+      "meaningEn": "Something which is done or is to be done; business of any kind, commercial, professional, or public.",
+      "meaningZh": "事件；事务；恋爱事件",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "affair",
+        "plural": "affairs"
+      }
+    },
+    {
+      "text": "afternoon",
+      "pos": "noun",
+      "meaningEn": "The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.",
+      "meaningZh": "午后；下午",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "afternoon",
+        "plural": "afternoons"
+      }
+    },
+    {
+      "text": "age",
+      "pos": "noun",
+      "meaningEn": "The amount of time that some being has been alive, or that some thing has been in existence, as measured from its birth or origin until the present or until some other given reference point.",
+      "meaningZh": "年龄；老年；成年",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "age",
+        "plural": "ages",
+        "pp": "aged",
+        "ing": "ageing",
+        "s3": "ages",
+        "past": "aged"
+      }
+    },
+    {
+      "text": "agency",
+      "pos": "noun",
+      "meaningEn": "The capacity, condition, or state of acting or of exerting power.",
+      "meaningZh": "代理机构；经销商；中介",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agency",
+        "plural": "agencies"
+      }
+    },
+    {
+      "text": "agent",
+      "pos": "noun",
+      "meaningEn": "One who exerts power, or has the power to act.",
+      "meaningZh": "代理商；政府代表；动原",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agent",
+        "plural": "agents"
+      }
+    },
+    {
+      "text": "agreement",
+      "pos": "noun",
+      "meaningEn": "An understanding between entities to follow a specific course of conduct.",
+      "meaningZh": "同意；合约；协议",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agreement",
+        "plural": "agreements"
+      }
+    },
+    {
+      "text": "air",
+      "pos": "noun",
+      "meaningEn": "The substance constituting Earth's atmosphere: a gaseous mixture of nitrogen, oxygen, and various trace gases.",
+      "meaningZh": "空气；旋律；态度",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "air",
+        "pp": "aired",
+        "plural": "airs",
+        "ing": "airing",
+        "past": "aired",
+        "s3": "airs"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-23T22:41:13.381461Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

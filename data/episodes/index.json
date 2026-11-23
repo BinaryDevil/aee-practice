@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T18:30:27.586353Z",
+  "generatedAt": "2026-11-23T22:41:19.147704Z",
   "episodes": [
+    {
+      "number": 2726,
+      "guid": "78966272-d7f6-11f1-88ee-83fc3e921bce",
+      "title": "What to Say When You Didn’t Get the Joke",
+      "pubDate": "2026-11-23T06:00:00",
+      "durationSec": 1189,
+      "itemCount": 2,
+      "hasBlog": false,
+      "file": "episodes/2726.json"
+    },
     {
       "number": 2725,
       "guid": "79db8fcc-d274-11f1-96ec-931cfdec9aef",
