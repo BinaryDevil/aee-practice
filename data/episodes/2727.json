@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "number": 2727,
+  "guid": "9b84320a-d7f6-11f1-9e73-a3e9173c0071",
+  "title": "You Too! How to Instantly Connect When Someone Says Goodbye",
+  "subtitle": "Learn how to connect right away",
+  "pubDate": "2026-11-24T18:00:00",
+  "durationSec": 1044,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE4622448901.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/roadmap",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [],
+  "distractors": [],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-24T21:13:39.147266Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

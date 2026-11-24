@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T22:41:19.147704Z",
+  "generatedAt": "2026-11-24T21:13:43.923407Z",
   "episodes": [
+    {
+      "number": 2727,
+      "guid": "9b84320a-d7f6-11f1-9e73-a3e9173c0071",
+      "title": "You Too! How to Instantly Connect When Someone Says Goodbye",
+      "pubDate": "2026-11-24T18:00:00",
+      "durationSec": 1044,
+      "itemCount": 0,
+      "hasBlog": false,
+      "file": "episodes/2727.json"
+    },
     {
       "number": 2726,
       "guid": "78966272-d7f6-11f1-88ee-83fc3e921bce",
