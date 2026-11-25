@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T21:13:43.923407Z",
+  "generatedAt": "2026-11-25T20:31:12.576923Z",
   "episodes": [
+    {
+      "number": 2728,
+      "guid": "bbcb01b0-d7f6-11f1-b1a5-07454610a825",
+      "title": "Speak English Naturally Out of Habit",
+      "pubDate": "2026-11-25T06:00:00",
+      "durationSec": 986,
+      "itemCount": 5,
+      "hasBlog": false,
+      "file": "episodes/2728.json"
+    },
     {
       "number": 2727,
       "guid": "9b84320a-d7f6-11f1-9e73-a3e9173c0071",

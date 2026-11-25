@@ -1,0 +1,659 @@
+{
+  "schemaVersion": 1,
+  "number": 2728,
+  "guid": "bbcb01b0-d7f6-11f1-b1a5-07454610a825",
+  "title": "Speak English Naturally Out of Habit",
+  "subtitle": "Find out how to make natural English a habit",
+  "pubDate": "2026-11-25T06:00:00",
+  "durationSec": 986,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE6456788864.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/roadmap",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "out-of",
+      "text": "out of",
+      "display": "out of",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 37,
+      "pos": "prep",
+      "ipa": "/ˈaʊt əv/",
+      "tags": [],
+      "meaningEn": "So as no longer to be in a given condition or state.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "不再处于某种状况或状态",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 126.4,
+          "end": 128.84,
+          "sentence": "Is there anything that you do out of habit?",
+          "sentenceZh": "你有什么不习惯的吗?",
+          "sentenceZhSource": "mt",
+          "answer": "out of",
+          "answerStart": 30,
+          "answerEnd": 36,
+          "answerForm": "base"
+        },
+        {
+          "start": 132.68,
+          "end": 135.1,
+          "sentence": "I make coffee in the morning out of habit.",
+          "sentenceZh": "我早上煮咖啡,因为习惯。",
+          "sentenceZhSource": "mt",
+          "answer": "out of",
+          "answerStart": 29,
+          "answerEnd": 35,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "out of",
+        "ing": "outing of",
+        "past": "outed of",
+        "s3": "outs of",
+        "pp": "outed of"
+      },
+      "examples": [
+        "I have fallen out of love with you.",
+        "They will soon be out of business."
+      ],
+      "synonyms": [
+        "exterior to",
+        "external to (2, 3)",
+        "outside of (2, 3)",
+        "without"
+      ],
+      "concept": false,
+      "rank": 1
+    },
+    {
+      "id": "run-out",
+      "text": "run out",
+      "display": "run out",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 23,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic",
+        "intransitive",
+        "transitive"
+      ],
+      "meaningEn": "To use up or consume all",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "全部使用或消耗",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 397.5,
+          "end": 401.4,
+          "sentence": "I ran out of gas in the middle of nowhere and had to call a tow truck.",
+          "sentenceZh": "我在荒郊野外没油了 不得不叫拖车",
+          "sentenceZhSource": "mt",
+          "answer": "ran out",
+          "answerStart": 2,
+          "answerEnd": 9,
+          "answerForm": "past"
+        },
+        {
+          "start": 479.48,
+          "end": 481.6,
+          "sentence": "So we're not saying he's run out of necessity.",
+          "sentenceZh": "所以我们不是说他没有必要了",
+          "sentenceZhSource": "mt",
+          "answer": "run out",
+          "answerStart": 25,
+          "answerEnd": 32,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "run out",
+        "past": "ran out",
+        "ing": "running out",
+        "pp": "run out",
+        "s3": "runs out",
+        "plural": "runs out"
+      },
+      "examples": [
+        "Get some more beer out of the fridge before we run out.",
+        "If this hot weather continues, we will run out of ice cream."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 2
+    },
+    {
+      "id": "no-more",
+      "text": "no more",
+      "display": "no more",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 20,
+      "pos": "adv",
+      "ipa": null,
+      "tags": [
+        "idiomatic"
+      ],
+      "meaningEn": "No longer; not any more.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "不再,不再,不再。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": "不再",
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 504.76,
+          "end": 507.26,
+          "sentence": "and that you could have no more of.",
+          "sentenceZh": "并且使你再无所享受。",
+          "sentenceZhSource": "mt",
+          "answer": "no more",
+          "answerStart": 24,
+          "answerEnd": 31,
+          "answerForm": "base"
+        },
+        {
+          "start": 737.52,
+          "end": 739.98,
+          "sentence": "you can have no more of?",
+          "sentenceZh": "你不能再吃了吗?",
+          "sentenceZhSource": "mt",
+          "answer": "no more",
+          "answerStart": 13,
+          "answerEnd": 20,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "no more"
+      },
+      "examples": [
+        "I will pay no more today.",
+        "He will bother you no more."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 3
+    },
+    {
+      "id": "out-of-gas",
+      "text": "out of gas",
+      "display": "out of gas",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 11,
+      "pos": "prep_phrase",
+      "ipa": null,
+      "tags": [
+        "US",
+        "idiomatic"
+      ],
+      "meaningEn": "Tired; lacking energy or motivation.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "疲劳;缺乏精力或动力。",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 394.24,
+          "end": 397.5,
+          "sentence": "So like you said, out of milk, out of gas.",
+          "sentenceZh": "就像你说的,用牛奶,用煤气",
+          "sentenceZhSource": "mt",
+          "answer": "out of gas",
+          "answerStart": 31,
+          "answerEnd": 41,
+          "answerForm": "base"
+        },
+        {
+          "start": 397.5,
+          "end": 401.4,
+          "sentence": "I ran out of gas in the middle of nowhere and had to call a tow truck.",
+          "sentenceZh": "我在荒郊野外没油了 不得不叫拖车",
+          "sentenceZhSource": "mt",
+          "answer": "out of gas",
+          "answerStart": 6,
+          "answerEnd": 16,
+          "answerForm": "base"
+        }
+      ],
+      "inflections": {
+        "base": "out of gas",
+        "ing": "outing of gas",
+        "past": "outed of gas",
+        "s3": "outs of gas",
+        "pp": "outed of gas"
+      },
+      "examples": [
+        "After twelve hours straight at the office, he was about out of gas and decided to go home and rest."
+      ],
+      "synonyms": [
+        "exhausted",
+        "weary"
+      ],
+      "concept": false,
+      "rank": 4
+    },
+    {
+      "id": "chunk",
+      "text": "chunk",
+      "display": "chunk",
+      "kind": "word",
+      "origin": "transcript",
+      "score": 9.5,
+      "pos": "noun",
+      "ipa": "/t͡ʃʌŋk/",
+      "tags": [],
+      "meaningEn": "A part of something that has been separated; a generally squat, thick, irregular piece of something, e.g. wood or stone.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "大块；矮胖的人(或物)",
+      "meaningZhSource": "ecdict",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 55.31,
+          "end": 57.23,
+          "sentence": "One is a chunk and the other is not.",
+          "sentenceZh": "一个是块,另一个不是。",
+          "sentenceZhSource": "mt",
+          "answer": "chunk",
+          "answerStart": 9,
+          "answerEnd": 14,
+          "answerForm": "base"
+        },
+        {
+          "start": 202.96,
+          "end": 206.94,
+          "sentence": "which is about sort of chunks that start without of.",
+          "sentenceZh": "是关于没有开始的块的排序 。",
+          "sentenceZhSource": "mt",
+          "answer": "chunks",
+          "answerStart": 23,
+          "answerEnd": 29,
+          "answerForm": "plural"
+        }
+      ],
+      "inflections": {
+        "base": "chunk",
+        "plural": "chunks",
+        "ing": "chunking",
+        "pp": "chunked",
+        "past": "chunked"
+      },
+      "examples": [
+        "The statue broke into chunks.",
+        "a chunk of granite"
+      ],
+      "synonyms": [
+        "bit",
+        "hunk",
+        "lump",
+        "chip",
+        "chunk"
+      ],
+      "concept": false,
+      "rank": 5
+    }
+  ],
+  "distractors": [
+    {
+      "text": "chunk of change",
+      "pos": "noun",
+      "meaningEn": "A significant amount of money.",
+      "meaningZh": "一大笔钱",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "chunk of change",
+        "plural": "chunks of change",
+        "ing": "chunking of change",
+        "pp": "chunked of change",
+        "past": "chunked of change"
+      }
+    },
+    {
+      "text": "more and more",
+      "pos": "adv",
+      "meaningEn": "Progressively more.",
+      "meaningZh": "渐渐地。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "more and more"
+      }
+    },
+    {
+      "text": "more or less",
+      "pos": "adv",
+      "meaningEn": "Approximately.",
+      "meaningZh": "幾乎 /几乎；差點 /差点",
+      "meaningZhSource": "kaikki",
+      "inflections": {
+        "base": "more or less"
+      }
+    },
+    {
+      "text": "more often than not",
+      "pos": "adv",
+      "meaningEn": "Usually; more than half the time; more likely to be the case than not to be the case.",
+      "meaningZh": "通常;时间超过一半;情况更有可能发生,而不是发生。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "more often than not"
+      }
+    },
+    {
+      "text": "more sauce than meat",
+      "pos": "noun",
+      "meaningEn": "A lack of real substance or weight.",
+      "meaningZh": "缺乏真正的物质或重量。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "more sauce than meat"
+      }
+    },
+    {
+      "text": "aboard",
+      "pos": "adv",
+      "meaningEn": "On board; into or within a ship or boat; hence, into or within a railway car.",
+      "meaningZh": "在船上；在火车上；在飞机上",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aboard"
+      }
+    },
+    {
+      "text": "about",
+      "pos": "prep",
+      "meaningEn": "In a circle around; all round; on every side of; on the outside of; around.",
+      "meaningZh": "在...周围；大约；有关",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "about"
+      }
+    },
+    {
+      "text": "academy",
+      "pos": "noun",
+      "meaningEn": "An institution for the study of higher learning; a college or a university; typically a private school.",
+      "meaningZh": "学院；院校；学会",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "academy",
+        "plural": "academies"
+      }
+    },
+    {
+      "text": "accelerate",
+      "pos": "verb",
+      "meaningEn": "To cause to move faster; to quicken the motion of; to add to the speed of.",
+      "meaningZh": "加速；促进",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accelerate",
+        "past": "accelerated",
+        "pp": "accelerated",
+        "ing": "accelerating",
+        "s3": "accelerates"
+      }
+    },
+    {
+      "text": "accent",
+      "pos": "noun",
+      "meaningEn": "A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.",
+      "meaningZh": "重音；口音；特点",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accent",
+        "plural": "accents",
+        "past": "accented",
+        "ing": "accenting",
+        "pp": "accented",
+        "s3": "accents"
+      }
+    },
+    {
+      "text": "accomplishment",
+      "pos": "noun",
+      "meaningEn": "The act of accomplishing; completion; fulfilment.",
+      "meaningZh": "成就；完成",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accomplishment",
+        "plural": "accomplishments"
+      }
+    },
+    {
+      "text": "accountability",
+      "pos": "noun",
+      "meaningEn": "The state of being accountable; liability to be called on to render an account or give an explanation; liability to be held responsible or answerable for something.",
+      "meaningZh": "负有责任；可说明性",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accountability",
+        "plural": "accountabilities"
+      }
+    },
+    {
+      "text": "accuracy",
+      "pos": "noun",
+      "meaningEn": "The state of being accurate; being free from error; exactness; correctness",
+      "meaningZh": "精确；正确",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accuracy",
+        "plural": "accuracies"
+      }
+    },
+    {
+      "text": "accurately",
+      "pos": "adv",
+      "meaningEn": "In an accurate manner; exactly; precisely; without error or defect.",
+      "meaningZh": "正确地；精确地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accurately"
+      }
+    },
+    {
+      "text": "accusation",
+      "pos": "noun",
+      "meaningEn": "The act of accusing.",
+      "meaningZh": "控告；指控；指责",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "accusation",
+        "plural": "accusations"
+      }
+    },
+    {
+      "text": "across",
+      "pos": "prep",
+      "meaningEn": "To, toward, or from the far side of.",
+      "meaningZh": "越过；穿过；与...相交叉",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "across"
+      }
+    },
+    {
+      "text": "action",
+      "pos": "noun",
+      "meaningEn": "The effort of performing or doing something.",
+      "meaningZh": "行动；活动；动作",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "action",
+        "plural": "actions",
+        "ing": "actioning",
+        "past": "actioned",
+        "s3": "actions"
+      }
+    },
+    {
+      "text": "actively",
+      "pos": "adv",
+      "meaningEn": "In an active manner.",
+      "meaningZh": "活跃地；积极地",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "actively"
+      }
+    },
+    {
+      "text": "activity",
+      "pos": "noun",
+      "meaningEn": "The state or quality of being active; activeness.",
+      "meaningZh": "活动；行动；活跃",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "activity",
+        "plural": "activities"
+      }
+    },
+    {
+      "text": "actually",
+      "pos": "adv",
+      "meaningEn": "In act or in fact; really; in truth; positively.",
+      "meaningZh": "事实上；竟然；如今",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "actually"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "administration",
+      "pos": "noun",
+      "meaningEn": "The act of administering; government of public affairs; the service rendered, or duties assumed, in conducting affairs; the conducting of any office or employment; direction.",
+      "meaningZh": "行政；管理；政府机关",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "administration",
+        "plural": "administrations"
+      }
+    },
+    {
+      "text": "after",
+      "pos": "adv",
+      "meaningEn": "Behind; later in time; following.",
+      "meaningZh": "在...之后；由于；在...之后",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "after"
+      }
+    },
+    {
+      "text": "again",
+      "pos": "adv",
+      "meaningEn": "Another time: indicating a repeat of an action.",
+      "meaningZh": "再一次；又；到原处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "again"
+      }
+    },
+    {
+      "text": "against",
+      "pos": "prep",
+      "meaningEn": "In a contrary direction to.",
+      "meaningZh": "反对；对着；倚靠",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "against"
+      }
+    },
+    {
+      "text": "age",
+      "pos": "noun",
+      "meaningEn": "The amount of time that some being has been alive, or that some thing has been in existence, as measured from its birth or origin until the present or until some other given reference point.",
+      "meaningZh": "年龄；老年；成年",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "age",
+        "plural": "ages",
+        "pp": "aged",
+        "ing": "ageing",
+        "s3": "ages",
+        "past": "aged"
+      }
+    },
+    {
+      "text": "agency",
+      "pos": "noun",
+      "meaningEn": "The capacity, condition, or state of acting or of exerting power.",
+      "meaningZh": "代理机构；经销商；中介",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agency",
+        "plural": "agencies"
+      }
+    },
+    {
+      "text": "aggression",
+      "pos": "noun",
+      "meaningEn": "The act of initiating hostilities or invasion.",
+      "meaningZh": "侵犯；侵略",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "aggression",
+        "plural": "aggressions"
+      }
+    },
+    {
+      "text": "agree",
+      "pos": "verb",
+      "meaningEn": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.",
+      "meaningZh": "同意；赞成；应允",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agree",
+        "pp": "agreed",
+        "past": "agreed",
+        "s3": "agrees",
+        "ing": "agreeing"
+      }
+    },
+    {
+      "text": "agriculture",
+      "pos": "noun",
+      "meaningEn": "The art or science of cultivating the ground, including the growing and harvesting of crops, and the rearing and management of livestock.",
+      "meaningZh": "农业",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agriculture"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-25T20:31:07.805134Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}
