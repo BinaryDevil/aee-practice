@@ -1,0 +1,508 @@
+{
+  "schemaVersion": 1,
+  "number": 2729,
+  "guid": "d8ed7340-d7f6-11f1-bc84-330cae016afa",
+  "title": "Are You Still Wondering How to Use Yet and Already?",
+  "subtitle": "Learn how to use yet and already",
+  "pubDate": "2026-11-26T06:00:00",
+  "durationSec": 1244,
+  "audioUrl": "https://traffic.megaphone.fm/ALLE5904493687.mp3",
+  "episodeUrl": "https://www.allearsenglish.com/roadmap",
+  "blogUrl": null,
+  "transcriptSource": "whisper:small.en",
+  "items": [
+    {
+      "id": "take-one-s-time",
+      "text": "take one's time",
+      "display": "take one's time",
+      "kind": "expression",
+      "origin": "transcript",
+      "score": 7,
+      "pos": "verb",
+      "ipa": null,
+      "tags": [
+        "idiomatic",
+        "intransitive"
+      ],
+      "meaningEn": "To go about something slowly and carefully or at one's own pace.",
+      "meaningEnSource": "kaikki",
+      "meaningZh": "慢慢地 仔细地 或按自己的速度去做",
+      "meaningZhSource": "mt",
+      "meaningZhAlt": null,
+      "teacherNote": null,
+      "occurrences": [
+        {
+          "start": 327.4,
+          "end": 330.94,
+          "sentence": "And you know, we just definitely something to take the time to",
+          "sentenceZh": "你知道,我们只是 肯定的东西 花时间",
+          "sentenceZhSource": "mt",
+          "answer": "take the time",
+          "answerStart": 46,
+          "answerEnd": 59,
+          "answerForm": "other"
+        },
+        {
+          "start": 839.33,
+          "end": 842.03,
+          "sentence": "Yeah, I can take a long time to find the right house,",
+          "sentenceZh": "是的,我可以花很长时间 找到合适的房子,",
+          "sentenceZhSource": "mt",
+          "answer": "take a long time",
+          "answerStart": 12,
+          "answerEnd": 28,
+          "answerForm": "other"
+        }
+      ],
+      "inflections": {
+        "base": "take one's time",
+        "past": "took one's time",
+        "pp": "taken one's time",
+        "ing": "taking one's time",
+        "s3": "takes one's time"
+      },
+      "examples": [
+        "Take your time — there's no need to rush.",
+        "Working with pick, shovel, and wheelbarrow, he took his time over the job, for it was not until May 17, 1816, that it was opened for traffic."
+      ],
+      "synonyms": [],
+      "concept": false,
+      "rank": 1
+    }
+  ],
+  "distractors": [
+    {
+      "text": "take away",
+      "pos": "verb",
+      "meaningEn": "To remove something and put it in a different place.",
+      "meaningZh": "把东西移走 放在别的地方",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take away",
+        "past": "took away",
+        "pp": "taken away",
+        "ing": "taking away",
+        "s3": "takes away"
+      }
+    },
+    {
+      "text": "take off",
+      "pos": "verb",
+      "meaningEn": "To remove.",
+      "meaningZh": "移走。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take off",
+        "past": "took off",
+        "pp": "taken off",
+        "ing": "taking off",
+        "s3": "takes off"
+      }
+    },
+    {
+      "text": "take up",
+      "pos": "verb",
+      "meaningEn": "To pick up.",
+      "meaningZh": "接电话。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take up",
+        "past": "took up",
+        "pp": "taken up",
+        "ing": "taking up",
+        "s3": "takes up"
+      }
+    },
+    {
+      "text": "take down",
+      "pos": "verb",
+      "meaningEn": "To remove something from a wall or similar vertical surface to which it is fixed.",
+      "meaningZh": "从固定的墙上或类似的垂直表面移走东西。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take down",
+        "past": "took down",
+        "pp": "taken down",
+        "ing": "taking down",
+        "s3": "takes down"
+      }
+    },
+    {
+      "text": "take in",
+      "pos": "verb",
+      "meaningEn": "To receive.",
+      "meaningZh": "接受。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take in",
+        "past": "took in",
+        "pp": "taken in",
+        "ing": "taking in",
+        "s3": "takes in"
+      }
+    },
+    {
+      "text": "take it",
+      "pos": "verb",
+      "meaningEn": "To start doing.",
+      "meaningZh": "开始做。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take it",
+        "past": "took it",
+        "pp": "taken it",
+        "ing": "taking it",
+        "s3": "takes it"
+      }
+    },
+    {
+      "text": "take on",
+      "pos": "verb",
+      "meaningEn": "To acquire, bring in, or introduce.",
+      "meaningZh": "获取、引进或介绍。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take on",
+        "past": "took on",
+        "pp": "taken on",
+        "ing": "taking on",
+        "s3": "takes on"
+      }
+    },
+    {
+      "text": "take over",
+      "pos": "verb",
+      "meaningEn": "To assume control of something, such as a business or enterprise, and sometimes by force.",
+      "meaningZh": "控制某种东西,如企业或企业,有时是以武力控制。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take over",
+        "past": "took over",
+        "pp": "taken over",
+        "ing": "taking over",
+        "s3": "takes over"
+      }
+    },
+    {
+      "text": "take back",
+      "pos": "verb",
+      "meaningEn": "To retract or withdraw.",
+      "meaningZh": "撤回或退出。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take back",
+        "past": "took back",
+        "pp": "taken back",
+        "ing": "taking back",
+        "s3": "takes back"
+      }
+    },
+    {
+      "text": "take for",
+      "pos": "verb",
+      "meaningEn": "To regard as.",
+      "meaningZh": "视之为。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take for",
+        "past": "took for",
+        "pp": "taken for",
+        "ing": "taking for",
+        "s3": "takes for"
+      }
+    },
+    {
+      "text": "take possession",
+      "pos": "verb",
+      "meaningEn": "To become the owner.",
+      "meaningZh": "成为主人。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take possession",
+        "past": "took possession",
+        "pp": "taken possession",
+        "ing": "taking possession",
+        "s3": "takes possession"
+      }
+    },
+    {
+      "text": "take up the slack",
+      "pos": "verb",
+      "meaningEn": "To tighten something that is slack so that it is taut.",
+      "meaningZh": "紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧紧地紧紧紧地紧紧紧地紧紧紧地紧紧地紧紧紧地紧紧地紧紧紧地紧紧地紧地紧地紧紧地紧紧地紧地紧紧地紧地紧地紧紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地紧地地地地地地地地地地",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take up the slack",
+        "past": "took up the slack",
+        "pp": "taken up the slack",
+        "ing": "taking up the slack",
+        "s3": "takes up the slack"
+      }
+    },
+    {
+      "text": "take up with",
+      "pos": "verb",
+      "meaningEn": "To form a close relationship with.",
+      "meaningZh": "建立亲密的关系。",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take up with",
+        "past": "took up with",
+        "pp": "taken up with",
+        "ing": "taking up with",
+        "s3": "takes up with"
+      }
+    },
+    {
+      "text": "take water",
+      "pos": "verb",
+      "meaningEn": "As a person or animal, to go into a body of water and start swimming.",
+      "meaningZh": "作为人或动物 进入水体 开始游泳",
+      "meaningZhSource": "mt",
+      "inflections": {
+        "base": "take water",
+        "past": "took water",
+        "pp": "taken water",
+        "ing": "taking water",
+        "s3": "takes water"
+      }
+    },
+    {
+      "text": "add",
+      "pos": "verb",
+      "meaningEn": "To join or unite so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+      "meaningZh": "增加；添加；附带说明",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "add",
+        "past": "added",
+        "pp": "added",
+        "ing": "adding",
+        "s3": "adds"
+      }
+    },
+    {
+      "text": "agree",
+      "pos": "verb",
+      "meaningEn": "To be in harmony about an opinion, statement, or action; to have a consistent idea between two or more people.",
+      "meaningZh": "同意；赞成；应允",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "agree",
+        "pp": "agreed",
+        "past": "agreed",
+        "s3": "agrees",
+        "ing": "agreeing"
+      }
+    },
+    {
+      "text": "allow",
+      "pos": "verb",
+      "meaningEn": "To let one have as a suitable share of something.",
+      "meaningZh": "允许；同意给予；承认",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "allow",
+        "pp": "allowed",
+        "ing": "allowing",
+        "s3": "allows",
+        "past": "allowed"
+      }
+    },
+    {
+      "text": "appear",
+      "pos": "verb",
+      "meaningEn": "To come or be in sight; to be in view; to become visible.",
+      "meaningZh": "出现；显得；来到",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "appear",
+        "past": "appeared",
+        "s3": "appears",
+        "ing": "appearing",
+        "pp": "appeared"
+      }
+    },
+    {
+      "text": "ask",
+      "pos": "verb",
+      "meaningEn": "To request.",
+      "meaningZh": "问；要求；问",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "ask",
+        "past": "asked",
+        "pp": "asked",
+        "ing": "asking",
+        "s3": "asks"
+      }
+    },
+    {
+      "text": "be",
+      "pos": "verb",
+      "meaningEn": "Used with past participles of verbs to form the passive voice.",
+      "meaningZh": "是；表示；在",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "be",
+        "past": "was",
+        "s3": "is",
+        "pp": "been",
+        "ing": "being"
+      }
+    },
+    {
+      "text": "become",
+      "pos": "verb",
+      "meaningEn": "begin to be; turn into.",
+      "meaningZh": "变成；变得；适合",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "become",
+        "past": "became",
+        "pp": "become",
+        "s3": "becomes",
+        "ing": "becoming"
+      }
+    },
+    {
+      "text": "begin",
+      "pos": "verb",
+      "meaningEn": "To start, to initiate or take the first step into something.",
+      "meaningZh": "开始",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "begin",
+        "past": "began",
+        "ing": "beginning",
+        "pp": "begun",
+        "s3": "begins"
+      }
+    },
+    {
+      "text": "believe",
+      "pos": "verb",
+      "meaningEn": "To accept as true, particularly without absolute certainty.",
+      "meaningZh": "相信",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "believe",
+        "past": "believed",
+        "s3": "believes",
+        "pp": "believed",
+        "ing": "believing"
+      }
+    },
+    {
+      "text": "break",
+      "pos": "verb",
+      "meaningEn": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+      "meaningZh": "休息；中断；破裂处",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "break",
+        "past": "broke",
+        "pp": "broken",
+        "ing": "breaking",
+        "s3": "breaks",
+        "plural": "breaks"
+      }
+    },
+    {
+      "text": "bring",
+      "pos": "verb",
+      "meaningEn": "To transport toward somebody/somewhere.",
+      "meaningZh": "带来；产生；促使",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "bring",
+        "pp": "brought",
+        "past": "brought",
+        "ing": "bringing",
+        "s3": "brings"
+      }
+    },
+    {
+      "text": "build",
+      "pos": "verb",
+      "meaningEn": "To form by combining materials or parts.",
+      "meaningZh": "建立；建筑；构造",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "build",
+        "pp": "built",
+        "ing": "building",
+        "past": "built",
+        "s3": "builds"
+      }
+    },
+    {
+      "text": "buy",
+      "pos": "verb",
+      "meaningEn": "To obtain in exchange for money or goods.",
+      "meaningZh": "买；获得；买",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "buy",
+        "past": "bought",
+        "ing": "buying",
+        "pp": "bought",
+        "s3": "buys",
+        "plural": "buys"
+      }
+    },
+    {
+      "text": "call",
+      "pos": "verb",
+      "meaningEn": "To request, summon, or beckon.",
+      "meaningZh": "呼叫；访问；打电话",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "call",
+        "pp": "called",
+        "past": "called",
+        "ing": "calling",
+        "plural": "calls",
+        "s3": "calls"
+      }
+    },
+    {
+      "text": "carry",
+      "pos": "verb",
+      "meaningEn": "To lift and take it to another place; to transport by lifting.",
+      "meaningZh": "进位；射程；运载",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "carry",
+        "pp": "carried",
+        "ing": "carrying",
+        "past": "carried",
+        "s3": "carries"
+      }
+    },
+    {
+      "text": "change",
+      "pos": "verb",
+      "meaningEn": "To become something different.",
+      "meaningZh": "变化；找回的零钱；找头",
+      "meaningZhSource": "ecdict",
+      "inflections": {
+        "base": "change",
+        "plural": "changes",
+        "pp": "changed",
+        "ing": "changing",
+        "past": "changed",
+        "s3": "changes"
+      }
+    }
+  ],
+  "generator": {
+    "version": "1.0.0",
+    "builtAt": "2026-11-26T20:14:52.853208Z",
+    "lexicons": {
+      "kaikki": "kaikki_en_mini.jsonl",
+      "ecdict": "ecdict.csv"
+    },
+    "mt": "opus-mt-en-zh (CTranslate2, offline)"
+  }
+}

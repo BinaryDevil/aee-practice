@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T20:31:12.576923Z",
+  "generatedAt": "2026-11-26T20:14:57.522037Z",
   "episodes": [
+    {
+      "number": 2729,
+      "guid": "d8ed7340-d7f6-11f1-bc84-330cae016afa",
+      "title": "Are You Still Wondering How to Use Yet and Already?",
+      "pubDate": "2026-11-26T06:00:00",
+      "durationSec": 1244,
+      "itemCount": 1,
+      "hasBlog": false,
+      "file": "episodes/2729.json"
+    },
     {
       "number": 2728,
       "guid": "bbcb01b0-d7f6-11f1-b1a5-07454610a825",
